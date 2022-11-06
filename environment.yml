@@ -1,0 +1,15 @@
+name: ada-project
+channels:
+  - defaults
+  - conda-forge
+  - anaconda
+  # - fastai
+dependencies:
+  - python=3.9
+  - pip
+  # BASICS
+  - numpy
+  - scipy
+  - pandas
+  - tqdm
+  - ipykernel
