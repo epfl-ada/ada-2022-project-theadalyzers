@@ -34,12 +34,12 @@ All preliminary findings are presented in the `Jupyter Notebook`.
 ### Proposed Timeline
 
 #### Milestone 2
-- Jeff: Generated the `Bag-of-Words Cosine Similarity` matrix and evaluated whether the proposed similarity methodology is reasonable. Wrote the function to transform navigation paths into "Cosine similarity paths". Created the README.
+- Jeff: Generated the `Bag-of-Words Cosine Similarity` matrix and evaluated whether the proposed similarity methodology is reasonable. Wrote the functions to transform navigation paths into "Cosine similarity paths" and assess if paths have strictly increasing Cosine similarity. Created the README.
 - Ginevra: Created the data processing pipeline to extract hyperlink positioning in images and the article. Investigated the distribution of click frequencies with normalization methods.
 - Andres: Wrote the functions for `Forman-Ricci Curvature` calculation and investigated the distribution of curvatures. Investigated the distribution of article in- and out-degrees and drew insights from these.
 
-#### NEED TO FILL BELOW AND SEE IF I MISSED ANYTHING ABOVE
-#### Milestone 3 Proposed Work
-- Jeff : 
-- Ginevra : 
-- Andres : 
+#### Milestone 3 Proposed Work (individual milestones done by December 1, 2022)
+- Jeff : Investigate Cosine similarity as a metric for navigation path success. Work with Andres to complement his approach of investigating graph curvature. 
+- Ginevra : Investigate participants' preferences for hyperlink positioning within the article and in image captions. 
+- Andres : Investigate curvature of graph nodes and relate the findings to categories of each article and Cosine similarity. 
+- Everyone together: draw insights from individual sections to formulate a data story. Design matched experiments to draw valid insights from hyperlink positioning, Cosine document similarity, and graph topology.
