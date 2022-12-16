@@ -1,283 +1,2577 @@
 ,link,#_link_in_img
-0,london,10
-1,george w. bush,5
-2,leonardo da vinci,4
-3,united states,4
-4,greece,4
-5,india,4
-6,england,4
-7,australia,3
-8,westminster abbey,3
-9,belfast,3
-10,japan,3
-11,raphael,3
-12,mona lisa,3
-13,romania,3
-14,warsaw,3
-15,poland,2
-16,norway,2
-17,oslo,2
-18,prague,2
-19,vancouver,2
-20,michelangelo,2
-21,athens,2
-22,mumbai,2
-23,denmark,2
-24,bishop tutu,2
-25,earth's atmosphere,2
-26,canada,2
-27,industrial revolution,2
-28,france,2
-29,berlin,2
-30,mediterranean,2
-31,"national gallery, london",2
-32,odysseus,2
-33,condoleezza rice,2
-34,beijing,2
-35,roman,2
-36,russian,2
-37,guadeloupe,2
-38,jesus,2
-39,magna carta,2
-40,new zealand,2
-41,jewish,2
-42,"washington, d.c.",2
-43,spain,2
-44,hong kong,2
-45,switzerland,2
-46,william hogarth,2
-47,palace of westminster,2
-48,edinburgh,2
-49,eastern,2
-50,christian,2
-51,hindu,2
-52,islamic,2
-53,buddhist,2
-54,shinto,2
-55,sikh,2
-56,baha'i,2
-57,sweden,2
-58,albrecht dürer,2
-59,francisco goya,2
-60,china,2
-61,qur'an,1
-62,rome,1
-63,karl marx,1
-64,croatia,1
-65,luxembourg,1
-66,trafalgar square,1
-67,finland,1
-68,latin alphabet,1
-69,charles ii,1
-70,cyprus,1
-71,orthodox christianity,1
-72,bulgaria,1
-73,heraldry,1
-74,isle of wight,1
-75,football,1
-76,barcelona,1
-77,united states house of representatives,1
-78,thunderstorm,1
-79,optical microscope,1
-80,czech republic,1
-81,living systems,1
-82,euro,1
-83,order of the garter,1
-84,tutu,1
-85,lyndon b. johnson,1
-86,louis armstrong,1
-87,roman god,1
-88,latin,1
-89,sermon on the mount,1
-90,bible,1
-91,belgium,1
-92,first council of nicaea,1
-93,northern ireland,1
-94,mahabharata,1
-95,"martin luther king, jr.",1
-96,jupiter,1
-97,aral sea,1
-98,modern iran.,1
-99,11th century,1
-100,faroe islands,1
-101,saladin,1
-102,nepal,1
-103,åland,1
-104,hiv,1
-105,pope,1
-106,music,1
-107,bangladesh,1
-108,energy,1
-109,light,1
-110,max weber,1
-111,international court of justice,1
-112,the hague,1
-113,european parliament,1
-114,popular vote,1
-115,brazil,1
-116,democracy,1
-117,united nations,1
-118,tour de france,1
-119,beer,1
-120,tony blair,1
-121,robert peel,1
-122,rembrandt,1
-123,jakarta,1
-124,indonesia,1
-125,paris,1
-126,francis of assisi,1
-127,hitler,1
-128,nazism,1
-129,communism,1
-130,octavian,1
-131,romulus augustus,1
-132,byzantine empire,1
-133,colley cibber,1
-134,germany,1
-135,sculptures,1
-136,europe,1
-137,portugal,1
-138,póvoa de varzim,1
-139,the last supper,1
-140,king george vi,1
-141,nikola tesla,1
-142,michael faraday,1
-143,president,1
-144,bush,1
-145,homer,1
-146,cornell university,1
-147,university of chicago,1
-148,thomas cranmer,1
-149,books of common prayer,1
-150,prince george,1
-151,king george v,1
-152,king edward viii,1
-153,trinity college,1
-154,wales,1
-155,engineered,1
-156,larger image,1
-157,scene,1
-158,world heritage site,1
-159,cambodia,1
-160,palladian,1
-161,hot air balloon,1
-162,peter grimes,1
-163,queen victoria,1
-164,trumpet,1
-165,chinese,1
-166,kuwaiti,1
-167,cambridge,1
-168,18th century,1
-169,moon,1
-170,sea of galilee,1
-171,dalai lama,1
-172,carbon dioxide,1
-173,ice age,1
-174,henry james,1
-175,soviet union,1
-176,vienna,1
-177,wimbledon,1
-178,helium,1
-179,fig. 5,1
-180,fig. 2,1
-181,bodyline,1
-182,peter paul rubens,1
-183,munich,1
-184,agamemnon,1
-185,ezra pound,1
-186,national gallery,1
-187,lake tahoe,1
-188,canterbury cathedral,1
-189,andrew johnson,1
-190,grover cleveland,1
-191,california,1
-192,boston,1
-193,x11,1
-194,british empire,1
-195,cassini,1
-196,italy,1
-197,jerusalem,1
-198,16th century,1
-199,felix mendelssohn,1
-200,pompeii,1
-201,danube,1
-202,oil refinery,1
-203,amsterdam,1
-204,italian,1
-205,augustus,1
-206,sculpture,1
-207,science,1
-208,geometry,1
-209,ludwig van beethoven,1
-210,frédéric chopin,1
-211,richard wagner,1
-212,pakistan,1
-213,japanese,1
-214,coventry,1
-215,st paul's cathedral,1
-216,manchester,1
-217,"geneva, switzerland",1
-218,dorset,1
-219,sahara,1
-220,kashmir,1
-221,allah,1
-222,arabic,1
-223,mecca,1
-224,esa,1
-225,jazz,1
-226,florence nightingale,1
-227,magnet,1
-228,pacific ocean,1
-229,southern ocean,1
-230,bucharest,1
-231,akbar,1
-232,portsmouth,1
-233,hammurabi's code of laws,1
-234,jacques-louis david,1
-235,egyptian,1
-236,richard,1
-237,garter,1
-238,mark webber,1
-239,ariel sharon,1
-240,jordan,1
-241,president of the united states,1
-242,new york city,1
-243,st. petersburg,1
-244,tokyo,1
-245,ronald reagan,1
-246,dublin,1
-247,kievan,1
-248,chocolate,1
-249,santorini,1
-250,gold,1
-251,oils,1
-252,cholera,1
-253,vincent van gogh,1
-254,barn owl,1
-255,piano,1
-256,dutch,1
-257,pope john paul ii,1
-258,sequoia,1
-259,sphere,1
-260,henry moore,1
-261,inca,1
-262,zeus,1
-263,himalayan,1
-264,mount everest,1
-265,charlemagne,1
-266,chicago,1
-267,german,1
-268,belgian,1
-269,poem,1
-270,20th century,1
-271,sultan,1
-272,ottoman empire,1
-273,canberra,1
-274,honduras,1
-275,papua new guinea,1
-276,niger,1
-277,granite,1
-278,airbus a380,1
-279,lunar,1
-280,peregrine falcon,1
-281,édouard manet,1
+0,scientific classification,508
+1,,424
+2,animalia,398
+3,time zone,340
+4,chordata,330
+5,binomial name,284
+6,currency,259
+7,government,252
+8,english,191
+9,united states,156
+10,phase,146
+11,united kingdom,144
+12,france,142
+13,england,133
+14,linnaeus,127
+15,aves,125
+16,electrons,117
+17,name,117
+18,appearance,117
+19,mammalia,104
+20,germany,101
+21,magnetic ordering,96
+22,london,93
+23,plantae,87
+24,italy,85
+25,neutrons,80
+26,spain,76
+27,usa,76
+28,russia,67
+29,australia,64
+30,l.,63
+31,french,61
+32,canada,60
+33,sauropsida,56
+34,uk,54
+35,mohs hardness,54
+36,japan,51
+37,poland,48
+38,country,47
+39,india,47
+40,netherlands,46
+41,d,45
+42,belgium,45
+43,china,44
+44,sweden,41
+45,president of the united states,41
+46,latin,41
+47,portugal,39
+48,austria,39
+49,switzerland,39
+50,fossil,37
+51,scotland,37
+52,turkey,37
+53,xe,35
+54,greece,34
+55,south africa,34
+56,brazil,33
+57,(and largest city),33
+58,denmark,33
+59,rn,32
+60,egypt,32
+61,new zealand,32
+62,arabic,32
+63,european union,32
+64,spanish,31
+65,saurischia,31
+66,paris,31
+67,israel,30
+68,new york city,29
+69,indonesia,29
+70,ireland,29
+71,norway,29
+72,euro,29
+73,romania,29
+74,accession to eu,28
+75,mexico,28
+76,constitutional monarchy,28
+77,argentina,28
+78,florida,27
+79,science,27
+80,capital,27
+81,california,26
+82,hungary,26
+83,soviet union,25
+84,dinosauria,24
+85,ukraine,24
+86,finland,24
+87,german,23
+88,czech republic,23
+89,luxembourg,23
+90,berlin,23
+91,elizabeth ii,22
+92,language,22
+93,"washington, d.c.",22
+94,sudan,21
+95,geography,21
+96,sovereign state,21
+97,rome,21
+98,iran,21
+99,arthropoda,21
+100,world war ii,21
+101,philippines,21
+102,thailand,21
+103,christianity,21
+104,industry,21
+105,occupation(s),21
+106,warsaw,21
+107,cuba,20
+108,kr,20
+109,zimbabwe,20
+110,people,20
+111,moscow,20
+112,ar,20
+113,pakistan,20
+114,bulgaria,20
+115,south korea,20
+116,athens,20
+117,slovakia,19
+118,employees,19
+119,gravity,19
+120,theropoda,19
+121,kenya,19
+122,croatia,19
+123,largest city,19
+124,last eruption,19
+125,tanzania,18
+126,people's republic of china,18
+127,lithuania,18
+128,ornithischia,18
+129,history,18
+130,azerbaijan,18
+131,european parliament,18
+132,serbia,17
+133,queen elizabeth ii,17
+134,morocco,17
+135,iraq,17
+136,zambia,17
+137,algeria,17
+138,portuguese,16
+139,jordan,16
+140,vienna,16
+141,georgia,16
+142,europe,16
+143,uganda,16
+144,wales,16
+145,budapest,16
+146,syria,16
+147,north america,16
+148,slovenia,16
+149,bosnia and herzegovina,16
+150,saudi arabia,16
+151,namibia,16
+152,edinburgh,15
+153,jamaica,15
+154,vietnam,15
+155,malaysia,15
+156,novel,15
+157,ist,15
+158,dominican republic,15
+159,russian,15
+160,albania,15
+161,beijing,15
+162,libya,15
+163,sydney,15
+164,westminster abbey,15
+165,singapore,14
+166,prime minister of the united kingdom,14
+167,latvia,14
+168,mozambique,14
+169,colombia,14
+170,ethanol,14
+171,belarus,14
+172,wimbledon,14
+173,angola,14
+174,malawi,14
+175,mauritius,14
+176,kazakhstan,14
+177,nigeria,14
+178,ethiopia,14
+179,bangladesh,13
+180,armenia,13
+181,2005 atlantic hurricane season,13
+182,botswana,13
+183,hong kong,13
+184,insecta,13
+185,chile,13
+186,estonia,13
+187,vertebrata,13
+188,george w. bush,13
+189,city,13
+190,henry viii,13
+191,swaziland,13
+192,tunisia,13
+193,madagascar,12
+194,barcelona,12
+195,lesotho,12
+196,eritrea,12
+197,djibouti,12
+198,somalia,12
+199,cyprus,12
+200,seychelles,12
+201,chicago,12
+202,haiti,12
+203,montenegro,12
+204,everyday life,12
+205,burundi,12
+206,democratic republic of the congo,12
+207,sauropodomorpha,12
+208,english royalty,12
+209,peru,12
+210,gas,12
+211,elizabeth i,12
+212,politics,12
+213,chad,12
+214,nicaragua,12
+215,french open,12
+216,bahamas,12
+217,ecuador,12
+218,cairo,12
+219,buenos aires,12
+220,tokyo,12
+221,archbishop of canterbury,11
+222,stockholm,11
+223,world war i,11
+224,cameroon,11
+225,north sea,11
+226,mongolia,11
+227,melbourne,11
+228,monarchy,11
+229,u.s.,11
+230,malta,11
+231,chinese,11
+232,plato,11
+233,senegal,11
+234,bolivia,11
+235,instrument(s),11
+236,lebanon,11
+237,dutch,11
+238,helium,11
+239,anglican communion,11
+240,yemen,11
+241,seoul,11
+242,triassic,11
+243,qatar,11
+244,brussels,11
+245,ottoman empire,11
+246,venezuela,11
+247,nitrogen,11
+248,ethics,11
+249,puerto rico,10
+250,honduras,10
+251,mediterranean sea,10
+252,madrid,10
+253,acetone,10
+254,bermuda,10
+255,costa rica,10
+256,thomas cranmer,10
+257,usd,10
+258,cretaceous,10
+259,magnetism,10
+260,milan,10
+261,byzantine empire,10
+262,electric charge,10
+263,electric field,10
+264,prague,10
+265,jerusalem,10
+266,apostolic succession,10
+267,u.s. open,10
+268,baltic sea,10
+269,na,10
+270,water,10
+271,religion,10
+272,biology,10
+273,solomon islands,10
+274,nintendo,10
+275,oman,10
+276,jakarta,10
+277,rwanda,10
+278,aristotle,10
+279,music,10
+280,kuwait,10
+281,liverpool,9
+282,united nations,9
+283,episcopal polity,9
+284,english reformation,9
+285,minnesota,9
+286,australian open,9
+287,anglicanism,9
+288,earth,9
+289,taiwan,9
+290,turkmenistan,9
+291,book of common prayer,9
+292,physics,9
+293,inductance,9
+294,sri lanka,9
+295,electrical resistance,9
+296,munich,9
+297,boston,9
+298,central african republic,9
+299,atlantic ocean,9
+300,panama,9
+301,papua new guinea,9
+302,republic of macedonia,9
+303,amsterdam,9
+304,citizenship,9
+305,grenada,9
+306,el salvador,9
+307,monaco,9
+308,pound sterling,9
+309,uruguay,9
+310,ne,9
+311,united states of america,9
+312,mathematics,8
+313,coulomb's law,8
+314,gauss's law,8
+315,scots,8
+316,maxwell's equations,8
+317,ghana,8
+318,electromagnetic radiation,8
+319,cambridge,8
+320,capacitance,8
+321,paraguay,8
+322,manchester,8
+323,cambodia,8
+324,south africa,8
+325,united states dollar,8
+326,islam,8
+327,geneva,8
+328,kant,8
+329,kyrgyzstan,8
+330,electricity,8
+331,democracy,8
+332,tel aviv,8
+333,holy roman empire,8
+334,dublin,8
+335,iceland,8
+336,united arab emirates,8
+337,nationality,8
+338,red sea,8
+339,niger,8
+340,kosovo,8
+341,comoros,8
+342,uzbekistan,8
+343,queen,8
+344,guadeloupe,8
+345,afghanistan,7
+346,detail,7
+347,falkland islands,7
+348,barbados,7
+349,windsor castle,7
+350,guinea,7
+351,shanghai,7
+352,andorra,7
+353,saint lucia,7
+354,eukaryota,7
+355,charles i,7
+356,language and literature,7
+357,guernsey,7
+358,british royalty,7
+359,atlanta,7
+360,hydrogen,7
+361,redshift,7
+362,equatorial guinea,7
+363,liberia,7
+364,mali,7
+365,political philosophy,7
+366,gaelic,7
+367,guatemala,7
+368,frankfurt,7
+369,bahrain,7
+370,africa,7
+371,bristol,7
+372,black sea,7
+373,los angeles,7
+374,mexico city,7
+375,extrasolar planet,7
+376,moldova,7
+377,copenhagen,7
+378,m/s2,7
+379,tonga,7
+380,rj,7
+381,liechtenstein,7
+382,cold war,7
+383,antigua and barbuda,7
+384,vatican city,7
+385,roman catholic church,7
+386,faroe islands,7
+387,nepal,7
+388,american,7
+389,communism,7
+390,roman empire,7
+391,belfast,7
+392,vancouver,7
+393,guyana,6
+394,santiago,6
+395,istanbul,6
+396,british virgin islands,6
+397,gibraltar,6
+398,johannesburg,6
+399,isle of man,6
+400,republic of ireland,6
+401,hg,6
+402,oxygen,6
+403,us,6
+404,guitar,6
+405,c,6
+406,parliamentary,6
+407,cayman islands,6
+408,buddhism,6
+409,michelangelo,6
+410,eu,6
+411,poetry,6
+412,netherlands antilles,6
+413,hanoi,6
+414,hampshire,6
+415,republic of china,6
+416,wellington,6
+417,perth,6
+418,glasgow,6
+419,u.s. dollar,6
+420,togo,6
+421,british empire,6
+422,tony blair,6
+423,microsoft windows,6
+424,mauritania,6
+425,western sahara,6
+426,mumbai,6
+427,charles ii,6
+428,church of england,6
+429,guinea-bissau,6
+430,raphael,6
+431,gabon,6
+432,president,6
+433,belize,6
+434,leonardo da vinci,6
+435,dominica,6
+436,fiji,6
+437,democratic republic of the congo,6
+438,argon,6
+439,saint vincent and the grenadines,6
+440,benin,6
+441,sierra leone,6
+442,tuvalu,6
+443,mj,6
+444,gold,6
+445,helsinki,6
+446,guam,6
+447,sarajevo,6
+448,flag,6
+449,piano,6
+450,roman catholicism,6
+451,alternative rock,6
+452,jersey,6
+453,liberal democrats,6
+454,réunion,6
+455,admission to union,6
+456,universe,6
+457,cosmic microwave background,6
+458,hubble's law,6
+459,classification,6
+460,inflation,6
+461,related instruments,6
+462,metric expansion of space,6
+463,north korea,6
+464,lisbon,6
+465,fyodor dostoevsky,6
+466,history of greece,6
+467,drama,6
+468,oxford,6
+469,roman greece,6
+470,ancient greece,6
+471,big bang,6
+472,mineral,6
+473,greek war of independence,6
+474,carbon dioxide,6
+475,taipei,6
+476,oslo,6
+477,university of cambridge,5
+478,jpn,5
+479,cook islands,5
+480,french polynesia,5
+481,great britain,5
+482,auckland,5
+483,nd,5
+484,mercury,5
+485,world heritage site,5
+486,pb,5
+487,ac,5
+488,mediterranean,5
+489,côte d'ivoire,5
+490,burkina faso,5
+491,vanuatu,5
+492,earths,5
+493,sm,5
+494,hebrew,5
+495,trinidad and tobago,5
+496,neon,5
+497,american samoa,5
+498,cd,5
+499,mo,5
+500,royal navy,5
+501,macau,5
+502,victoria,5
+503,sn,5
+504,gb,5
+505,hymenoptera,5
+506,wikimedia foundation,5
+507,pacific ocean,5
+508,indian ocean,5
+509,astronomy,5
+510,canberra,5
+511,muhammad,5
+512,us$,5
+513,the hague,5
+514,charles dickens,5
+515,san marino,5
+516,tehran,5
+517,tunis,5
+518,kiev,5
+519,eastern,5
+520,george washington,5
+521,tl,5
+522,the beatles,5
+523,tripoli,5
+524,turks and caicos islands,5
+525,acetic acid,5
+526,ru,5
+527,palau,5
+528,hellenistic greece,5
+529,marshall islands,5
+530,adolf hitler,5
+531,ti,5
+532,pd,5
+533,new delhi,5
+534,bucharest,5
+535,bi,5
+536,ba,5
+537,toronto,5
+538,literature,5
+539,dakar,5
+540,bogotá,5
+541,canterbury cathedral,5
+542,saint helena,5
+543,damascus,5
+544,pompeii,5
+545,au,5
+546,ca,5
+547,design and technology,5
+548,iron,5
+549,i,5
+550,it,5
+551,tajikistan,5
+552,ta,5
+553,bangkok,5
+554,cologne,5
+555,maldives,5
+556,os,5
+557,qur'an,5
+558,2004 atlantic hurricane season,5
+559,william ii,5
+560,o,5
+561,"los angeles, california",5
+562,grover cleveland,5
+563,northern ireland,5
+564,george iii,5
+565,anne,5
+566,portsmouth,5
+567,sun,5
+568,wilson,5
+569,asia,5
+570,painting,5
+571,greenland,5
+572,hf,5
+573,martinique,5
+574,lead,5
+575,zinc,5
+576,roman,5
+577,aluminium,5
+578,manila,5
+579,occupation,5
+580,nauru,5
+581,aruba,5
+582,anguilla,5
+583,saint kitts and nevis,5
+584,norfolk,5
+585,dutch dialects,5
+586,kiribati,5
+587,pretoria,5
+588,montserrat,5
+589,british,5
+590,peter paul rubens,5
+591,military dictatorship,4
+592,khartoum,4
+593,palace of westminster,4
+594,stefan edberg,4
+595,jupiter,4
+596,brunei,4
+597,cf,4
+598,es,4
+599,boris becker,4
+600,new caledonia,4
+601,lyndon b. johnson,4
+602,y,4
+603,brabantian,4
+604,rabat,4
+605,philadelphia,4
+606,samoa,4
+607,vincent van gogh,4
+608,zuid-gelders,4
+609,nb,4
+610,polemology,4
+611,2003 atlantic hurricane season,4
+612,hollandic,4
+613,republic of the congo,4
+614,weapons,4
+615,lu,4
+616,east flemish,4
+617,harry s. truman,4
+618,hume,4
+619,descartes,4
+620,ronald reagan,4
+621,west flemish,4
+622,niue,4
+623,pitcairn islands,4
+624,pete sampras,4
+625,indonesian,4
+626,jacques-louis david,4
+627,caracas,4
+628,wallis and futuna,4
+629,r&b,4
+630,middle east,4
+631,bamako,4
+632,banjul,4
+633,marxism,4
+634,utilitarianism,4
+635,asunción,4
+636,geometry,4
+637,jp,4
+638,chlorine,4
+639,bhutan,4
+640,lima,4
+641,rb,4
+642,fm,4
+643,yb,4
+644,osaka,4
+645,aids,4
+646,zr,4
+647,riyadh,4
+648,p,4
+649,ce,4
+650,oceania,4
+651,j. m. w. turner,4
+652,nazi germany,4
+653,esa,4
+654,chinese text,4
+655,mary ii,4
+656,james ii,4
+657,andrew johnson,4
+658,logic,4
+659,tower of london,4
+660,dy,4
+661,w,4
+662,william iv,4
+663,christmas island,4
+664,sea of galilee,4
+665,richard nixon,4
+666,mg,4
+667,$,4
+668,algiers,4
+669,re,4
+670,se,4
+671,ag,4
+672,bratislava,4
+673,stocks,4
+674,tin,4
+675,1,4
+676,psychology,4
+677,socrates,4
+678,abraham lincoln,4
+679,actor,4
+680,lion,4
+681,mayotte,4
+682,ra,4
+683,são tomé and príncipe,4
+684,cape verde,4
+685,comet,4
+686,pt,4
+687,arab-israeli conflict,4
+688,swiss,4
+689,dead sea,4
+690,montreal,4
+691,cr,4
+692,beirut,4
+693,ga,4
+694,aesthetics,4
+695,turin,4
+696,circulating currencies,4
+697,gd,4
+698,coins,4
+699,prc,4
+700,sb,4
+701,television,4
+702,jewish,4
+703,u,4
+704,liberal democrats,4
+705,bissau,4
+706,god,4
+707,laos,4
+708,serbia and montenegro,4
+709,mogadishu,4
+710,french guiana,4
+711,suriname,4
+712,s,4
+713,te,4
+714,cl,4
+715,reptilia,4
+716,kuwait city,4
+717,anarchism,4
+718,br,4
+719,henry ii,4
+720,dwight d. eisenhower,4
+721,principality,4
+722,grand slams,4
+723,am,4
+724,→,4
+725,henry iv,4
+726,ammonia,4
+727,n,4
+728,ulysses s. grant,4
+729,minoan civilization,4
+730,po,4
+731,tashkent,4
+732,montevideo,4
+733,co,4
+734,ir,4
+735,socialism,4
+736,edward vii,4
+737,th,4
+738,henry vii,4
+739,sr,4
+740,thatcher,4
+741,copper,4
+742,pitt the younger,4
+743,disraeli,4
+744,gladstone,4
+745,salisbury,4
+746,baldwin,4
+747,callaghan,4
+748,list,4
+749,cs,4
+750,silver,4
+751,basel,4
+752,tc,4
+753,rh,4
+754,myanmar,4
+755,the holocaust,4
+756,k,4
+757,john,4
+758,oregon,4
+759,jimmy wales,4
+760,woodrow wilson,4
+761,latin alphabet,4
+762,chemistry,4
+763,locke,4
+764,italian,4
+765,british history,4
+766,business studies,4
+767,danube,4
+768,cu,3
+769,u.k.,3
+770,christian,3
+771,hernán cortés,3
+772,edward iv,3
+773,mosaic,3
+774,edward vi,3
+775,albert einstein,3
+776,richard iii,3
+777,numismatics,3
+778,colombo,3
+779,eur,3
+780,cpu,3
+781,theodore roosevelt,3
+782,henry vi,3
+783,tungsten,3
+784,peel,3
+785,islamic,3
+786,meteorological history,3
+787,banknotes,3
+788,henry i,3
+789,stephen,3
+790,henry iii,3
+791,edward i,3
+792,silicon,3
+793,pu,3
+794,prime minister,3
+795,pa,3
+796,edward ii,3
+797,richard ii,3
+798,warren g. harding,3
+799,henry v,3
+800,genoa,3
+801,buddhist,3
+802,ceratopsidae,3
+803,mona lisa,3
+804,jimmy carter,3
+805,george h. w. bush,3
+806,thallium,3
+807,"detroit, michigan",3
+808,osmium,3
+809,ming dynasty,3
+810,joseph stalin,3
+811,nazism,3
+812,addis ababa,3
+813,greek,3
+814,minneapolis,3
+815,south ossetia,3
+816,nickel,3
+817,edward viii,3
+818,george vi,3
+819,existentialism,3
+820,albrecht dürer,3
+821,william hogarth,3
+822,dresden,3
+823,cape town,3
+824,essential oil,3
+825,william iii,3
+826,yugoslavia,3
+827,quito,3
+828,linux,3
+829,swastika,3
+830,mars,3
+831,east timor,3
+832,dorset,3
+833,as,3
+834,animation,3
+835,micronesia,3
+836,calgary,3
+837,julius caesar,3
+838,sodium,3
+839,carbon,3
+840,li,3
+841,james callaghan,3
+842,antarctic,3
+843,arctic,3
+844,columbidae,3
+845,adelaide,3
+846,south,3
+847,north,3
+848,southern,3
+849,northern,3
+850,effects on new orleans,3
+851,aircraft,3
+852,levee failures,3
+853,churchill,3
+854,macmillan,3
+855,spinoza,3
+856,calvin coolidge,3
+857,oceans,3
+858,pacific,3
+859,atlantic,3
+860,william howard taft,3
+861,"martin luther king, jr.",3
+862,mining,3
+863,vietnam war,3
+864,zx spectrum,3
+865,strigiformes,3
+866,uranium,3
+867,claude monet,3
+868,indian,3
+869,paul cézanne,3
+870,john constable,3
+871,thomas gainsborough,3
+872,buckingham palace,3
+873,mao zedong,3
+874,caravaggio,3
+875,john adams,3
+876,saint-pierre and miquelon,3
+877,magnesium,3
+878,blair,3
+879,miocene,3
+880,coventry,3
+881,football,3
+882,cm,3
+883,manchester united,3
+884,john f. kennedy,3
+885,leibniz,3
+886,édouard manet,3
+887,krypton,3
+888,v,3
+889,karl marx,3
+890,tibet,3
+891,(and largest city),3
+892,george v,3
+893,edward v,3
+894,second boer war,3
+895,windsor,3
+896,us dollars,3
+897,bill clinton,3
+898,winston churchill,3
+899,chester a. arthur,3
+900,biodiesel,3
+901,william mckinley,3
+902,reggae,3
+903,er,3
+904,ottawa,3
+905,jesus,3
+906,mir,3
+907,einstein,3
+908,iss,3
+909,marseille,3
+910,abidjan,3
+911,ice hockey,3
+912,monrovia,3
+913,detroit,3
+914,mbabane,3
+915,rhode island,3
+916,hurricane katrina,3
+917,at,3
+918,bk,3
+919,franklin pierce,3
+920,zachary taylor,3
+921,st. petersburg,3
+922,caspian sea,3
+923,icrm,3
+924,interpol,3
+925,nato,3
+926,who,3
+927,trench,3
+928,siege,3
+929,the marquess of salisbury,3
+930,war,3
+931,wittgenstein,3
+932,hobbes,3
+933,athletics,3
+934,in,3
+935,james buchanan,3
+936,tm,3
+937,baker island,3
+938,åland islands,3
+939,augustus,3
+940,ge,3
+941,nz,3
+942,xenon,3
+943,benjamin disraeli,3
+944,languages,3
+945,constituent country,3
+946,sovereign state,3
+947,sc,3
+948,tamil,3
+949,herbert hoover,3
+950,the gambia,3
+951,queen victoria,3
+952,moon,3
+953,northern mariana islands,3
+954,leon trotsky,3
+955,vladimir lenin,3
+956,radon,3
+957,dubai,3
+958,abu dhabi,3
+959,american civil war,3
+960,norfolk island,3
+961,millard fillmore,3
+962,tokelau,3
+963,rail transport,3
+964,qin dynasty,3
+965,benzene,3
+966,polish-lithuanian commonwealth,3
+967,bismuth,3
+968,cocos (keeling) islands,3
+969,windows,3
+970,finance,3
+971,antwerp,3
+972,windows xp,3
+973,congo,3
+974,rutherford b. hayes,3
+975,new york,3
+976,corporate finance,3
+977,lusaka,3
+978,iridium,3
+979,dna,3
+980,un,3
+981,arctic ocean,3
+982,nottingham,3
+983,capitalism,3
+984,william ewart gladstone,3
+985,rio de janeiro,3
+986,arab league,3
+987,states,3
+988,education,3
+989,southern united states,3
+990,doha,3
+991,muscat,3
+992,jews,3
+993,flower,3
+994,são paulo,3
+995,crustacea,3
+996,edward iii,3
+997,nuclear weapons,3
+998,"richmond, virginia",3
+999,allah,3
+1000,west bank,3
+1001,floppy disk,3
+1002,irish,3
+1003,yom kippur war,3
+1004,ussr,3
+1005,platinum,3
+1006,polonium,3
+1007,cleveland,3
+1008,seattle,3
+1009,renaissance,3
+1010,potassium,3
+1011,nouakchott,3
+1012,corvus,3
+1013,lilongwe,3
+1014,houston,3
+1015,british indian ocean territory,3
+1016,abkhazia,3
+1017,john tyler,3
+1018,rhenium,3
+1019,internet,3
+1020,lyon,3
+1021,tantalum,3
+1022,h,3
+1023,antarctica,3
+1024,judaism,3
+1025,baghdad,3
+1026,toluene,3
+1027,river thames,3
+1028,sphenisciformes,3
+1029,martin van buren,3
+1030,si,3
+1031,south georgia and the south sandwich islands,3
+1032,brisbane,3
+1033,invasion,3
+1034,william henry harrison,3
+1035,akrotiri and dhekelia,2
+1036,iodine,2
+1037,ho chi minh city,2
+1038,quantum mechanics,2
+1039,san francisco,2
+1040,actress,2
+1041,prime ministers of the united kingdom,2
+1042,2004,2
+1043,st. augustine,2
+1044,devonian,2
+1045,saint petersburg,2
+1046,john locke,2
+1047,jurassic,2
+1048,passeridae,2
+1049,phosphorus trichloride,2
+1050,the earl of beaconsfield,2
+1051,philosophers,2
+1052,kashmir,2
+1053,dallas,2
+1054,2005,2
+1055,paleocene,2
+1056,13th century,2
+1057,citrus,2
+1058,"new york, new york",2
+1059,thulium,2
+1060,wikisource,2
+1061,educational,2
+1062,neodymium,2
+1063,corinthian war,2
+1064,napoleon i,2
+1065,republic of korea,2
+1066,canterbury,2
+1067,amtrak,2
+1068,erbium,2
+1069,beryllium,2
+1070,indium,2
+1071,francisco goya,2
+1072,japanese,2
+1073,gadolinium,2
+1074,dysprosium,2
+1075,hubble space telescope,2
+1076,i̇stanbul,2
+1077,hafnium,2
+1078,paul mccartney,2
+1079,vanadium,2
+1080,thames,2
+1081,mecca,2
+1082,scandium,2
+1083,ytterbium,2
+1084,constitution,2
+1085,tree,2
+1086,cerium,2
+1087,antimony,2
+1088,us dollar,2
+1089,bishop tutu,2
+1090,2003,2
+1091,henry i beauclerc,2
+1092,richard wagner,2
+1093,józef piłsudski,2
+1094,j. r. r. tolkien,2
+1095,16th century,2
+1096,wolfgang amadeus mozart,2
+1097,enceladus,2
+1098,cambridge university,2
+1099,planet,2
+1100,the lord of the rings,2
+1101,the supremes,2
+1102,richard i the lionheart,2
+1103,zürich,2
+1104,south america,2
+1105,m/s²,2
+1106,karachi,2
+1107,spanish name,2
+1108,no,2
+1109,nobelium,2
+1110,leo tolstoy,2
+1111,fermium,2
+1112,sheffield,2
+1113,kerala,2
+1114,curium,2
+1115,dice rolling,2
+1116,np,2
+1117,electron,2
+1118,economics,2
+1119,alcohols,2
+1120,radium,2
+1121,thorium,2
+1122,la,2
+1123,fr,2
+1124,emirate,2
+1125,sculpture,2
+1126,roman britain,2
+1127,harold wilson,2
+1128,ouagadougou,2
+1129,princeton university,2
+1130,thomas jefferson,2
+1131,praia,2
+1132,yamoussoukro,2
+1133,gambia,2
+1134,selenium,2
+1135,margaret thatcher,2
+1136,silurian,2
+1137,andrew jackson,2
+1138,philosophy of mind,2
+1139,special relativity,2
+1140,commodore 64,2
+1141,b,2
+1142,isaac,2
+1143,kuala lumpur,2
+1144,lincoln,2
+1145,grant,2
+1146,open source,2
+1147,benito mussolini,2
+1148,birmingham,2
+1149,pablo picasso,2
+1150,franklin d. roosevelt,2
+1151,bacteria,2
+1152,johnston atoll,2
+1153,lutetium,2
+1154,art,2
+1155,ancient egypt,2
+1156,henri matisse,2
+1157,ozone,2
+1158,andy warhol,2
+1159,ger,2
+1160,henry viii of england,2
+1161,meitnerium,2
+1162,ecology,2
+1163,eastern orthodox church,2
+1164,lithium,2
+1165,the bahamas,2
+1166,lenin,2
+1167,neutron,2
+1168,parliamentary republic,2
+1169,berlin wall,2
+1170,supreme court of the united states,2
+1171,jorge luis borges,2
+1172,einsteinium,2
+1173,leeds,2
+1174,milton keynes,2
+1175,che guevara,2
+1176,dna structure,2
+1177,james watson,2
+1178,british empiricism,2
+1179,french revolution,2
+1180,analytical marxism,2
+1181,hassium,2
+1182,arithmetic,2
+1183,chromium,2
+1184,chris evert,2
+1185,brabham,2
+1186,qing dynasty,2
+1187,m1 motorway,2
+1188,polish,2
+1189,star wars,2
+1190,maseru,2
+1191,gaborone,2
+1192,pennsylvania railroad,2
+1193,shinto,2
+1194,rock pigeon,2
+1195,seaborgium,2
+1196,funchal,2
+1197,rutherfordium,2
+1198,dundee,2
+1199,solar system,2
+1200,tutsi,2
+1201,mesopotamia,2
+1202,nes,2
+1203,sikh,2
+1204,cny,2
+1205,pr,2
+1206,bohrium,2
+1207,cpu(s),2
+1208,lanthanum,2
+1209,other ingredients,2
+1210,soups,2
+1211,rotterdam,2
+1212,hydrochloric acid,2
+1213,royal air force,2
+1214,ni,2
+1215,trade unionism,2
+1216,english channel,2
+1217,electronics,2
+1218,gbp,2
+1219,jordan river,2
+1220,rubidium,2
+1221,karl popper,2
+1222,†,2
+1223,freetown,2
+1224,samarium,2
+1225,russell,2
+1226,ho,2
+1227,californium,2
+1228,climate,2
+1229,caesium,2
+1230,baha'i,2
+1231,guangzhou,2
+1232,holmium,2
+1233,permian,2
+1234,hindu,2
+1235,coleoptera,2
+1236,hungarian,2
+1237,americium,2
+1238,botany,2
+1239,phosphorus,2
+1240,mark antony,2
+1241,boron,2
+1242,"boston, massachusetts",2
+1243,stephen harper,2
+1244,berkelium,2
+1245,university,2
+1246,nahuatl language,2
+1247,bromine,2
+1248,burma,2
+1249,sulfur,2
+1250,mythology,2
+1251,nairobi,2
+1252,antananarivo,2
+1253,port louis,2
+1254,francis crick,2
+1255,maputo,2
+1256,saturn,2
+1257,fidel castro,2
+1258,film,2
+1259,house of habsburg,2
+1260,james ii & vii,2
+1261,p. leo,2
+1262,calcium,2
+1263,titanium,2
+1264,barium,2
+1265,cubism,2
+1266,dada,2
+1267,"chicago, illinois",2
+1268,indian independence movement,2
+1269,stanley,2
+1270,king arthur,2
+1271,crusaders,2
+1272,romanticism,2
+1273,marcel proust,2
+1274,architecture,2
+1275,la paz,2
+1276,sucre,2
+1277,brasília,2
+1278,tea,2
+1279,aquinas,2
+1280,neptunium,2
+1281,mongol empire,2
+1282,calculus,2
+1283,libreville,2
+1284,sultan,2
+1285,harold macmillan,2
+1286,steel,2
+1287,santorini,2
+1288,galápagos islands,2
+1289,microsoft,2
+1290,michael faraday,2
+1291,wikipedia,2
+1292,suffrage,2
+1293,thomas pynchon,2
+1294,scottish gaelic,2
+1295,mary i,2
+1296,hamburg,2
+1297,western empire,2
+1298,gypsum,2
+1299,soviet,2
+1300,eastern empire,2
+1301,anthony van dyck,2
+1302,league of nations,2
+1303,ruthenium,2
+1304,←,2
+1305,acts of union,2
+1306,sikkim,2
+1307,southampton,2
+1308,immanuel kant,2
+1309,kievan,2
+1310,university of chicago,2
+1311,vivien leigh,2
+1312,richard i,2
+1313,william i,2
+1314,nietzsche,2
+1315,gnome,2
+1316,newton,2
+1317,alfred the great,2
+1318,rousseau,2
+1319,gliese 876,2
+1320,fungi,2
+1321,magna carta,2
+1322,conakry,2
+1323,terbium,2
+1324,ununbium,2
+1325,sanskrit,2
+1326,europium,2
+1327,george ii,2
+1328,celtic park,2
+1329,ariel sharon,2
+1330,anglican,2
+1331,benjamin harrison,2
+1332,carboniferous,2
+1333,kigali,2
+1334,gnu project,2
+1335,kingdom,2
+1336,palladium,2
+1337,german reunification,2
+1338,jazz,2
+1339,book,2
+1340,zeus,2
+1341,zirconium,2
+1342,isle of wight,2
+1343,åland,2
+1344,strontium,2
+1345,chola empire,2
+1346,the aztec world,2
+1347,promethium,2
+1348,praseodymium,2
+1349,he,2
+1350,crystal,2
+1351,fluorine,2
+1352,tourism,2
+1353,roman catholic,2
+1354,dubnium,2
+1355,afrikaans,2
+1356,lawrencium,2
+1357,history of nuclear weapons,2
+1358,order of the bath,2
+1359,trafalgar square,2
+1360,"seattle, washington",2
+1361,apollo 11,2
+1362,pliocene,2
+1363,charlemagne,2
+1364,super mario bros.,2
+1365,plutonium,2
+1366,molybdenum,2
+1367,glass,2
+1368,modern germany,2
+1369,colley cibber,2
+1370,navassa island,2
+1371,fascism,2
+1372,constitutional monarchy,2
+1373,lake district,2
+1374,clothing,2
+1375,pope,2
+1376,francium,2
+1377,astatine,2
+1378,hiv,2
+1379,washington,2
+1380,protactinium,2
+1381,new forest,2
+1382,svalbard,2
+1383,abuja,2
+1384,rail transportation equipment,2
+1385,md,2
+1386,ununtrium,2
+1387,mendelevium,2
+1388,20th century,2
+1389,roentgenium,2
+1390,ship,2
+1391,battle of austerlitz,2
+1392,quark,2
+1393,actinium,2
+1394,united states,2
+1395,darmstadtium,2
+1396,george iv,2
+1397,gallium,2
+1398,almaty,2
+1399,fe,2
+1400,world trade organization,2
+1401,china (prc),2
+1402,rhode island,2
+1403,radio,2
+1404,bologna,2
+1405,yttrium,2
+1406,niobium,2
+1407,structure,2
+1408,james knox polk,2
+1409,harare,2
+1410,18th century,2
+1411,"national gallery, london",2
+1412,district of columbia,2
+1413,odysseus,2
+1414,state of israel,2
+1415,las vegas,2
+1416,trumpet,2
+1417,rhodium,2
+1418,west virginia,2
+1419,andes,2
+1420,wake island,2
+1421,laridae,2
+1422,manganese,2
+1423,georgetown,2
+1424,earth's atmosphere,2
+1425,virgin islands,2
+1426,al,2
+1427,puerto rico,2
+1428,germanium,2
+1429,northern mariana islands,2
+1430,euphrates,2
+1431,jarvis island,2
+1432,gerald ford,2
+1433,cadmium,2
+1434,ad,2
+1435,tigris,2
+1436,johnston atoll,2
+1437,formula one,2
+1438,kingman reef,2
+1439,midway atoll,2
+1440,west virginia,2
+1441,arsenic,2
+1442,genetics,2
+1443,george i,2
+1444,palmyra atoll,2
+1445,ununpentium,2
+1446,sandringham house,2
+1447,technetium,2
+1448,faroese,2
+1449,ununquadium,2
+1450,baltimore,2
+1451,king george v,2
+1452,sterling,2
+1453,gautama buddha,2
+1454,world health organization,2
+1455,pr china,2
+1456,frankfurt am main,2
+1457,buddhahood,2
+1458,african union,2
+1459,lunar,2
+1460,pali canon,2
+1461,zionism,2
+1462,accra,2
+1463,hindi,2
+1464,condoleezza rice,2
+1465,x11,2
+1466,rembrandt,2
+1467,tellurium,2
+1468,howland island,2
+1469,independence,2
+1470,björn borg,2
+1471,mn,2
+1472,senate,2
+1473,cobalt,2
+1474,tour de france,2
+1475,industrial revolution,2
+1476,john mcenroe,2
+1477,tim henman,2
+1478,democratic,2
+1479,venus,1
+1480,american english,1
+1481,household income,1
+1482,empiricism,1
+1483,popular,1
+1484,mississippi,1
+1485,wall street,1
+1486,adam smith,1
+1487,national park system,1
+1488,asteroids,1
+1489,executive branch,1
+1490,uranus,1
+1491,sydney newman,1
+1492,colorado,1
+1493,alexander hamilton,1
+1494,darwin,1
+1495,neptune,1
+1496,national capital territory of delhi,1
+1497,irish sea,1
+1498,comets,1
+1499,supreme court,1
+1500,rocky,1
+1501,mars reconnaissance orbiter,1
+1502,cello,1
+1503,pyramids,1
+1504,jack kerouac,1
+1505,15,1
+1506,great schism,1
+1507,parliament,1
+1508,akira kurosawa,1
+1509,former yugoslav republic of macedonia,1
+1510,"newark, new jersey",1
+1511,pterosauria,1
+1512,plesiosauria,1
+1513,testudines,1
+1514,white-tailed eagle,1
+1515,stonehenge,1
+1516,bronze age,1
+1517,white cliffs of dover,1
+1518,c. lupus,1
+1519,isambard kingdom brunel,1
+1520,national parks of england and wales,1
+1521,york,1
+1522,coal,1
+1523,diamonds,1
+1524,king henry viii,1
+1525,"king james i, also known as king james vi of scotland",1
+1526,queen mary i,1
+1527,european union,1
+1528,london underground,1
+1529,battle of normandy,1
+1530,fall of france,1
+1531,bombay,1
+1532,#government,1
+1533,tex,1
+1534,anthropology,1
+1535,soccer ball,1
+1536,r. buckminster-fuller,1
+1537,house,1
+1538,legislative branch,1
+1539,separation of powers,1
+1540,cambrian,1
+1541,bill of rights,1
+1542,the netherlands,1
+1543,pope benedict xvi,1
+1544,simón bolívar,1
+1545,eagle palms,1
+1546,the philippines,1
+1547,civil war,1
+1548,declaration of independence,1
+1549,people’s republic of china,1
+1550,literacy,1
+1551,kochi,1
+1552,primary languages,1
+1553,j. j. thomson,1
+1554,western roman empire,1
+1555,"baltimore, maryland",1
+1556,milvinae,1
+1557,scouting,1
+1558,nicotiana tabacum,1
+1559,a new hope,1
+1560,mathematician,1
+1561,francis of assisi,1
+1562,robert peel,1
+1563,scottish mythology,1
+1564,arecaceae,1
+1565,quartz,1
+1566,physicist,1
+1567,bear,1
+1568,hitler,1
+1569,hadrian's wall,1
+1570,roads,1
+1571,pan paniscus,1
+1572,triceratops,1
+1573,beer,1
+1574,denver,1
+1575,medicine,1
+1576,barack obama,1
+1577,roc,1
+1578,natural selection,1
+1579,arnold schwarzenegger,1
+1580,martina navratilova,1
+1581,crick,1
+1582,watson,1
+1583,louis pasteur,1
+1584,microscope,1
+1585,selection pressure,1
+1586,trains,1
+1587,eukaryotic,1
+1588,codons,1
+1589,atp,1
+1590,mitochondria,1
+1591,war on terrorism,1
+1592,castro,1
+1593,popular vote,1
+1594,louisville,1
+1595,wine,1
+1596,canis simensis,1
+1597,yen,1
+1598,eurovision,1
+1599,bob dylan,1
+1600,richmond,1
+1601,rudolf vrba,1
+1602,6th-century,1
+1603,canis mesomelas,1
+1604,"river thames, london, england, united kingdom",1
+1605,house of representatives,1
+1606,odinic,1
+1607,speaker of the house,1
+1608,international court of justice,1
+1609,catholic,1
+1610,max weber,1
+1611,charles i of england,1
+1612,"mary, queen of scots",1
+1613,f,1
+1614,super rugby,1
+1615,the relapse,1
+1616,the romantic movement,1
+1617,thomas hobbes,1
+1618,kansas city,1
+1619,game theory,1
+1620,newark,1
+1621,"elizabeth ii, duke of normandy",1
+1622,salt lake city,1
+1623,columbus,1
+1624,4-2-0,1
+1625,james polk,1
+1626,nashville,1
+1627,discovery of electron,1
+1628,ernest rutherford,1
+1629,california redwood,1
+1630,san jose,1
+1631,brute force attack,1
+1632,bread,1
+1633,tyrannosaurus,1
+1634,saurischian,1
+1635,tyrannosaurus rex,1
+1636,sculptures,1
+1637,j. k. rowling,1
+1638,liberal democrat,1
+1639,f. silvestris,1
+1640,walt disney,1
+1641,lille,1
+1642,cooperative,1
+1643,ninth century,1
+1644,turks and caicos,1
+1645,samoa and western samoa,1
+1646,st kitts and nevis,1
+1647,ornithischian,1
+1648,$crooge,1
+1649,tsar bomba,1
+1650,stuttgart,1
+1651,state,1
+1652,europeans,1
+1653,south asians,1
+1654,republic of liberia,1
+1655,details,1
+1656,bottlenose dolphin,1
+1657,gothenburg,1
+1658,plymouth,1
+1659,monty python,1
+1660,the fertile crescent,1
+1661,international scouting movement,1
+1662,myth series,1
+1663,aberdeen,1
+1664,murray river,1
+1665,st helena,1
+1666,ceylon,1
+1667,"felipe, prince of asturias (future philip ii)",1
+1668,saxophone,1
+1669,hst,1
+1670,planetary nebula,1
+1671,citrus ×limon,1
+1672,#symbols,1
+1673,"dakota, minnesota and eastern railroad",1
+1674,james garfield,1
+1675,english:,1
+1676,valparaíso,1
+1677,spanish:,1
+1678,russian federation,1
+1679,volga river,1
+1680,aphid,1
+1681,edmond halley,1
+1682,philip ii (i of portugal),1
+1683,juvenile crime,1
+1684,easter island,1
+1685,brunei darussalam,1
+1686,octavian,1
+1687,zn,1
+1688,james ii and vii,1
+1689,oliver cromwell,1
+1690,james i of england,1
+1691,romulus augustus,1
+1692,capitals,1
+1693,taiwan (roc),1
+1694,apple macintosh,1
+1695,the origin of species,1
+1696,biologist,1
+1697,geologist,1
+1698,seventh century,1
+1699,cultivar group,1
+1700,a. graveolens,1
+1701,trinity,1
+1702,a johnson,1
+1703,turdidae,1
+1704,55 cancri a,1
+1705,hymn of the russian federation,1
+1706,north pacific ocean,1
+1707,ivan,1
+1708,politics of the uk,1
+1709,lr,1
+1710,macedonia,1
+1711,jan mayen,1
+1712,most christian majesty,1
+1713,automobile,1
+1714,astrology,1
+1715,meteor showers,1
+1716,above,1
+1717,french southern territories,1
+1718,austerlitz,1
+1719,napoleon i of france,1
+1720,lake baikal,1
+1721,welsh,1
+1722,austrians,1
+1723,uuh,1
+1724,james k. polk,1
+1725,james monroe,1
+1726,royal marines,1
+1727,c++,1
+1728,benedict xvi,1
+1729,9th century,1
+1730,česká republika,1
+1731,dimetrodon,1
+1732,ipod,1
+1733,shànghǎi,1
+1734,běijīng,1
+1735,#geography and climate,1
+1736,renminbi yuan,1
+1737,imperial china,1
+1738,benjamin britten,1
+1739,croatians,1
+1740,poles,1
+1741,franks,1
+1742,crimean war,1
+1743,sir robert peel,1
+1744,the duke of wellington,1
+1745,gold standard,1
+1746,napoleonic wars,1
+1747,william pitt the younger,1
+1748,british east india company,1
+1749,alcohol,1
+1750,trumpeter,1
+1751,paleontology,1
+1752,engineering,1
+1753,visual arts,1
+1754,anatomy,1
+1755,alphabet,1
+1756,nobel peace prize,1
+1757,quantum chemistry,1
+1758,poor law,1
+1759,east india company,1
+1760,dutchmen,1
+1761,uuo,1
+1762,belgians,1
+1763,frenchmen,1
+1764,uuq,1
+1765,iraq war,1
+1766,minimum wage,1
+1767,trade unions,1
+1768,north sea oil,1
+1769,northern ireland's,1
+1770,suez canal,1
+1771,treaty of versailles,1
+1772,enfranchisement,1
+1773,stanley baldwin,1
+1774,house of lords,1
+1775,house of commons,1
+1776,partition of africa,1
+1777,kt,1
+1778,stamp,1
+1779,perl,1
+1780,13th,1
+1781,↓,1
+1782,wikinews,1
+1783,wikispecies,1
+1784,erik möller,1
+1785,william i the conqueror,1
+1786,pascal,1
+1787,multi-lingual,1
+1788,red kite,1
+1789,gcb,1
+1790,william ii rufus,1
+1791,19th century,1
+1792,all you need is love,1
+1793,bh,1
+1794,space race,1
+1795,peaceful coexistence,1
+1796,congress,1
+1797,düsseldorf,1
+1798,disulfide,1
+1799,kyiv,1
+1800,d-day,1
+1801,expressionism,1
+1802,bison,1
+1803,john pershing,1
+1804,trenches,1
+1805,northeastern france,1
+1806,trench warfare,1
+1807,al `uyūn (العيون),1
+1808,buckingham house,1
+1809,aberystwyth,1
+1810,cave,1
+1811,cardiff,1
+1812,tel aviv,1
+1813,st. petersburg,1
+1814,rio de janeiro,1
+1815,invasion of grenada,1
+1816,erection of the berlin wall,1
+1817,marshall plan,1
+1818,brown,1
+1819,niagara falls,1
+1820,ds,1
+1821,ukulele,1
+1822,feynman,1
+1823,von neumann,1
+1824,bohr,1
+1825,planck,1
+1826,schrödinger equation,1
+1827,university of bristol,1
+1828,pythagoras,1
+1829,pbr3,1
+1830,third polish republic,1
+1831,pteridophyta,1
+1832,bryophyta,1
+1833,ordovician,1
+1834,jane austen,1
+1835,abbasid caliphate,1
+1836,islamic republic of iran,1
+1837,history of the party,1
+1838,pitt,1
+1839,stratford-upon-avon,1
+1840,emperor penguins,1
+1841,magellanic penguin,1
+1842,krill,1
+1843,african penguin,1
+1844,falco,1
+1845,hippotigris,1
+1846,garden,1
+1847,john paul ii,1
+1848,atp tour world championship,1
+1849,"san jose, california",1
+1850,tigers,1
+1851,charge,1
+1852,mahatma gandhi,1
+1853,mathematical analysis,1
+1854,wake island,1
+1855,t roosevelt,1
+1856,b harrison,1
+1857,arthur,1
+1858,garfield,1
+1859,hayes,1
+1860,póvoa de varzim,1
+1861,buchanan,1
+1862,pierce,1
+1863,fillmore,1
+1864,taylor,1
+1865,polk,1
+1866,tyler,1
+1867,w harrison,1
+1868,van buren,1
+1869,jackson,1
+1870,monroe,1
+1871,mckinley,1
+1872,taft,1
+1873,colours,1
+1874,harding,1
+1875,lady beetle,1
+1876,latin america,1
+1877,gw bush,1
+1878,ghw bush,1
+1879,reagan,1
+1880,carter,1
+1881,ford,1
+1882,nixon,1
+1883,l johnson,1
+1884,kennedy,1
+1885,eisenhower,1
+1886,truman,1
+1887,f roosevelt,1
+1888,hoover,1
+1889,coolidge,1
+1890,jefferson,1
+1891,j adams,1
+1892,extinct,1
+1893,bacon,1
+1894,eu25,1
+1895,human race,1
+1896,gravitation,1
+1897,stephen hawking,1
+1898,ska,1
+1899,miami,1
+1900,section below,1
+1901,joel brand,1
+1902,pan,1
+1903,north atlantic treaty organisation,1
+1904,sitting bull,1
+1905,tb,1
+1906,dwight eisenhower,1
+1907,apollo,1
+1908,hm queen elizabeth ii,1
+1909,uup,1
+1910,dice,1
+1911,trees,1
+1912,athenian,1
+1913,political society,1
+1914,first world war,1
+1915,western front,1
+1916,parliamentary system,1
+1917,folk,1
+1918,princeton,1
+1919,erwin rommel (absent),1
+1920,flowers,1
+1921,cheese,1
+1922,italian war of 1521,1
+1923,european union members,1
+1924,empire of japan,1
+1925,persia,1
+1926,cornell,1
+1927,stag beetle,1
+1928,roman law,1
+1929,palmyra atoll,1
+1930,jiao,1
+1931,amtrak's,1
+1932,"bahamas, the",1
+1933,british pound,1
+1934,advertising,1
+1935,natural gas,1
+1936,harry potter,1
+1937,donald bradman,1
+1938,cast and characters,1
+1939,congo (drc),1
+1940,uk parliament,1
+1941,sovereign states,1
+1942,mummy,1
+1943,seinfeld,1
+1944,forrest gump,1
+1945,macbeth,1
+1946,"china, people’s republic of",1
+1947,"congo, democratic republic of the",1
+1948,union,1
+1949,"congo, republic of the",1
+1950,midway atoll,1
+1951,kingman reef,1
+1952,jarvis island,1
+1953,howland island,1
+1954,louis xiv,1
+1955,taiwan (republic of china),1
+1956,palestine,1
+1957,northern cyprus,1
+1958,"macedonia, republic of",1
+1959,"korea, south",1
+1960,"korea, north",1
+1961,sen,1
+1962,japanese yen,1
+1963,"gambia, the",1
+1964,côte d’ivoire,1
+1965,"houston, texas",1
+1966,smoking,1
+1967,the university of texas at austin,1
+1968,f.b.i. director,1
+1969,andriyivskyy descent,1
+1970,santiago de chile,1
+1971,william of normandy,1
+1972,atheist,1
+1973,autocratic,1
+1974,urban pop,1
+1975,planes,1
+1976,aircraft carriers,1
+1977,united kingdom,1
+1978,south korea,1
+1979,new zealand,1
+1980,§7,1
+1981,aleksandr vasilevsky,1
+1982,aleksandr vasilyevskiy,1
+1983,gb£,1
+1984,danish krags,1
+1985,us krags,1
+1986,norwegian krags,1
+1987,titi alakija,1
+1988,united states virgin islands,1
+1989,continent,1
+1990,the drc,1
+1991,kierkegaard,1
+1992,congo-kinshasa,1
+1993,congo-brazzaville,1
+1994,nirvana,1
+1995,konrad lorenz,1
+1996,oil,1
+1997,falco (part),1
+1998,guevara,1
+1999,trotsky,1
+2000,smith,1
+2001,co2,1
+2002,united states senate,1
+2003,cryptography,1
+2004,the last supper,1
+2005,semiconductors,1
+2006,inca empire,1
+2007,destroyed 28 january 1986,1
+2008,galactic plane,1
+2009,galactic,1
+2010,milky way,1
+2011,speed of light,1
+2012,himalayan,1
+2013,"dallas, texas",1
+2014,dr congo,1
+2015,m/d-21 blackbird,1
+2016,last supper,1
+2017,u.s.a,1
+2018,heliocentric,1
+2019,kurt cobain,1
+2020,pm,1
+2021,drawing,1
+2022,mario,1
+2023,canterbury crusaders,1
+2024,1516,1
+2025,15th century,1
+2026,diplodocus carnegiei,1
+2027,belgian,1
+2028,philosopher,1
+2029,batman,1
+2030,nintendo ds,1
+2031,photography,1
+2032,usd$,1
+2033,celtic mythology,1
+2034,thai,1
+2035,matilda of boulogne,1
+2036,can,1
+2037,mount everest,1
+2038,day,1
+2039,"""ports and versions""",1
+2040,the sea that begins in persia,1
+2041,space station,1
+2042,thor,1
+2043,lerwick,1
+2044,svartálfar,1
+2045,cratons,1
+2046,craton,1
+2047,henry moore,1
+2048,explorer i,1
+2049,inca,1
+2050,sputnik 2,1
+2051,sputnik 1,1
+2052,thomas becket,1
+2053,sphere,1
+2054,babe ruth,1
+2055,visual binary orbit,1
+2056,odin,1
+2057,macau sar,1
+2058,pollinator,1
+2059,politics in the united kingdom,1
+2060,bouvet island,1
+2061,norwich,1
+2062,const. monarchy,1
+2063,mikhail gorbachev,1
+2064,columba,1
+2065,prime minister of the uk,1
+2066,james bond,1
+2067,"horatio nelson, 1st viscount nelson",1
+2068,persian gulf,1
+2069,the rolling stones,1
+2070,famicom,1
+2071,cn,1
+2072,hutu,1
+2073,"arthur wellesley, 1st duke of wellington",1
+2074,p'yŏngyang,1
+2075,osama bin laden,1
+2076,synthesizer,1
+2077,são tomé,1
+2078,porto-novo,1
+2079,taxonomy,1
+2080,ant,1
+2081,las palmas de gran canaria,1
+2082,el aaiún,1
+2083,wasp,1
+2084,hinduism,1
+2085,airbus a380,1
+2086,buddha,1
+2087,windows 2000,1
+2088,st. vincent,1
+2089,ears,1
+2090,maize,1
+2091,southern africa,1
+2092,granite,1
+2093,diabetes mellitus,1
+2094,northern africa,1
+2095,john howard,1
+2096,poem,1
+2097,gaza,1
+2098,myanmar (burma),1
+2099,peregrine falcon,1
+2100,pyongyang,1
+2101,glaciers,1
+2102,mt,1
+2103,homo sapiens,1
+2104,middle ages,1
+2105,uss wisconsin,1
+2106,wisconsin (bb-64),1
+2107,lomé,1
+2108,genetic data,1
+2109,protein,1
+2110,eastern africa,1
+2111,rice,1
+2112,james joyce,1
+2113,dartmoor,1
+2114,eagle,1
+2115,tiger,1
+2116,weimar republic,1
+2117,south georgia and south sandwich islands,1
+2118,peak district,1
+2119,snowdonia,1
+2120,yorkshire dales,1
+2121,colour,1
+2122,the broads,1
+2123,gangtok,1
+2124,first crusade,1
+2125,scg,1
+2126,lagos,1
+2127,dante alighieri,1
+2128,pat cash,1
+2129,destroyed 1 february 2003,1
+2130,wheat,1
+2131,luther,1
+2132,nourishment,1
+2133,animal rights,1
+2134,world cup,1
+2135,repubblica italiana,1
+2136,numismatist,1
+2137,kafka,1
+2138,heraldic,1
+2139,sanssouci palace,1
+2140,miguel de cervantes,1
+2141,galileo galilei,1
+2142,donald duck,1
+2143,house sparrow,1
+2144,christopher columbus,1
+2145,cathedral,1
+2146,sequoia,1
+2147,sodium sulfate,1
+2148,pope john paul ii,1
+2149,fig. 2,1
+2150,sandringham,1
+2151,lake tahoe,1
+2152,national gallery,1
+2153,ezra pound,1
+2154,agamemnon,1
+2155,bodyline,1
+2156,fig. 5,1
+2157,"perth, western australia",1
+2158,saigon,1
+2159,bird,1
+2160,ganges,1
+2161,baseball,1
+2162,basketball,1
+2163,hey jude,1
+2164,sahara,1
+2165,rg,1
+2166,i want to hold your hand,1
+2167,pt:,1
+2168,t. rex,1
+2169,h5n1,1
+2170,frankenstein,1
+2171,lance armstrong,1
+2172,brass,1
+2173,he:,1
+2174,ru:,1
+2175,bay of bengal,1
+2176,fr:,1
+2177,es:,1
+2178,en:,1
+2179,ceratopsinae,1
+2180,me,1
+2181,western,1
+2182,revolution,1
+2183,sgt. pepper's lonely hearts club band,1
+2184,magnet,1
+2185,"denver, colorado",1
+2186,sports,1
+2187,16 cygni b,1
+2188,common tern,1
+2189,e. pacific,1
+2190,ice age,1
+2191,see text,1
+2192,the magic flute,1
+2193,thucydides,1
+2194,españa (spain),1
+2195,river,1
+2196,hydrology,1
+2197,brighton,1
+2198,great bustard,1
+2199,ernest hemingway,1
+2200,dalai lama,1
+2201,bantu,1
+2202,beatles for sale,1
+2203,henry james,1
+2204,modern greek state,1
+2205,donald knuth,1
+2206,winter,1
+2207,greek revolutionaries,1
+2208,battle of france,1
+2209,great lakes,1
+2210,davis cup,1
+2211,diane keaton,1
+2212,tennis,1
+2213,australian rules football,1
+2214,american football,1
+2215,reunification,1
+2216,canada geese,1
+2217,aquila,1
+2218,stoics,1
+2219,nicolaus copernicus,1
+2220,heliocentric system,1
+2221,sg,1
+2222,ludwig van beethoven,1
+2223,frédéric chopin,1
+2224,felix mendelssohn,1
+2225,andorrans,1
+2226,federal council,1
+2227,herring gull,1
+2228,great black-backed gull,1
+2229,francis drake,1
+2230,stornoway,1
+2231,hebrides,1
+2232,google,1
+2233,bertrand russell,1
+2234,labor union,1
+2235,adam smith's,1
+2236,multilingual,1
+2237,economic,1
+2238,drought,1
+2239,carrier,1
+2240,danish,1
+2241,27 million,1
+2242,peace,1
+2243,assyrian,1
+2244,parthenon,1
+2245,saladin's grave in damascus,1
+2246,diego velázquez,1
+2247,north africa,1
+2248,scottish highlands,1
+2249,canaletto,1
+2250,european,1
+2251,tv,1
+2252,north african,1
+2253,british isles,1
+2254,thomas jefferson's,1
+2255,newspaper,1
+2256,the marriage of figaro,1
+2257,cassini,1
+2258,catholic church,1
+2259,the temptations,1
+2260,canute,1
+2261,st edward the confessor,1
+2262,dante,1
+2263,mind,1
+2264,elizabeth ii of the united kingdom,1
+2265,martina navrátilová,1
+2266,james i,1
+2267,cassini-huygens,1
+2268,asteroid,1
+2269,"oliver cromwell, lord protector",1
+2270,ceres,1
+2271,galileo,1
+2272,bbc,1
+2273,axe,1
+2274,db,1
+2275,"geneva, switzerland",1
+2276,st paul's cathedral,1
+2277,celtic,1
+2278,folk music,1
+2279,guitars,1
+2280,military junta,1
+2281,mao,1
+2282,the hobbit,1
+2283,hcl,1
+2284,c. s. lewis,1
+2285,"las vegas, nevada",1
+2286,rap,1
+2287,uut,1
+2288,william renshaw,1
+2289,gettysburg,1
+2290,terry rance,1
+2291,bob sawyer,1
+2292,african geography,1
+2293,homer,1
+2294,bush,1
+2295,equatorial guinea,1
+2296,the gambia,1
+2297,geography of asia,1
+2298,nikola tesla,1
+2299,light,1
+2300,cornell university,1
+2301,rowan williams,1
+2302,desmond tutu,1
+2303,edward i longshanks,1
+2304,computers,1
+2305,type d,1
+2306,type h,1
+2307,oil refinery,1
+2308,côte d'ivoire,1
+2309,type j,1
+2310,prince charles,1
+2311,*,1
+2312,missouri river,1
+2313,maya civilization,1
+2314,princess anne,1
+2315,princess mary,1
+2316,james vii,1
+2317,james vi,1
+2318,european geography,1
+2319,prince james,1
+2320,james vi/james i of england,1
+2321,volcanoes,1
+2322,central & south american geography,1
+2323,geography of the middle east,1
+2324,republic of the congo,1
+2325,type e,1
+2326,type a,1
+2327,united nations,1
+2328,bible,1
+2329,sierra leone,1
+2330,aral sea,1
+2331,catholicism,1
+2332,castra,1
+2333,sulfuric acid,1
+2334,western sahara,1
+2335,mahabharata,1
+2336,ho chi minh,1
+2337,11th century,1
+2338,saudi arabia,1
+2339,modern iran.,1
+2340,united arab emirates,1
+2341,bosnia and herzegovina,1
+2342,turkish republic of northern cyprus,1
+2343,saladin,1
+2344,são tomé and príncipe,1
+2345,energy,1
+2346,hirundinidae,1
+2347,thunderstorm,1
+2348,portuguese communist party,1
+2349,medal of honour,1
+2350,united states house of representatives,1
+2351,hồ chí minh,1
+2352,orthodox christianity,1
+2353,heraldry,1
+2354,history of south africa in the apartheid era,1
+2355,tutu,1
+2356,grand duchy of luxembourg,1
+2357,the franks,1
+2358,philosophy,1
+2359,global spread,1
+2360,colorado river,1
+2361,genghis khan,1
+2362,bill gates,1
+2363,publishing,1
+2364,m6 motorway,1
+2365,mini,1
+2366,"louisville, kentucky",1
+2367,counting,1
+2368,etoh,1
+2369,navassa island,1
+2370,himno nacional mexicano,1
+2371,m25 motorway,1
+2372,lake superior,1
+2373,peter grimes,1
+2374,leicester,1
+2375,"chicago, il",1
+2376,mississippi river,1
+2377,united states numbered highways,1
+2378,ununhexium,1
+2379,humphry davy,1
+2380,be,1
+2381,see complete listing.,1
+2382,george walker bush,1
+2383,gorilla,1
+2384,maya mythology,1
+2385,election,1
+2386,nazi,1
+2387,atoms,1
+2388,kuwaiti,1
+2389,tenzing norgay,1
+2390,uub,1
+2391,edmund hillary,1
+2392,khumbu himal,1
+2393,declared,1
+2394,philip ii,1
+2395,ms,1
+2396,windows vista,1
+2397,hot air balloon,1
+2398,upsilon andromedae a,1
+2399,palladian,1
+2400,denis law,1
+2401,cape verde,1
+2402,fedora core,1
+2403,differential equations,1
+2404,topology,1
+2405,trigonometry,1
+2406,central african republic,1
+2407,wayne rooney,1
+2408,united states constitution,1
+2409,gulf of mexico,1
+2410,papal conclave,1
+2411,benedictus xvi,1
+2412,books of common prayer,1
+2413,napoleon,1
+2414,australian,1
+2415,jet engine,1
+2416,prince george,1
+2417,train,1
+2418,derby,1
+2419,burkina faso,1
+2420,political economist,1
+2421,king edward viii,1
+2422,volt,1
+2423,king george vi,1
+2424,demographics,1
+2425,parliamentary democracy,1
+2426,gaza strip,1
+2427,trinity college,1
+2428,gilles villeneuve,1
+2429,larger image,1
+2430,scene,1
+2431,johann sebastian bach,1
+2432,rf,1
+2433,first council of nicaea,1
+2434,frederick douglass,1
+2435,arab nations,1
+2436,economist,1
+2437,ba'athist iraq,1
+2438,mark webber,1
+2439,aiberdeen,1
+2440,palestinian territories,1
+2441,formic acid,1
+2442,garter,1
+2443,iron(iii) chloride,1
+2444,richard,1
+2445,dates,1
+2446,iranic peoples,1
+2447,minstrel show,1
+2448,cb,1
+2449,ijn,1
+2450,medieval greece,1
+2451,pianist,1
+2452,aus,1
+2453,keynes,1
+2454,wagner,1
+2455,goethe,1
+2456,ice,1
+2457,enlightenment,1
+2458,wtoo,1
+2459,marx,1
+2460,malthus,1
+2461,algerian,1
+2462,conquest,1
+2463,union flag,1
+2464,chemical element,1
+2465,protons,1
+2466,book of kells,1
+2467,€,1
+2468,egyptian,1
+2469,hammurabi's code of laws,1
+2470,sermon on the mount,1
+2471,paul cairns,1
+2472,currencies,1
+2473,whitney joins the jams,1
+2474,prunus,1
+2475,the poet,1
+2476,anglo-saxon england,1
+2477,wto,1
+2478,macedon,1
+2479,↑,1
+2480,ottoman,1
+2481,capitalist,1
+2482,ku klux klan,1
+2483,14th amendment,1
+2484,sherman,1
+2485,terry wapram,1
+2486,saturn v,1
+2487,bahá'í faith,1
+2488,reptiles,1
+2489,virtuti militari,1
+2490,birds,1
+2491,mammals,1
+2492,"sir robert peel, bt",1
+2493,telephone,1
+2494,encyclopædia britannica,1
+2495,akbar,1
+2496,polish-soviet war,1
+2497,galaxy,1
+2498,southern ocean,1
+2499,barnacles,1
+2500,barn owl,1
+2501,spiders,1
+2502,laws in wales acts,1
+2503,atheism,1
+2504,species table,1
+2505,establishment,1
+2506,auto racing,1
+2507,optical microscope,1
+2508,nor,1
+2509,carl lewis,1
+2510,fin,1
+2511,urs,1
+2512,meteorology,1
+2513,florida east coast railway,1
+2514,living systems,1
+2515,2,1
+2516,engineered,1
+2517,senufo,1
+2518,florence nightingale,1
+2519,cholera,1
+2520,manx,1
+2521,federated states of micronesia,1
+2522,order of the garter,1
+2523,louis armstrong,1
+2524,clarinet,1
+2525,joan of arc,1
+2526,"kansas city, missouri",1
+2527,roman god,1
+2528,alexander,1
+2529,cannae,1
+2530,battle of cannae,1
+2531,flanders,1
+2532,romantic,1
+2533,3,1
+2534,senators,1
+2535,members of parliament (mps),1
+2536,mps,1
+2537,5,1
+2538,turin (torino),1
+2539,4,1
+2540,oils,1
+2541,metals,1
+2542,carolus linnaeus,1
+2543,bae systems,1
+2544,police,1
+2545,civil society,1
+2546,dove,1
+2547,basilica of san francesco d'assisi,1
+2548,parliamentary democracy,1
+2549,chocolate,1
+2550,"3.5"" floppy disk",1
+2551,hs,1
+2552,nintendo entertainment system,1
+2553,nintendo of america,1
+2554,charles v,1
+2555,indus valley civilization,1
+2556,islamic republic,1
+2557,bassoon,1
+2558,consumer protection,1
+2559,w. mark felt,1
+2560,dvd,1
+2561,law,1
+2562,white's tree frog,1
+2563,alchemist,1
+2564,astronomer,1
+2565,pelé,1
+2566,diego maradona,1
+2567,naoh,1
+2568,salts,1
+2569,atlantic slave trade,1
+2570,lynton and barnstaple railway,1
+2571,søren kierkegaard,1
+2572,friedrich nietzsche,1
+2573,"physicist,",1
+2574,empire,1
+2575,atom bomb,1
