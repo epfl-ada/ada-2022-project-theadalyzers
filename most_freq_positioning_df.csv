@@ -1,7 +1,7 @@
 ,link,most_freq_positioning
 0,,bottom
 1,"""6 villages for 2006",center-bottom
-2,"""6 villages for 2006""",center
+2,"""6 villages for 2006""",center-top
 3,"""capitalist rule""",top
 4,"""consumption"" (tuberculosis)",top
 5,"""glorious revolution""",center-top
@@ -16,7 +16,7 @@
 14,"""trinity"" test",center-top
 15,"""world-class cities""",top
 16,#details of vowel pointing,bottom
-17,$,center-top
+17,$,bottom
 18,$1,center
 19,$us,center
 20,'a year of charity fundraising',center-bottom
@@ -39,7 +39,7 @@
 37,11 september 2001,center-top
 38,116,center
 39,118,center-top
-40,11th,top
+40,11th,center-bottom
 41,11th centuries,top
 42,11th century,top
 43,11th report,center-bottom
@@ -75,7 +75,7 @@
 73,17th centuries,top
 74,17th century,top
 75,17th-century,top
-76,1896,bottom
+76,1896,top
 77,1896 olympics,bottom
 78,1896 summer olympics,top
 79,18th,top
@@ -90,7 +90,7 @@
 88,192 schools,top
 89,1928 okeechobee hurricane,center-top
 90,1970s oil crisis,top
-91,1973,center-bottom
+91,1973,center
 92,1973 energy crisis,top
 93,1973 oil crisis,center
 94,1980 eruption of mount st. helens,center
@@ -104,7 +104,7 @@
 102,19th-century,top
 103,19th-century europe,top
 104,19th century,center
-105,1st,bottom
+105,1st,center-top
 106,1st centuries bc,center-top
 107,1st century,top
 108,1st century ad,top
@@ -134,7 +134,7 @@
 132,20th centuries,top
 133,20th century,top
 134,20th century poetry,top
-135,20th-century,center-top
+135,20th-century,center-bottom
 136,21st,bottom
 137,21st century,center
 138,21st-century,bottom
@@ -147,22 +147,22 @@
 145,27/07/06 - supporting refugees in syria,center-bottom
 146,2nd century,top
 147,2nd report,center-bottom
-148,2pac,center-bottom
+148,2pac,center
 149,3 juno,center-top
 150,"3.5"" floppy disk drives",bottom
 151,31/07/06 - help for refugees in lebanon,center
-152,3rd century,bottom
+152,3rd century,center
 153,3rd report,center
-154,4 vesta,center-top
-155,4-2-0,center-top
+154,4 vesta,center
+155,4-2-0,top
 156,4-2-0s,center-top
-157,4-4-0,bottom
-158,4-4-0s,center-top
+157,4-4-0,center-bottom
+158,4-4-0s,center
 159,4-6-0,center-top
 160,40ar,center
 161,40ca,center
 162,47 ursae majoris,top
-163,47 ursae majoris b,center
+163,47 ursae majoris b,center-top
 164,47 ursae majoris c,center-bottom
 165,4th,top
 166,4th century,top
@@ -171,11 +171,11 @@
 169,4th report,center-bottom
 170,50 states,top
 171,541 bc,center-bottom
-172,55 cancri,center
+172,55 cancri,bottom
 173,55 cancri a,top
 174,55 cancri b,center-top
 175,55 cancri c,center
-176,55 cancri d,center-bottom
+176,55 cancri d,center-top
 177,55 cancri e,bottom
 178,5th,center-top
 179,5th century,top
@@ -201,7 +201,7 @@
 199,9/11,center
 200,9/11 attacks,center-top
 201,9/11 terrorist attacks on the united states,center
-202,90377 sedna,center
+202,90377 sedna,top
 203,99.94,top
 204,9th,top
 205,9th century,top
@@ -224,9 +224,9 @@
 222,a to z of fundraising,center-top
 223,a year of charity fundraising,center-bottom
 224,a year on,center
-225,a-z of fundraising,center-bottom
+225,a-z of fundraising,center
 226,a.d.,top
-227,a380,center
+227,a380,top
 228,a3xx,center-top
 229,aaa980@peterborough.gov.uk,center
 230,aachen,top
@@ -246,14 +246,14 @@
 244,abbots,center-top
 245,abbots of westminster,center-top
 246,abbāsid,center-bottom
-247,abel janszoon tasman,bottom
+247,abel janszoon tasman,top
 248,abel tasman,top
 249,aberdeen,center-top
 250,aberration of light,bottom
 251,aberystwyth,bottom
-252,abhidhamma pitaka,bottom
+252,abhidhamma pitaka,center
 253,abidjan,center-bottom
-254,abkhazia,center-top
+254,abkhazia,center-bottom
 255,able archer 83,top
 256,abo,top
 257,abo blood group system,top
@@ -262,7 +262,7 @@
 260,about remembering our charity,center-bottom
 261,above,center-bottom
 262,abraham lincoln,top
-263,absinthe,center-bottom
+263,absinthe,center-top
 264,absolute zero,top
 265,absolutist,center-bottom
 266,abstract,top
@@ -281,14 +281,14 @@
 279,accountancy,center
 280,accountant,center
 281,accra,center-bottom
-282,acetic acid,center-top
+282,acetic acid,bottom
 283,acetone,center
 284,achilles,top
 285,acid rain,center-bottom
 286,acorn computers,center-top
 287,act of terrorism,center
-288,act of union,bottom
-289,actinium,bottom
+288,act of union,center-top
+289,actinium,center-bottom
 290,action potential,center
 291,action potentials,center
 292,actor,top
@@ -324,14 +324,14 @@
 322,aether theories,center-top
 323,afghan,center-top
 324,afghan hounds,center-bottom
-325,afghani,center
+325,afghani,center-bottom
 326,afghanistan,bottom
 327,afghans,top
 328,aforementioned example,center
 329,africa,top
 330,africa aids orphan projects,top
 331,africa charity,top
-332,africa child sponsorship,center-bottom
+332,africa child sponsorship,center
 333,africa sponsorship options,center
 334,africa's,bottom
 335,africa's largest lake,bottom
@@ -341,7 +341,7 @@
 339,african clawed frog,bottom
 340,african continent,top
 341,african dwarf frog,center-top
-342,african great lakes,center-top
+342,african great lakes,bottom
 343,african grey parrot,center-bottom
 344,african greys,center-bottom
 345,african lions,center-top
@@ -350,20 +350,20 @@
 348,african penguins,center
 349,african slave routes,top
 350,african slave trade,top
-351,african slaves,bottom
+351,african slaves,top
 352,african union,top
 353,african wild dog,top
 354,african wild dogs,center-top
 355,africans,top
 356,afrikaans,center-top
 357,ag,center-top
-358,agamemnon,top
+358,agamemnon,center
 359,age of enlightenment,top
 360,age of reason,bottom
-361,aggregator,top
+361,aggregator,center-bottom
 362,aggregators,top
-363,agnostic,center
-364,agnosticism,bottom
+363,agnostic,top
+364,agnosticism,center-top
 365,agnostics,top
 366,agrarian,center-bottom
 367,agricultural,top
@@ -401,7 +401,7 @@
 399,aids orphans in guinea,center
 400,aids orphans in guinea bissau,center
 401,aids orphans in kenya,center
-402,aids orphans in lesotho,center
+402,aids orphans in lesotho,center-bottom
 403,aids orphans in liberia,center
 404,aids orphans in madagascar,center
 405,aids orphans in malawi,center-bottom
@@ -416,34 +416,34 @@
 414,aids orphans in south africa,center-bottom
 415,aids orphans in sudan,center
 416,aids orphans in swaziland,center-bottom
-417,aids orphans in the central african republic,center
+417,aids orphans in the central african republic,center-bottom
 418,aids orphans in the ivory coast,center
 419,aids orphans in uganda,center
 420,aids orphans in zambia,center-bottom
-421,aids orphans in zimbabwe,center
+421,aids orphans in zimbabwe,center-bottom
 422,aids virus,center-bottom
 423,air,top
 424,airbus,center-top
-425,airbus a380,center-bottom
+425,airbus a380,bottom
 426,airbus a380-800,bottom
 427,airbus s.a.s.,top
-428,airbus sas,top
+428,airbus sas,center
 429,aircraft,top
 430,aircraft carrier,bottom
 431,aircraft carriers,center-bottom
 432,aircrafts,center
 433,airship,center-top
-434,airships,center-top
-435,ajax,top
+434,airships,top
+435,ajax,bottom
 436,ajax interfaces,bottom
 437,ak-47,center-bottom
 438,akbar,center-top
-439,akhenaten,top
+439,akhenaten,center-top
 440,akira kurosawa,top
 441,akkadian empire,top
 442,akrotiri and dhekelia,bottom
 443,al,center
-444,al jazeera,center-top
+444,al jazeera,top
 445,alan turing,center-bottom
 446,albania,bottom
 447,albania child sponsorship,center
@@ -455,11 +455,11 @@
 453,albert einstein,bottom
 454,alberto santos-dumont,center
 455,albigensian crusade,top
-456,albinism,top
+456,albinism,center-bottom
 457,albino,center-bottom
 458,albrecht dürer,center-top
 459,albums,top
-460,alchemical,center
+460,alchemical,center-top
 461,alchemist,top
 462,alchemists,center-top
 463,alchemy,top
@@ -473,7 +473,7 @@
 471,aleksandr pushkin,bottom
 472,aleksandr vasilevsky,top
 473,alesia,center-top
-474,alexander,center-bottom
+474,alexander,top
 475,alexander bell,center
 476,alexander graham bell,top
 477,alexander hamilton,top
@@ -481,7 +481,7 @@
 479,alexander the great,top
 480,alexander the great's,center-top
 481,alfred hitchcock,bottom
-482,alfred nobel,center-bottom
+482,alfred nobel,bottom
 483,alfred of wessex,center-bottom
 484,alfred the great,center-top
 485,algebra,top
@@ -499,9 +499,9 @@
 497,alice,center
 498,alice in wonderland,center
 499,alice stories,center
-500,alice's adventures in wonderland,bottom
+500,alice's adventures in wonderland,top
 501,alien,top
-502,aliens,center-top
+502,aliens,top
 503,all black,top
 504,all blacks,bottom
 505,all the upcoming events,center
@@ -518,13 +518,13 @@
 516,alloy steel,center
 517,alma-ata,top
 518,almaty,center
-519,almond,center
+519,almond,center-top
 520,almonds,center
 521,alpaca,center-bottom
 522,alpha world cities,top
 523,alpha world full service city,top
 524,alphabet,top
-525,alphabetic,center
+525,alphabetic,top
 526,alphabetically,center
 527,alphabets,top
 528,alteration,center
@@ -563,23 +563,23 @@
 561,american poet,top
 562,american politician,top
 563,american popular music,top
-564,american president,bottom
+564,american president,center
 565,american revolution,top
 566,american revolutionary war,top
 567,american samoa,top
 568,american south,top
 569,american transcontinental railroad,center-top
 570,american war in vietnam,top
-571,american war of independence,top
+571,american war of independence,center-top
 572,americans,center
 573,americas,center-top
-574,americium,top
+574,americium,center-top
 575,amiens,bottom
 576,amish,center-bottom
 577,ammolite,bottom
 578,ammonia,bottom
 579,ammonite,bottom
-580,ammonites,top
+580,ammonites,center-bottom
 581,ammonium sulphate,center-bottom
 582,ammonoids,center
 583,ammosaurus,top
@@ -590,7 +590,7 @@
 588,amur river,top
 589,an imitation,center-top
 590,ana,bottom
-591,anaconda,top
+591,anaconda,center
 592,anaemia,center
 593,anakin,top
 594,anakin skywalker,top
@@ -603,31 +603,31 @@
 601,anarchists,bottom
 602,anarcho-capitalism,bottom
 603,anarcho-capitalists,center-top
-604,anarchy,center-bottom
+604,anarchy,top
 605,anatomic,center
 606,anatomical,top
 607,anatomically,top
-608,anatomist,top
-609,anatomists,center
-610,anatomy,top
+608,anatomist,center
+609,anatomists,bottom
+610,anatomy,center-bottom
 611,ancestry,top
 612,ancient,center-top
 613,ancient (pharaonic) egypt,center-top
 614,ancient athens,top
 615,ancient civilization,top
 616,ancient egypt,top
-617,ancient egyptian,center
+617,ancient egyptian,top
 618,ancient egyptians,top
 619,ancient greece,top
 620,ancient greek,top
 621,ancient greeks,top
 622,ancient greeks',top
-623,ancient history,center-bottom
+623,ancient history,top
 624,ancient indus valley,center-top
 625,ancient latin,center-bottom
 626,ancient maya,top
 627,ancient roman,top
-628,ancient romans,center-top
+628,ancient romans,top
 629,ancient rome,top
 630,ancient times,center-top
 631,andean,top
@@ -642,13 +642,13 @@
 640,andrew robinson,bottom
 641,andriyivskyy descent,center-bottom
 642,andromeda,top
-643,andromeda galaxy,bottom
+643,andromeda galaxy,center
 644,andromeda nebula,top
 645,andropogon sorghum,center
 646,andrés nocioni,center-top
-647,andy warhol,bottom
+647,andy warhol,center-top
 648,angelica,top
-649,angkor,bottom
+649,angkor,center-top
 650,angkor wat,center-top
 651,anglers,center-bottom
 652,anglican,top
@@ -667,7 +667,7 @@
 665,anglo-saxon literature,center-bottom
 666,anglo-saxon period,top
 667,anglo-saxon poets,top
-668,anglophone,top
+668,anglophone,center
 669,angola,bottom
 670,angola child sponsorship,center-bottom
 671,angolan,center-top
@@ -687,7 +687,7 @@
 685,ankylosaurs,top
 686,ankylosaurus,bottom
 687,ann arbor,bottom
-688,"ann arbor, michigan",bottom
+688,"ann arbor, michigan",center
 689,anna karenina,top
 690,anne,center-top
 691,anne frank,bottom
@@ -698,28 +698,28 @@
 696,another earthquake,center-top
 697,another iraq,center
 698,anoxic,bottom
-699,anschluss,top
+699,anschluss,center-top
 700,anschluß,top
-701,ant,center-top
-702,antananarivo,top
+701,ant,center-bottom
+702,antananarivo,center-top
 703,antarctic,top
 704,antarctic krill,center-bottom
 705,antarctic treaty,top
 706,antarctic treaty system,center-bottom
 707,antarctica,top
 708,ante,center
-709,anteater,top
+709,anteater,center-top
 710,anteaters,top
 711,antelope,center-top
 712,antelopes,center-top
 713,anthony van dyck,bottom
 714,anthropological,top
-715,anthropologist,center
+715,anthropologist,center-top
 716,anthropologists,top
 717,anthropology,top
 718,anti-religious bias,center-bottom
 719,antibacterial,center-bottom
-720,antidiscrimination,top
+720,antidiscrimination,center
 721,antigua,center
 722,antigua and barbuda,bottom
 723,antillean,center-bottom
@@ -735,7 +735,7 @@
 733,antonín dvořák,center-bottom
 734,ants,top
 735,antwerp,center-bottom
-736,apartheid,center-top
+736,apartheid,top
 737,apartheid era in south africa,top
 738,apartheid regime of south africa,center-top
 739,apartheid south africa,center-top
@@ -745,7 +745,7 @@
 743,aphid,bottom
 744,aphids,top
 745,apiculture,bottom
-746,apollo,center
+746,apollo,center-bottom
 747,apollo 11,center-bottom
 748,apollo 8,center-top
 749,apollo moon landings,center-bottom
@@ -760,7 +760,7 @@
 758,applied statistics,top
 759,apricot,center
 760,apricots,bottom
-761,aquaria,top
+761,aquaria,center
 762,aquarium,bottom
 763,aquariums,center-bottom
 764,aqueous,center-top
@@ -770,7 +770,7 @@
 768,arab oil embargo,top
 769,arab summit,bottom
 770,arab-israeli,center-bottom
-771,arab-israeli conflict,top
+771,arab-israeli conflict,center-bottom
 772,arab-israeli conflicts,center-bottom
 773,arab-israeli war,center-bottom
 774,arab.,top
@@ -789,7 +789,7 @@
 787,aral seas,center
 788,arboreal frogs,center-top
 789,arcadia,bottom
-790,archaeoastronomy,center-bottom
+790,archaeoastronomy,center-top
 791,archaeological,top
 792,archaeological research,bottom
 793,archaeologist,top
@@ -826,13 +826,13 @@
 824,argentine-born,top
 825,argentinean,center
 826,argentineans,center-top
-827,argentines,bottom
-828,argentinian,center-bottom
+827,argentines,top
+828,argentinian,center
 829,argentinian people,center
-830,argon,center
-831,argyle diamond mine,center-bottom
+830,argon,center-bottom
+831,argyle diamond mine,center-top
 832,arid,top
-833,ariel sharon,center-top
+833,ariel sharon,center
 834,aristarchus,center
 835,aristotelian,center
 836,aristotle,top
@@ -841,12 +841,12 @@
 839,arithmetical,top
 840,arithmetical system,bottom
 841,arm,top
-842,armadillo,center
+842,armadillo,top
 843,armadillos,center-bottom
 844,armed conflict,top
 845,armenia,bottom
 846,armenia child sponsorship,center
-847,armenian,top
+847,armenian,bottom
 848,armenians,center
 849,armia krajowa,center
 850,arms,bottom
@@ -854,31 +854,31 @@
 852,arnold schwarzenegger,center-bottom
 853,around the world - stop press,center
 854,ars moriendi,center-bottom
-855,arsenal,center-top
+855,arsenal,bottom
 856,arsenal f.c.,center-top
 857,arsenic,center
 858,arsenic poisoning,center-bottom
 859,art,top
 860,art theory,top
-861,arthropod,center
+861,arthropod,top
 862,arthropoda,top
 863,arthropodic,top
-864,arthropods,center-top
+864,arthropods,top
 865,arthur percival,center-top
-866,arthur sullivan,bottom
+866,arthur sullivan,center
 867,arthur wellesley,top
-868,"arthur wellesley, 1st duke of wellington",center
+868,"arthur wellesley, 1st duke of wellington",center-top
 869,arthurian,top
-870,arthurian legend,center-top
+870,arthurian legend,center-bottom
 871,artificial contraception,bottom
 872,artist,center
 873,artistic,top
 874,arts,top
 875,arts & humanities,top
-876,arts and crafts,bottom
+876,arts and crafts,center-bottom
 877,aruba,top
 878,aruban,center-bottom
-879,arugula,center-top
+879,arugula,bottom
 880,ascariasis,center-top
 881,ascii,bottom
 882,ascorbate,top
@@ -923,10 +923,10 @@
 921,at&t,bottom
 922,atari pong,center-top
 923,ateneo de manila university,center-top
-924,athanasius kircher,bottom
+924,athanasius kircher,top
 925,atheism,center-bottom
 926,atheist,top
-927,atheistic,center
+927,atheistic,center-bottom
 928,atheists,center
 929,athena,top
 930,athenian,top
@@ -953,7 +953,7 @@
 951,atmospheric composition,center
 952,atom,top
 953,atomic,top
-954,atomic bomb,center
+954,atomic bomb,top
 955,atomic bombs,center-bottom
 956,atomic element,center-top
 957,atomic elements,top
@@ -963,7 +963,7 @@
 961,atoms,top
 962,atonality,top
 963,atp,center
-964,atrocities,top
+964,atrocities,center-top
 965,attack on pearl harbour,top
 966,attacked pearl harbour,center-top
 967,attacked the american base at pearl harbour,top
@@ -975,7 +975,7 @@
 973,attalus i,top
 974,attention-deficit hyperactivity disorder,top
 975,attila,top
-976,attila the hun,center
+976,attila the hun,center-top
 977,au,top
 978,auckland,center-top
 979,audio,center
@@ -1012,11 +1012,11 @@
 1010,autocracies,center-top
 1011,autocracy,top
 1012,autocrat,center-top
-1013,autocratic,top
+1013,autocratic,center-top
 1014,autocratic rule,center
 1015,automated teller machine,center-bottom
 1016,automobile,top
-1017,automobiles,center-bottom
+1017,automobiles,top
 1018,automotive,top
 1019,autoracks,bottom
 1020,autumn,top
@@ -1026,13 +1026,13 @@
 1024,avalanches,bottom
 1025,avatar: the last airbender,center-top
 1026,aves,bottom
-1027,avian,center
-1028,avocado,center-bottom
+1027,avian,top
+1028,avocado,center
 1029,avocados,bottom
 1030,avoiding intercourse,center-bottom
 1031,avon gorge,top
 1032,avro lancaster,top
-1033,axe,top
+1033,axe,center-bottom
 1034,axes,center-top
 1035,axiomatic proof,top
 1036,axioms of euclid,center-top
@@ -1044,13 +1044,13 @@
 1042,azerbaijani people,top
 1043,azerbaijanis,center-top
 1044,azeri,bottom
-1045,azeris,bottom
+1045,azeris,top
 1046,aztec,top
 1047,aztec people,center-top
 1048,aztecs,top
 1049,b,center-top
-1050,b vitamins,bottom
-1051,b.c.,top
+1050,b vitamins,center-bottom
+1051,b.c.,center-bottom
 1052,ba2+,center-top
 1053,babbage,top
 1054,babe ruth,top
@@ -1062,10 +1062,10 @@
 1060,babylonian,center-top
 1061,babylonian empire,top
 1062,babylonians,top
-1063,bach,center
+1063,bach,center-bottom
 1064,back to autumn 2006 newsletter contents,center-bottom
 1065,back to kashmir earthquake news,center
-1066,"back to main ""6 villages for 2006"" page",center-bottom
+1066,"back to main ""6 villages for 2006"" page",bottom
 1067,back to main fundraising page,bottom
 1068,back to news article on sister leonella,center-bottom
 1069,back to sos world cup news,center-bottom
@@ -1073,14 +1073,14 @@
 1071,back to the charity challenge page,bottom
 1072,back to the middle east crisis news page,center-bottom
 1073,back to the middle east news page,center-bottom
-1074,backgammon,center-bottom
+1074,backgammon,top
 1075,baconian idols,center
 1076,bacteria,top
-1077,bacterial,center
+1077,bacterial,center-top
 1078,bacterium,top
 1079,baden-powell,bottom
-1080,badger,top
-1081,badgers,top
+1080,badger,center-bottom
+1081,badgers,center
 1082,badminton,bottom
 1083,badr,center-top
 1084,bae systems,top
@@ -1092,10 +1092,10 @@
 1090,bahá'í faith,bottom
 1091,bahá'ís,center-bottom
 1092,baird televisor,top
-1093,baker island,center-top
-1094,baker's yeast,center-bottom
+1093,baker island,center-bottom
+1094,baker's yeast,top
 1095,bald,bottom
-1096,bald eagle,center-bottom
+1096,bald eagle,top
 1097,baldwin,bottom
 1098,baltic,center
 1099,baltic coast,top
@@ -1107,11 +1107,11 @@
 1105,banaras,center
 1106,bandicoot,center-top
 1107,bandicoots,top
-1108,bangalore,center-bottom
+1108,bangalore,center-top
 1109,bangkok,center-top
 1110,bangladesh,bottom
 1111,bangladesh child sponsorship,center-bottom
-1112,bangladeshi,center
+1112,bangladeshi,center-top
 1113,bangladeshis,center-bottom
 1114,banjul,top
 1115,banknote,center-bottom
@@ -1124,7 +1124,7 @@
 1122,barbados,top
 1123,barbara mcclintock,bottom
 1124,barbary macaques,center-top
-1125,barcelona,center-bottom
+1125,barcelona,bottom
 1126,barium,top
 1127,barley,center-bottom
 1128,barn owl,top
@@ -1135,10 +1135,10 @@
 1133,barracudas,center-bottom
 1134,bart,center-bottom
 1135,baruch (benedictus de) spinoza,center-top
-1136,baruch spinoza,top
+1136,baruch spinoza,center-top
 1137,baseball,bottom
-1138,basel,top
-1139,basil,bottom
+1138,basel,center
+1139,basil,center-bottom
 1140,basilica of saint francis,center-bottom
 1141,basketball,bottom
 1142,basketball's,center
@@ -1159,16 +1159,16 @@
 1157,bats,center-top
 1158,battle,center-bottom
 1159,battle of alesia,center-top
-1160,battle of amiens,center-bottom
+1160,battle of amiens,top
 1161,battle of austerlitz,bottom
 1162,battle of badr,center-top
-1163,battle of bicocca,top
+1163,battle of bicocca,center-top
 1164,battle of britain,center-bottom
 1165,battle of cannae,center
 1166,battle of france,top
 1167,battle of gettysburg,top
-1168,battle of grunwald,top
-1169,battle of guadalcanal,center-top
+1168,battle of grunwald,center-bottom
+1169,battle of guadalcanal,center-bottom
 1170,battle of hastings,center-top
 1171,battle of jutland,center-top
 1172,battle of lechaeum,center
@@ -1183,7 +1183,7 @@
 1181,battle of the bulge,center-bottom
 1182,battle of the eastern solomons,top
 1183,battle of the little bighorn,center-top
-1184,battle of the santa cruz islands,bottom
+1184,battle of the santa cruz islands,top
 1185,battle of the somme,center-top
 1186,battle of the somme (1916),center
 1187,battle of tours,center-top
@@ -1196,7 +1196,7 @@
 1194,bbc drama,top
 1195,bc,top
 1196,be,center-bottom
-1197,beach,top
+1197,beach,center-bottom
 1198,beaches,top
 1199,bean,top
 1200,beans,center-bottom
@@ -1226,9 +1226,9 @@
 1224,beer,top
 1225,beers,center-bottom
 1226,bees,top
-1227,beet,center
+1227,beet,bottom
 1228,beethoven,center-top
-1229,beethoven's,center-bottom
+1229,beethoven's,bottom
 1230,beetle,top
 1231,beetles,center
 1232,behaviour,center-top
@@ -1244,36 +1244,36 @@
 1242,belarusian,center-top
 1243,belfast,top
 1244,belgian,top
-1245,belgians,center-bottom
+1245,belgians,top
 1246,belgium,top
 1247,belize,top
 1248,belizean,center
 1249,bell,top
 1250,below,top
 1251,ben jonson,center-top
-1252,ben nevis,top
-1253,benares,center-top
+1252,ben nevis,center-top
+1253,benares,bottom
 1254,benedict xvi,center-top
 1255,benedictine monasteries,center-bottom
 1256,benin,bottom
 1257,benin child sponsorship,center-bottom
-1258,benito mussolini,center-top
+1258,benito mussolini,center-bottom
 1259,benjamin britten,bottom
 1260,benjamin britten's,bottom
 1261,benjamin disraeli,center-top
 1262,benjamin franklin,center-top
-1263,benjamin harrison,bottom
+1263,benjamin harrison,center-top
 1264,benjamin mountfort,top
 1265,benz,center-bottom
 1266,benzene,center
 1267,berber,top
 1268,berber language,top
-1269,berber languages,bottom
+1269,berber languages,center-bottom
 1270,beriberi,center-bottom
 1271,berlin,top
 1272,berlin wall,center-top
 1273,bermuda,center-top
-1274,bermudian,top
+1274,bermudian,center-top
 1275,bernard hinault,center-top
 1276,bertrand russell,center-top
 1277,beryllium,bottom
@@ -1312,7 +1312,7 @@
 1310,bio,top
 1311,biodiesel,center-bottom
 1312,biodiversity,top
-1313,biofuel,center-bottom
+1313,biofuel,top
 1314,biofuels,center
 1315,bioinformatics,top
 1316,bioinformatics and computational biology,bottom
@@ -1336,27 +1336,27 @@
 1334,bird of prey,top
 1335,birds,top
 1336,birds of prey,top
-1337,birmingham,top
+1337,birmingham,center-bottom
 1338,"birmingham, england",top
 1339,birth control,center
 1340,bishop jocelin,top
 1341,bishop of rome,top
-1342,bismarck,center-top
-1343,bismuth,top
+1342,bismarck,top
+1343,bismuth,center-bottom
 1344,bison,center-top
 1345,bisons,center-bottom
 1346,bissau,top
 1347,björn borg,center-bottom
-1348,bjørnøya,bottom
+1348,bjørnøya,center-top
 1349,bk,center-top
 1350,black,top
 1351,black death,center-top
-1352,black hole,bottom
+1352,black hole,top
 1353,black holes,center-top
 1354,black jaguar,center-top
-1355,black pepper,top
+1355,black pepper,bottom
 1356,black plague,center-bottom
-1357,black rhinoceros,top
+1357,black rhinoceros,center-bottom
 1358,black sea,top
 1359,black seas,top
 1360,black wildebeest,top
@@ -1366,7 +1366,7 @@
 1364,blackbody radiation,bottom
 1365,blackcaps,top
 1366,blackjack,center
-1367,blackpool,center
+1367,blackpool,top
 1368,blacktip reef shark,top
 1369,blacktip reef sharks,center
 1370,blade runner,center-bottom
@@ -1374,7 +1374,7 @@
 1372,blair government,top
 1373,blaise pascal,top
 1374,blessed saviour,center-top
-1375,blitz,center-bottom
+1375,blitz,top
 1376,blitzed,top
 1377,blitzkrieg,top
 1378,blitzkriegs,center
@@ -1401,7 +1401,7 @@
 1399,board game,top
 1400,board games,top
 1401,boas,center
-1402,boat,top
+1402,boat,center-bottom
 1403,boats,top
 1404,bob dylan,center
 1405,bob dylan's,center-top
@@ -1414,7 +1414,7 @@
 1412,boeing 747,center-bottom
 1413,boeing 747 classic,bottom
 1414,boeing 747s,center-top
-1415,boer war,center-top
+1415,boer war,center
 1416,bog,top
 1417,boggy,center-top
 1418,bogland,top
@@ -1430,20 +1430,20 @@
 1428,bologna,top
 1429,bolognese,center-bottom
 1430,bolshevism,top
-1431,bolts,center-bottom
+1431,bolts,top
 1432,bombay,top
 1433,bond,bottom
 1434,bonobo,center-bottom
-1435,bonobos,top
-1436,boobies,center
+1435,bonobos,center-top
+1436,boobies,center-bottom
 1437,book,center-bottom
 1438,book of common prayer,top
 1439,book of kells,center-top
 1440,books,top
 1441,books of common prayer,top
-1442,boolean logic,center
+1442,boolean logic,center-bottom
 1443,boolean logical,center-bottom
-1444,borges,bottom
+1444,borges,center-bottom
 1445,borh,bottom
 1446,boris becker,center
 1447,boron,top
@@ -1451,7 +1451,7 @@
 1449,bosnia and herzegovina,bottom
 1450,bosnia child sponsorship,center-bottom
 1451,bosnia-herzegovina,center
-1452,bosnian,center-top
+1452,bosnian,center-bottom
 1453,bosnia and herzegovina,bottom
 1454,boston,top
 1455,boston rfc,center-bottom
@@ -1461,13 +1461,13 @@
 1459,bostonians,center-top
 1460,botanical,top
 1461,botanically,center-top
-1462,botanist,center
-1463,botanists,top
+1462,botanist,center-top
+1463,botanists,center-bottom
 1464,botany,top
 1465,botswana,bottom
 1466,botswana child sponsorship,center-bottom
 1467,botswana with gazza,center
-1468,bottlenose dolphin,center-bottom
+1468,bottlenose dolphin,center
 1469,bottlenose dolphins,top
 1470,boudica,center-top
 1471,bouvet island,top
@@ -1477,11 +1477,11 @@
 1475,boy scouts,center
 1476,boyle,center-bottom
 1477,bp,bottom
-1478,bp chemicals,center-top
-1479,br,center-top
+1478,bp chemicals,center
+1479,br,top
 1480,br2,center
 1481,brabantian,center-top
-1482,brabham,center-top
+1482,brabham,top
 1483,brabham racing organisation,center-top
 1484,brachiosaurus,top
 1485,brahman,top
@@ -1500,7 +1500,7 @@
 1498,brazil,top
 1499,brazil child sponsorship,center-bottom
 1500,brazil's,top
-1501,brazilian,center-bottom
+1501,brazilian,top
 1502,brazilian diamonds,center
 1503,brazilians,center
 1504,bre,top
@@ -1515,9 +1515,9 @@
 1513,brewer's yeast,top
 1514,brewers yeast,top
 1515,brick by brick,center-top
-1516,bridge,top
+1516,bridge,center-top
 1517,bridges,top
-1518,brighton,top
+1518,brighton,center
 1519,brighton museum,center-bottom
 1520,brisbane,center
 1521,bristol,top
@@ -1532,7 +1532,7 @@
 1530,british broadcasting corporation,top
 1531,british colonial rule,center-top
 1532,british colonialism,top
-1533,british colonies,center-top
+1533,british colonies,center
 1534,british colonists,center-top
 1535,british colony,top
 1536,british conquest,center-bottom
@@ -1565,7 +1565,7 @@
 1563,british rule,top
 1564,british sovereign,top
 1565,british sovereign base area of dhekelia,center-bottom
-1566,british virgin islands,center
+1566,british virgin islands,bottom
 1567,british virgin islands,bottom
 1568,britney spears,bottom
 1569,britons,center-bottom
@@ -1574,7 +1574,7 @@
 1572,broadbeans,bottom
 1573,broadcast,top
 1574,broadcaster,center-top
-1575,broadcasters,center-bottom
+1575,broadcasters,top
 1576,broadcasting,top
 1577,broadcasts,center-bottom
 1578,broads,center
@@ -1595,7 +1595,7 @@
 1593,brushes,center-top
 1594,brussels,top
 1595,brute force,center-bottom
-1596,brute force attack,center
+1596,brute force attack,center-top
 1597,bryce,center
 1598,bryce canyon national park,bottom
 1599,bt tower,center
@@ -1614,7 +1614,7 @@
 1612,buddhist,bottom
 1613,buddhist art,center
 1614,buddhist faith,top
-1615,buddhists,bottom
+1615,buddhists,center-bottom
 1616,buenos aires,top
 1617,buffalo,center-top
 1618,buffy the vampire slayer,top
@@ -1622,10 +1622,10 @@
 1620,bulgaria child sponsorship,center-bottom
 1621,bulgarian,center
 1622,bulgarians,center
-1623,bull,center-top
+1623,bull,center
 1624,bull shark,top
 1625,bull sharks,bottom
-1626,burke,top
+1626,burke,center-bottom
 1627,burkina faso,bottom
 1628,burkina faso child sponsorship,center
 1629,burkina faso,bottom
@@ -1664,15 +1664,15 @@
 1662,c++,center
 1663,c-t boundary,bottom
 1664,c. s. lewis,bottom
-1665,ca,center-bottom
+1665,ca,center
 1666,cache memories,center-bottom
 1667,cacl2,center-top
 1668,cacti,top
 1669,cactii,center-top
-1670,cactus,center-top
+1670,cactus,top
 1671,cadmium,center-top
 1672,cae,center-bottom
-1673,caesar,bottom
+1673,caesar,center-bottom
 1674,caesar augustus,top
 1675,caesar cipher,top
 1676,caesar ciphers,center
@@ -1692,22 +1692,22 @@
 1690,california southern railroad,top
 1691,california state quarter,center-top
 1692,california's,center
-1693,californian,center-top
-1694,californium,top
+1693,californian,bottom
+1694,californium,bottom
 1695,callaghan,bottom
 1696,calligraphers,top
-1697,calligraphy,center
+1697,calligraphy,bottom
 1698,caloris basin,center-top
 1699,calvin,top
 1700,calvin and hobbes,center-bottom
-1701,calvin coolidge,top
+1701,calvin coolidge,center
 1702,calvinball,bottom
 1703,camarasaur,center
 1704,camarasaurus,top
 1705,cambodia,bottom
 1706,cambodia child sponsorship,center-bottom
 1707,cambodian,center-bottom
-1708,cambodians,center-bottom
+1708,cambodians,bottom
 1709,cambrian,top
 1710,cambrian explosion,top
 1711,cambridge,top
@@ -1740,34 +1740,34 @@
 1738,canals,center-top
 1739,canberra,top
 1740,cancer,center-bottom
-1741,cancerous,top
-1742,cancers,center-top
+1741,cancerous,center-top
+1742,cancers,center
 1743,cane sugar,bottom
 1744,cane toad,center
 1745,canis lupus,center-bottom
 1746,canis mesomelas,top
 1747,canis simensis,top
 1748,cannae,bottom
-1749,canola,bottom
+1749,canola,center
 1750,canterbury,center-bottom
 1751,canterbury and anglicanism,center
-1752,canterbury cathedral,top
+1752,canterbury cathedral,bottom
 1753,canterbury monks,center
 1754,canton,center-top
 1755,cantonese,center-top
 1756,cantor,center-bottom
 1757,canute,center-top
 1758,canute the great,top
-1759,capacitance,center-top
+1759,capacitance,top
 1760,cape,bottom
-1761,cape canaveral,center-top
+1761,cape canaveral,top
 1762,cape horn,center-top
 1763,cape lion,center
 1764,cape town,bottom
 1765,cape verde,center-bottom
 1766,cape verde child sponsorship,center
 1767,cape verde islands,center-top
-1768,cape verdean,top
+1768,cape verdean,center-bottom
 1769,cape verdeans,center
 1770,cape verde,bottom
 1771,capital,top
@@ -1776,7 +1776,7 @@
 1774,capital of the seychelles,bottom
 1775,capitalism,top
 1776,capitalist,top
-1777,capitalist system,center
+1777,capitalist system,top
 1778,capitalistic,bottom
 1779,capitalists,center-top
 1780,capitals,bottom
@@ -1794,9 +1794,9 @@
 1792,carboniferous period,center-top
 1793,carcinus maenas,center-bottom
 1794,card game,bottom
-1795,card games,bottom
+1795,card games,top
 1796,cardiff,top
-1797,cardinal ratzinger,center-bottom
+1797,cardinal ratzinger,center
 1798,cardinal ratzinger (now pope benedict xvi),center-bottom
 1799,cardinals,center-bottom
 1800,cards,center-top
@@ -1806,7 +1806,7 @@
 1804,caribbean sea,top
 1805,carl friedrich gauss,center-top
 1806,carl gauss,center-top
-1807,carl jung,bottom
+1807,carl jung,top
 1808,carl lewis,center
 1809,carl sagan,bottom
 1810,carlos i of spain,top
@@ -1814,11 +1814,11 @@
 1812,carnivore,center
 1813,carnivores,top
 1814,carnivorous,top
-1815,caroline,center
+1815,caroline,top
 1816,caroline island,center-bottom
 1817,caroline@soschildren.org,center-bottom
 1818,carolingians,center
-1819,carolus linnaeus,top
+1819,carolus linnaeus,center
 1820,carrier,top
 1821,carriers,center-top
 1822,carrot,top
@@ -1831,47 +1831,47 @@
 1829,casimir effect,center-bottom
 1830,caspian,center
 1831,caspian sea,top
-1832,caspian seas,center-bottom
+1832,caspian seas,center-top
 1833,cassini,top
 1834,cassini spacecraft,center-top
 1835,cassini-huygens,bottom
 1836,cassowaries,top
-1837,cassowary,center-top
+1837,cassowary,center
 1838,castilian,center
 1839,castra,center-top
 1840,castrum,top
 1841,cat,top
 1842,cat's eye nebula,top
-1843,cataract,top
+1843,cataract,center-top
 1844,cataracts,center
 1845,cathedral,top
-1846,catherine ii,center
+1846,catherine ii,top
 1847,catherine ii of russia,center-bottom
 1848,catherine the great,top
 1849,catholic,top
 1850,catholic church,top
 1851,catholic social teaching,top
 1852,catholic theology and imagery,center-bottom
-1853,catholicism,center-bottom
-1854,catholics,center-bottom
+1853,catholicism,top
+1854,catholics,center-top
 1855,cats,center
 1856,cattle,top
 1857,cattle rearing,center
 1858,causantín,top
-1859,causantín ii,top
+1859,causantín ii,center-bottom
 1860,caustantín mac áeda,center-bottom
 1861,caustic,center-bottom
 1862,caustic soda,center
-1863,cave,bottom
+1863,cave,top
 1864,caves,top
 1865,cayman islands,center
 1866,cayman islands,bottom
 1867,cb,top
 1868,cd,top
-1869,cds,top
+1869,cds,center-bottom
 1870,ce,center-bottom
 1871,celeriac,top
-1872,celery,top
+1872,celery,center-top
 1873,celine dion,top
 1874,cell,top
 1875,cellist,top
@@ -1894,7 +1894,7 @@
 1892,central african republic,bottom
 1893,ceramics,center
 1894,ceratopsid,top
-1895,ceratopsidae,center-top
+1895,ceratopsidae,center-bottom
 1896,cereal,top
 1897,cereal crop,top
 1898,cereal grain,top
@@ -1923,7 +1923,7 @@
 1921,challenge-tastic!,center-top
 1922,challenger,top
 1923,challenger accident,center-bottom
-1924,challenger disaster,center-bottom
+1924,challenger disaster,top
 1925,change a child's life today,bottom
 1926,changes,top
 1927,changing a child's life today and give them a future,center-bottom
@@ -1940,7 +1940,7 @@
 1938,charger,top
 1939,charges,top
 1940,charity and youth projects,top
-1941,charity challenge,center-bottom
+1941,charity challenge,center
 1942,charity challenges,center-bottom
 1943,charity news,center-top
 1944,charity's   africa,center-bottom
@@ -1971,7 +1971,7 @@
 1969,chartist,top
 1970,che guevara,center-top
 1971,che guevara's,top
-1972,cheers,center-bottom
+1972,cheers,bottom
 1973,cheese,center
 1974,cheeses,bottom
 1975,cheetah,center-top
@@ -1982,7 +1982,7 @@
 1980,chemical composition,top
 1981,chemical element,top
 1982,chemical elements,center
-1983,chemically,top
+1983,chemically,center-top
 1984,chemist,top
 1985,chemistry,top
 1986,chemists,top
@@ -1990,9 +1990,9 @@
 1988,chennai,center
 1989,cherish,center
 1990,chernobyl,center-top
-1991,chernobyl accident,top
+1991,chernobyl accident,center-bottom
 1992,chernobyl disaster,center-top
-1993,chess,bottom
+1993,chess,center-bottom
 1994,chester a. arthur,center
 1995,chestnut,center-top
 1996,chestnut tree,bottom
@@ -2000,12 +2000,12 @@
 1998,chew court,center
 1999,chew magna,top
 2000,chew magna manor house,center
-2001,chew stoke,center-top
+2001,chew stoke,center
 2002,chew valley,top
 2003,chew valley lake,top
 2004,chicago,top
 2005,chicago and north western railway,top
-2006,chicago bears,center
+2006,chicago bears,top
 2007,chicago's,bottom
 2008,"chicago, il",center-top
 2009,"chicago, illinois",top
@@ -2080,7 +2080,7 @@
 2078,child soldier projects,top
 2079,child soldiers,center-top
 2080,child sponsors,top
-2081,child sponsorship,center
+2081,child sponsorship,center-top
 2082,child sponsorship directory,center-top
 2083,child sponsorship examples,center-bottom
 2084,child sponsorship faqs,center
@@ -2095,21 +2095,21 @@
 2093,chileans,bottom
 2094,chiltern hills,center-top
 2095,chimp,center
-2096,chimpanzee,center
+2096,chimpanzee,top
 2097,chimpanzees,bottom
 2098,china,top
 2099,china child sponsorship,center-bottom
-2100,china's,center
+2100,china's,bottom
 2101,chinese,top
 2102,chinese civilization,bottom
-2103,chinese language,center
+2103,chinese language,center-bottom
 2104,chinese languages,bottom
 2105,chinese yuan,center
 2106,chinese-language,center-bottom
 2107,chinyingi,top
 2108,chips,center-top
-2109,chives,center-top
-2110,chloride,center
+2109,chives,bottom
+2110,chloride,center-bottom
 2111,chlorine,top
 2112,chlorine gas,top
 2113,chlorobenzylidene malonitrile,center
@@ -2123,19 +2123,19 @@
 2121,chomsky's,top
 2122,chopin,center-top
 2123,chordata,center
-2124,chordate,center-top
+2124,chordate,top
 2125,chordates,center-top
 2126,chris evert,bottom
 2127,chris evert-lloyd,center-bottom
 2128,chrissy.davey@soschildren.org,center-bottom
 2129,chrissy@soschildren.org,bottom
-2130,christ,center-top
+2130,christ,top
 2131,christ church,center
 2132,christian,top
 2133,christian bale,center-bottom
 2134,christian crusaders,bottom
 2135,christian era,top
-2136,christian faith,top
+2136,christian faith,center-bottom
 2137,christian humility,bottom
 2138,christian religion,center-bottom
 2139,christiania,center-top
@@ -2148,7 +2148,7 @@
 2146,chromatic aberration,top
 2147,chromatophore,top
 2148,chromium,center
-2149,church,bottom
+2149,church,center
 2150,church of england,top
 2151,church of ireland,top
 2152,church of rome,center-bottom
@@ -2163,7 +2163,7 @@
 2161,circulating libraries,center-top
 2162,cites,bottom
 2163,cites appendix i,center
-2164,cities,center-bottom
+2164,cities,center-top
 2165,citizen,top
 2166,citizen kane,bottom
 2167,citizenry,top
@@ -2184,7 +2184,7 @@
 2182,civic,center
 2183,civil,center-bottom
 2184,civil rights,top
-2185,civil rights movement,top
+2185,civil rights movement,center-top
 2186,civil society,top
 2187,civil war,top
 2188,civil war in the democratic republic of congo,top
@@ -2199,8 +2199,8 @@
 2197,cl2,center-top
 2198,clarinet,center-bottom
 2199,clarinets,center
-2200,class,center
-2201,classic female blues,center
+2200,class,top
+2201,classic female blues,center-top
 2202,classical greece,top
 2203,classical greek,top
 2204,classical myth,top
@@ -2225,12 +2225,12 @@
 2223,climate change,top
 2224,climate changes,top
 2225,climates,center-top
-2226,climatic,bottom
+2226,climatic,top
 2227,climatic change,center
 2228,climatic types,center-top
 2229,clinical,top
 2230,clinically,center-bottom
-2231,clinton,center-top
+2231,clinton,center-bottom
 2232,clinton administration,center-bottom
 2233,clintonesque,center-top
 2234,clock,center-top
@@ -2239,11 +2239,11 @@
 2237,clothe,top
 2238,clothing,center
 2239,cloud,center-top
-2240,cloudless,bottom
+2240,cloudless,center-bottom
 2241,clouds,top
 2242,cloudtops,center-top
 2243,cloudy,center-bottom
-2244,cm,center-bottom
+2244,cm,center
 2245,cmb,center-bottom
 2246,cnut,top
 2247,co-operative,center-bottom
@@ -2256,9 +2256,9 @@
 2254,coaling,center-top
 2255,coals,bottom
 2256,coastal redwood,top
-2257,coat of arms,center
+2257,coat of arms,bottom
 2258,cobalt,center
-2259,coccinellidae,center-top
+2259,coccinellidae,top
 2260,cochineal,top
 2261,cochineal dye,center-top
 2262,cochineal insects,center-top
@@ -2268,20 +2268,20 @@
 2266,coconut,top
 2267,coconut crab,top
 2268,coconut crabs,bottom
-2269,coconut oil,center-bottom
+2269,coconut oil,center-top
 2270,coconuts,center-bottom
 2271,cocos (keeling) islands,bottom
-2272,cod,center-bottom
+2272,cod,center-top
 2273,code,center
 2274,code of football,top
 2275,code of hammurabi,center-top
 2276,codex hammurabi,center-top
-2277,codon,center-top
+2277,codon,center-bottom
 2278,codons,top
 2279,coffee,center-top
 2280,coffees,center-bottom
 2281,coin,bottom
-2282,coinage,top
+2282,coinage,center-top
 2283,coins,top
 2284,cold,center-bottom
 2285,cold war,top
@@ -2294,7 +2294,7 @@
 2292,colombia,top
 2293,colombia child sponsorship,center-bottom
 2294,colombian,bottom
-2295,colombians,center-top
+2295,colombians,center
 2296,colombo,top
 2297,colonel robert baden-powell,top
 2298,colonial,top
@@ -2320,18 +2320,18 @@
 2318,columbia river,top
 2319,columbia space shuttle disaster,top
 2320,columbidae,top
-2321,columbine high school massacre,top
+2321,columbine high school massacre,bottom
 2322,columbus,bottom
-2323,"columbus, ohio",top
+2323,"columbus, ohio",center-bottom
 2324,combined,top
 2325,comet,top
 2326,comet hale-bopp,bottom
-2327,comet halley,bottom
-2328,comet hyakutake,bottom
+2327,comet halley,center-bottom
+2328,comet hyakutake,center-top
 2329,comet shoemaker-levy 9,bottom
 2330,comet's,center
 2331,cometary,bottom
-2332,comets,center
+2332,comets,top
 2333,comic book adaptations,top
 2334,comics,top
 2335,comma johanneum,top
@@ -2339,7 +2339,7 @@
 2337,commercial production,center-top
 2338,commercial radio,center-bottom
 2339,commercially important,top
-2340,commercials,bottom
+2340,commercials,center
 2341,commodore 64,center-bottom
 2342,commodore 64s,center
 2343,common,bottom
@@ -2413,8 +2413,8 @@
 2411,congolese,center
 2412,congress,top
 2413,congressional,center-top
-2414,congressman,top
-2415,congressmen,top
+2414,congressman,center-bottom
+2415,congressmen,bottom
 2416,congresswoman,center-bottom
 2417,conquest,center-bottom
 2418,consequences,center-bottom
@@ -2424,11 +2424,11 @@
 2422,constable,center-bottom
 2423,constantine,center-top
 2424,constantine i,top
-2425,constantinople,center
+2425,constantinople,bottom
 2426,constitution,center
 2427,"constitution of may 3, 1791",center
 2428,constitution of the united states,bottom
-2429,constitutional,center-top
+2429,constitutional,top
 2430,constitutional government,center-bottom
 2431,constitutional monarch,bottom
 2432,constitutional monarchies,top
@@ -2460,7 +2460,7 @@
 2458,cool,center-top
 2459,cooperative,center
 2460,cooperatives,top
-2461,coot,center-bottom
+2461,coot,center-top
 2462,copenhagen,top
 2463,copernican,center-bottom
 2464,copernican system,top
@@ -2471,9 +2471,9 @@
 2469,copper(i) chloride,center-bottom
 2470,corfu,center
 2471,coriander,top
-2472,corinthian war,center
+2472,corinthian war,top
 2473,cormorant,center
-2474,cormorants,bottom
+2474,cormorants,top
 2475,corn,center
 2476,corn oil,bottom
 2477,cornea,top
@@ -2481,15 +2481,15 @@
 2479,corneas,center
 2480,cornell theory centre,bottom
 2481,cornell university,top
-2482,coronation street,top
+2482,coronation street,center-top
 2483,corporate,center-bottom
 2484,corporate finance,top
 2485,corporation,top
-2486,corporations,center-top
+2486,corporations,top
 2487,corrode,top
 2488,corrodes,center
 2489,corrosion,top
-2490,corrosive,top
+2490,corrosive,bottom
 2491,corrosively,bottom
 2492,corundum,center-bottom
 2493,cos,top
@@ -2497,7 +2497,7 @@
 2495,cosmic background radiation,top
 2496,cosmic inflation,center-top
 2497,cosmic microwave background,top
-2498,cosmic microwave background radiation,top
+2498,cosmic microwave background radiation,center-top
 2499,costa rica,bottom
 2500,costa rica child sponsorship,center-bottom
 2501,costa rican,top
@@ -2543,13 +2543,13 @@
 2541,cretaceous,top
 2542,cretaceous-tertiary extinction,bottom
 2543,cretaceous-tertiary extinction event,center
-2544,crick,center-bottom
+2544,crick,bottom
 2545,cricket,bottom
 2546,cricket ground,center-bottom
 2547,cricketer,top
 2548,cricketers,top
 2549,cricketing,top
-2550,crickets,center-bottom
+2550,crickets,center
 2551,crime,center-bottom
 2552,crime and punishment,center
 2553,crimean war,center-top
@@ -2558,7 +2558,7 @@
 2556,criminal,top
 2557,criminal activity,center-bottom
 2558,criminal offences,center-top
-2559,criminals,center-top
+2559,criminals,center-bottom
 2560,criticism,top
 2561,croatia,bottom
 2562,croatia child sponsorship,center-bottom
@@ -2578,31 +2578,31 @@
 2576,crossed the atlantic,center-top
 2577,crow,center-top
 2578,crown,top
-2579,crown jewels,bottom
+2579,crown jewels,center-bottom
 2580,crows,center-top
-2581,crude oil,center-bottom
+2581,crude oil,top
 2582,crusade,center
 2583,crusader,center
-2584,crusaders,center-top
+2584,crusaders,center
 2585,crusades,top
 2586,crusading,center-bottom
 2587,crust,top
 2588,crustacean,center-bottom
-2589,crustaceans,top
+2589,crustaceans,center
 2590,crustal,bottom
 2591,crusts,center-top
-2592,cryptographic,center
+2592,cryptographic,top
 2593,cryptographically,center-bottom
-2594,cryptography,center
+2594,cryptography,bottom
 2595,cryptology,center-bottom
 2596,crystal,top
 2597,crystalline,top
 2598,crystalline lens,center-top
 2599,crystallising,center-top
 2600,crystallization,top
-2601,crystallize,top
+2601,crystallize,center-top
 2602,crystals,top
-2603,cu,center-top
+2603,cu,top
 2604,cuba,top
 2605,cuban,center-top
 2606,cubans,center-top
@@ -2618,7 +2618,7 @@
 2616,cultivar groups,center-top
 2617,cultivars,center-top
 2618,cultivate,center-bottom
-2619,cultivated,top
+2619,cultivated,center-top
 2620,cultivation,bottom
 2621,cultural,top
 2622,cultural differences,center-bottom
@@ -2629,7 +2629,7 @@
 2627,cultures,top
 2628,curie,bottom
 2629,curium,center
-2630,currencies,top
+2630,currencies,center-top
 2631,currency,top
 2632,current composition,center-top
 2633,current global climate change,bottom
@@ -2639,7 +2639,7 @@
 2637,cyanocobalamin,center-bottom
 2638,cyberpunk,center
 2639,cycles,center
-2640,cyclones,center
+2640,cyclones,center-top
 2641,cyclopes,center-top
 2642,cyclops,center-top
 2643,cymbopogon,center-bottom
@@ -2660,13 +2660,13 @@
 2658,côte d'ivoire,bottom
 2659,côte d'ivoire (ivory coast),bottom
 2660,d,top
-2661,d. anglica,center
+2661,d. anglica,center-bottom
 2662,d.c.,top
 2663,d2 vodafone,center
 2664,da vinci,center-bottom
 2665,dada,bottom
 2666,dadaism,top
-2667,dadaist,center-top
+2667,dadaist,bottom
 2668,dadaists,center-bottom
 2669,dahomey,center-top
 2670,daily,center-bottom
@@ -2674,7 +2674,7 @@
 2672,dalai lama,center
 2673,dali,center-top
 2674,dallas,center
-2675,"dallas, texas",center-top
+2675,"dallas, texas",top
 2676,dalriadic,center-bottom
 2677,dalí,bottom
 2678,dam,top
@@ -2698,7 +2698,7 @@
 2696,danske statsbaner,center-bottom
 2697,dante,top
 2698,dante aligheri,center-bottom
-2699,dante alighieri,bottom
+2699,dante alighieri,center-bottom
 2700,dante alighieri's,center
 2701,dante's,center
 2702,dantes,center-bottom
@@ -2712,8 +2712,8 @@
 2710,dark ages,top
 2711,darling,top
 2712,darth vader,center
-2713,dartmoor,center-top
-2714,darwin,center
+2713,dartmoor,bottom
+2714,darwin,top
 2715,darwin's,center
 2716,darwinian,top
 2717,darwinian evolution,center-bottom
@@ -2721,28 +2721,28 @@
 2719,das kapital,top
 2720,data encryption standard,center-top
 2721,david,center-top
-2722,david attenborough,center
-2723,david beckham,center-top
+2722,david attenborough,center-bottom
+2723,david beckham,center-bottom
 2724,david cameron,bottom
 2725,david copperfield,center-bottom
 2726,david hilbert,center
 2727,david hume,top
-2728,david livingstone,top
-2729,davis cup,top
+2728,david livingstone,center-top
+2729,davis cup,center-top
 2730,davy,center
 2731,day,center
 2732,daylight,center
 2733,days,top
 2734,dayuan,top
 2735,dead sea,top
-2736,dead sea scrolls,center-top
+2736,dead sea scrolls,bottom
 2737,deadlock of the trenches,top
 2738,death valley national park,center
 2739,debate about creationism and evolution,bottom
 2740,decade volcano,center
 2741,decade volcanoes,center-bottom
 2742,decades of war,top
-2743,declaration of american independence,center-bottom
+2743,declaration of american independence,top
 2744,declaration of independence,top
 2745,declared their independence,top
 2746,declared war,center-top
@@ -2756,25 +2756,25 @@
 2754,"define the term ""planet""",top
 2755,"definition of ""planet""",center-top
 2756,definition of a planet,center-top
-2757,definition of planet,center-bottom
+2757,definition of planet,center-top
 2758,definition of the term planet,center-top
 2759,degradation of soils,top
-2760,deinonychus,bottom
+2760,deinonychus,center
 2761,deinonychus antirrhopus,bottom
-2762,deities,center-bottom
+2762,deities,top
 2763,deity,top
 2764,delhi,top
 2765,deluge,center-top
 2766,deluge (mythology),bottom
 2767,deluge in mythology,top
-2768,demand,top
+2768,demand,center-top
 2769,demand meets supply,bottom
 2770,demand note,bottom
 2771,demineralized,center
 2772,democracies,bottom
 2773,democracy,top
 2774,democratic,top
-2775,democratic action party,center-bottom
+2775,democratic action party,bottom
 2776,democratic federal yugoslavia,center-top
 2777,democratic governments,center
 2778,democratic people's republic of korea,bottom
@@ -2794,7 +2794,7 @@
 2792,denis law,top
 2793,denmark,bottom
 2794,dennis,bottom
-2795,dennis ritchie,top
+2795,dennis ritchie,center-bottom
 2796,denver,top
 2797,"denver, colorado",top
 2798,deoxyribonucleic acid,center
@@ -2810,7 +2810,7 @@
 2808,despot,center
 2809,despotates,center-bottom
 2810,despotic,center-bottom
-2811,despotism,center-bottom
+2811,despotism,top
 2812,detached,top
 2813,detroit,top
 2814,detroit's,top
@@ -2818,7 +2818,7 @@
 2816,deuteranopia,top
 2817,devonian,top
 2818,devotion to his mother,center-top
-2819,diabetes,center
+2819,diabetes,center-top
 2820,diabetes mellitus,bottom
 2821,diagnosis,center-bottom
 2822,diamond,top
@@ -2831,28 +2831,28 @@
 2829,dice,top
 2830,dick and enid eyeington,top
 2831,dido and aeneas,center
-2832,die,bottom
+2832,die,center-top
 2833,diego garcia,top
 2834,diego maradona,center
 2835,diego velázquez,top
 2836,differential equation,center-bottom
-2837,differential equations,top
+2837,differential equations,bottom
 2838,dihydrogen,center-bottom
 2839,dik-dik,center-top
 2840,dik-diks,center
 2841,dill,center
-2842,dilophosaurus,bottom
+2842,dilophosaurus,center
 2843,dimetrodon,center
-2844,dingo,center
+2844,dingo,center-top
 2845,dingoes,center-bottom
-2846,dinitrogen,center-bottom
+2846,dinitrogen,center
 2847,dinosaur,top
 2848,dinosauria,top
 2849,dinosaurs,top
 2850,diplodocus,top
 2851,dirac,center-bottom
 2852,dirac's,top
-2853,dirigible,center-top
+2853,dirigible,center
 2854,dirigible balloons,top
 2855,dirigibles,bottom
 2856,disciplinary rules,center-bottom
@@ -2866,10 +2866,10 @@
 2864,disputed,top
 2865,disraeli,bottom
 2866,distilled beverage,center
-2867,distilled beverages,center-bottom
+2867,distilled beverages,center-top
 2868,distilled spirits,center-top
 2869,distributions of gnu,center
-2870,district of columbia,center-bottom
+2870,district of columbia,center
 2871,district of mannheim,center-bottom
 2872,distrito federal,top
 2873,diverse,center-bottom
@@ -2887,7 +2887,7 @@
 2885,doctor who,bottom
 2886,dodo,top
 2887,dodo birds,center-bottom
-2888,dodos,center-bottom
+2888,dodos,top
 2889,dog,top
 2890,dogs,bottom
 2891,doha,top
@@ -2898,26 +2898,26 @@
 2896,domesday,top
 2897,domesday book,center-top
 2898,domestic cow,bottom
-2899,domestic dog,top
+2899,domestic dog,bottom
 2900,domestic goat,center-top
 2901,domesticated turkey,center-top
 2902,dominance of democracy,top
 2903,dominica,top
-2904,dominican,center-top
+2904,dominican,top
 2905,dominican rep.,bottom
 2906,dominican republic,top
 2907,dominican republic child sponsorship,center-bottom
 2908,dominicans,center
 2909,donald bradman,bottom
 2910,donald duck,center-top
-2911,donald knuth,top
+2911,donald knuth,center-bottom
 2912,donate,center
 2913,donate and help,center-top
 2914,donate here,center
 2915,donate now!,center
 2916,donating to charity through ebay,center
 2917,donation,top
-2918,donation form,top
+2918,donation form,center-bottom
 2919,donation of advertising space for sos children in the world cup stadiums,center
 2920,donation or sponsoring a child,center-bottom
 2921,donations of alexandria,center
@@ -2931,7 +2931,7 @@
 2929,douglas adams,bottom
 2930,dove,center-bottom
 2931,dover,center
-2932,doves,top
+2932,doves,center-bottom
 2933,down syndrome,center-bottom
 2934,down's syndrome,top
 2935,download an information sheet on wow,center
@@ -2960,14 +2960,14 @@
 2958,droughts,center-top
 2959,drum and bass,center
 2960,drury lane,top
-2961,drury lane theatre,center
+2961,drury lane theatre,top
 2962,dry ice,top
 2963,du fu,bottom
 2964,dualism,top
 2965,dubai,center
 2966,"dubai, united arab emirates",center
 2967,dublin,top
-2968,dubnium,center-bottom
+2968,dubnium,bottom
 2969,duchenne muscular dystrophy,center-top
 2970,duke,center
 2971,duke of clarence and st andrews,top
@@ -2987,7 +2987,7 @@
 2985,dunnock,bottom
 2986,dunnocks,center-top
 2987,dunstable downs,center-top
-2988,duran duran,center-bottom
+2988,duran duran,top
 2989,durham,top
 2990,durham cathedral,bottom
 2991,dutch,top
@@ -3004,7 +3004,7 @@
 3002,dylan,center-top
 3003,dymitriads,center-top
 3004,dynastic egyptian civilization,top
-3005,dysprosium,center
+3005,dysprosium,bottom
 3006,dál riata,top
 3007,dál riatans,center-top
 3008,dürer,bottom
@@ -3013,13 +3013,13 @@
 3011,e. e. cummings,center-top
 3012,e.u.,center-top
 3013,each book,top
-3014,eagle,center
-3015,eagle palms,center-bottom
+3014,eagle,top
+3015,eagle palms,top
 3016,eagle scout,top
 3017,eagle scout award,center
 3018,eagles,top
-3019,ealing,center-bottom
-3020,earl of shaftesbury,center
+3019,ealing,top
+3020,earl of shaftesbury,bottom
 3021,early 10th century,top
 3022,early christianity,center-bottom
 3023,early middle ages,top
@@ -3036,7 +3036,7 @@
 3034,earth’s,center-bottom
 3035,east,center
 3036,east africa,top
-3037,east african,center-bottom
+3037,east african,top
 3038,east african great rift valley,center-top
 3039,east african rift,center
 3040,east africans,top
@@ -3050,8 +3050,8 @@
 3048,east timor,bottom
 3049,east timorese,center-bottom
 3050,east-west schism,bottom
-3051,eastenders,center
-3052,easter island,bottom
+3051,eastenders,center-bottom
+3052,easter island,center
 3053,eastern,top
 3054,eastern africa,top
 3055,eastern empire,top
@@ -3068,7 +3068,7 @@
 3066,eastern world,center-top
 3067,ebony,center-top
 3068,echelon,bottom
-3069,ecological,center-bottom
+3069,ecological,top
 3070,ecologies,top
 3071,ecologists,center-bottom
 3072,ecology,top
@@ -3097,38 +3097,38 @@
 3095,edmund burke,center
 3096,edmund hillary,center
 3097,education,top
-3098,education in the united states,center-bottom
+3098,education in the united states,bottom
 3099,education system,center-top
 3100,educational,top
-3101,educational psychology,center-bottom
+3101,educational psychology,center-top
 3102,educational system,center
 3103,edward,top
-3104,edward gibbon,center-bottom
+3104,edward gibbon,center
 3105,edward gibbon's,center
 3106,edward i,center-top
 3107,edward i (longshanks),center-bottom
 3108,edward i of england,top
 3109,edward ii,top
 3110,edward ii of england,center-bottom
-3111,edward iii,top
+3111,edward iii,bottom
 3112,edward iii of england,top
 3113,edward iii's,center-top
 3114,edward iv,top
 3115,edward iv of england,center-top
 3116,edward iv's,center
-3117,edward jenner,top
+3117,edward jenner,center-bottom
 3118,edward teller,center-bottom
-3119,edward the confessor,center-top
+3119,edward the confessor,top
 3120,edward v,center-top
 3121,edward v of england,center-top
 3122,edward vi,top
 3123,edward vi of england,bottom
-3124,edward vii,center-top
+3124,edward vii,top
 3125,edward vii of the united kingdom,top
 3126,edward viii,center-top
 3127,"edward, earl of march",center
 3128,"edward, prince of wales",center-top
-3129,edwin,top
+3129,edwin,center-top
 3130,edwin of northumbria,top
 3131,eec,top
 3132,effect,top
@@ -3148,13 +3148,13 @@
 3146,eighteenth century,center-top
 3147,eighth,top
 3148,eighth centuries,bottom
-3149,eighth century,center-top
+3149,eighth century,center
 3150,eilmer of malmesbury,center-top
 3151,einstein,center-bottom
 3152,einstein's,center
 3153,einstein's famous equation,center-bottom
 3154,einsteinium,top
-3155,eisenhower,center-top
+3155,eisenhower,center
 3156,eisenhower administration,center-bottom
 3157,eisenhower's,center
 3158,el aaiún,top
@@ -3171,7 +3171,7 @@
 3169,electing,top
 3170,election,center-top
 3171,election rigging,top
-3172,elections,top
+3172,elections,center-bottom
 3173,electoral franchise,center-bottom
 3174,electoral system,center-top
 3175,electric,top
@@ -3200,7 +3200,7 @@
 3198,electronic equipment,center
 3199,electronic television,top
 3200,electronics,center
-3201,electrons,center-top
+3201,electrons,top
 3202,element,top
 3203,element 105,bottom
 3204,element 118,top
@@ -3212,7 +3212,7 @@
 3210,elephant,top
 3211,elephants,center-bottom
 3212,eleventh centuries,top
-3213,eleventh century,top
+3213,eleventh century,center-top
 3214,eliminative materialists,center-top
 3215,eliot,bottom
 3216,elite,top
@@ -3221,8 +3221,8 @@
 3219,elizabeth i,top
 3220,elizabeth i of england,center-top
 3221,elizabeth i's,center
-3222,elizabeth ii,top
-3223,elizabeth ii of the united kingdom,center
+3222,elizabeth ii,center
+3223,elizabeth ii of the united kingdom,top
 3224,elizabeth ii of the united kingdom|queen elizabeth ii,top
 3225,elizabethean,center
 3226,elvis,center
@@ -3237,11 +3237,11 @@
 3235,emotionally,center-bottom
 3236,emotions,top
 3237,emperor and king charles,top
-3238,emperor charles v,top
+3238,emperor charles v,center-top
 3239,emperor friedrich ii,top
 3240,emperor hirohito,bottom
 3241,emperor of the french,center-top
-3242,emperor penguin,top
+3242,emperor penguin,center-top
 3243,emperor penguins,bottom
 3244,empire,top
 3245,empires,center-top
@@ -3249,21 +3249,21 @@
 3247,empirical evidence,center
 3248,empirical observation,bottom
 3249,empirical observations,top
-3250,empiricism,center
+3250,empiricism,center-top
 3251,empiricist,center-top
 3252,employee,top
 3253,employer,top
-3254,employment,bottom
-3255,emu,top
+3254,employment,top
+3255,emu,bottom
 3256,emus,center-bottom
 3257,en,top
 3258,enamel,top
 3259,enceladus,center-bottom
 3260,encoded,center
-3261,encyclopaedia cd,top
+3261,encyclopaedia cd,center-top
 3262,encyclopædia britannica,center
-3263,endeavour,center-bottom
-3264,energies,center-top
+3263,endeavour,top
+3264,energies,top
 3265,energy,top
 3266,energy source,top
 3267,engineer,bottom
@@ -3283,7 +3283,7 @@
 3281,english name,center-top
 3282,english naval squadrons,top
 3283,english peasant revolt,center
-3284,english poet,top
+3284,english poet,center
 3285,english poetry,top
 3286,english pronunciation,top
 3287,english reformation,top
@@ -3325,7 +3325,7 @@
 3323,er,center-top
 3324,erbium,center
 3325,eric clapton,top
-3326,erie canal,center-top
+3326,erie canal,top
 3327,eris,center-top
 3328,eritrea,bottom
 3329,eritrean,center-bottom
@@ -3335,7 +3335,7 @@
 3333,"ernesto ""che"" guevara",center-top
 3334,ernesto che guevara,center-bottom
 3335,ernesto “che” guevara,center-top
-3336,eruption,top
+3336,eruption,center
 3337,eruption column,center
 3338,eruption columns,center
 3339,eruptions,center
@@ -3343,7 +3343,7 @@
 3341,es,center-bottom
 3342,esa,top
 3343,esa's,center-bottom
-3344,eskimo,center-top
+3344,eskimo,center-bottom
 3345,eskimos,center-bottom
 3346,esperanto,center-bottom
 3347,esperanto and education,top
@@ -3372,12 +3372,12 @@
 3370,ethnic conflict in sri lanka,top
 3371,ethnic group,top
 3372,ethnic groups,top
-3373,ethnicity,center-top
+3373,ethnicity,center
 3374,ethno,top
 3375,ethyl alcohol,center-top
 3376,eu,center-top
-3377,eubacteria,center-top
-3378,euclid,center-top
+3377,eubacteria,top
+3378,euclid,top
 3379,euclid's,top
 3380,euclidean,center-top
 3381,euclidean geometry,center-bottom
@@ -3416,14 +3416,14 @@
 3414,europium,top
 3415,euros,center-top
 3416,eurovision,center-bottom
-3417,eurovision song contest,center-bottom
+3417,eurovision song contest,bottom
 3418,eu€,center-top
 3419,evaporate,bottom
 3420,evening star,center-bottom
 3421,events,center-top
 3422,events at taku forts,center-top
 3423,events@soschildren.org,center-top
-3424,everest,center-bottom
+3424,everest,bottom
 3425,evita,bottom
 3426,evolution,top
 3427,evolution by natural selection,center-bottom
@@ -3435,14 +3435,14 @@
 3433,evolutionary science,center-top
 3434,evolutionary stable strategy,bottom
 3435,evolutionists,top
-3436,evolve,top
+3436,evolve,center-top
 3437,evolved,top
 3438,evolving,center
 3439,ex-soviet republics,center-bottom
 3440,ex-yugoslavians,center
 3441,"example of sos social centre lusaka, zambia",center
 3442,"example of sos social centre mamelodi, south africa",center
-3443,"example of sos social centre mbabane, swaziland",center
+3443,"example of sos social centre mbabane, swaziland",center-top
 3444,"example of sos social centre waterfalls, zimbabwe",center-top
 3445,exchanges,center-bottom
 3446,executive,top
@@ -3450,7 +3450,7 @@
 3448,existentialism,center
 3449,existentialist,top
 3450,existentialist thinkers,center-bottom
-3451,expanded,bottom
+3451,expanded,top
 3452,expanding,top
 3453,expanding space paradigm,top
 3454,expansion,top
@@ -3479,20 +3479,20 @@
 3477,extremely cold,center-bottom
 3478,eye,top
 3479,eyeball,top
-3480,eyelid,top
+3480,eyelid,bottom
 3481,eyelids,center-top
-3482,eyes,center
+3482,eyes,center-top
 3483,eyewall,center-top
 3484,eyewall replacement cycles,top
 3485,eygpt,center
 3486,ezra pound,top
 3487,f,center-bottom
 3488,f-35 joint strike fighter,top
-3489,f-35 lightning ii,center
+3489,f-35 lightning ii,top
 3490,f-35 lightning iis,bottom
 3491,f-35b,bottom
 3492,f-4 phantom ii,center-bottom
-3493,f7,center-bottom
+3493,f7,center
 3494,f7s,center-top
 3495,fa units,center-top
 3496,fabric,top
@@ -3502,8 +3502,8 @@
 3500,facts and figures,center
 3501,failures,top
 3502,fair isle,center-top
-3503,falcon,center-top
-3504,falcons,bottom
+3503,falcon,center
+3504,falcons,center-top
 3505,falkland islands,center-top
 3506,falkland islands dependencies,top
 3507,falkland/malvinas islands,top
@@ -3511,7 +3511,7 @@
 3509,fall,top
 3510,fall season,center
 3511,famicom,center-bottom
-3512,families,top
+3512,families,center-top
 3513,family,top
 3514,family carer programme in ghana,center-top
 3515,family life,center-top
@@ -3521,7 +3521,7 @@
 3519,fancy cut,center-top
 3520,fancy cuts,top
 3521,far ultraviolet,center
-3522,faraday,center-top
+3522,faraday,center
 3523,farming,center
 3524,farms,center
 3525,faroe islands,bottom
@@ -3535,16 +3535,16 @@
 3533,fat,center-top
 3534,father,top
 3535,fatty,center-top
-3536,fatty acid,top
+3536,fatty acid,center-top
 3537,fatty acids,top
 3538,fbi,center
 3539,fbi (federal bureau of investigation),bottom
 3540,fdr,center
 3541,fdr democrat,top
 3542,fe,center-bottom
-3543,feathers,center-bottom
+3543,feathers,top
 3544,feature length films,top
-3545,fecl3,top
+3545,fecl3,center-top
 3546,fed cup,center-top
 3547,federal,top
 3548,federal bureau of investigation,top
@@ -3553,12 +3553,12 @@
 3551,federal government,center
 3552,federal mps,center-bottom
 3553,federal parliament,center-top
-3554,federal republic of germany,bottom
+3554,federal republic of germany,top
 3555,federated states of micronesia,center-top
 3556,federation cup,center
 3557,fedora core,bottom
 3558,feldspar,center-top
-3559,feldspars,center
+3559,feldspars,top
 3560,felines,center-top
 3561,felix mendelssohn,bottom
 3562,felix mendelssohn bartholdy,center-bottom
@@ -3572,23 +3572,23 @@
 3570,ferdinandea,center-top
 3571,fermi paradox,bottom
 3572,fermium,bottom
-3573,fern,center
+3573,fern,center-top
 3574,ferns,center
-3575,fertile crescent,top
+3575,fertile crescent,center-top
 3576,fertilisers,bottom
-3577,fertilization,center-bottom
+3577,fertilization,center
 3578,fertilizer,bottom
 3579,fertilizers,top
 3580,feynman,bottom
 3581,ffestiniog railway,center-top
 3582,fibre optic,center-bottom
-3583,fibre-optic,top
+3583,fibre-optic,center-bottom
 3584,fibre-optics,center-bottom
 3585,fibreglass,center
 3586,fiction,top
 3587,fictional,top
 3588,fictitious,center-bottom
-3589,fidel castro,center-bottom
+3589,fidel castro,center-top
 3590,fieldfares,center
 3591,fifa,bottom
 3592,fifa 6 for 2006,center-bottom
@@ -3631,7 +3631,7 @@
 3629,find out more about the campaign,center
 3630,find out more here,bottom
 3631,fine art,top
-3632,fine arts,bottom
+3632,fine arts,center
 3633,finland,bottom
 3634,finnish,center-top
 3635,finns,center
@@ -3642,7 +3642,7 @@
 3640,firefly,top
 3641,firepower,center
 3642,fires,center-top
-3643,first,top
+3643,first,center-top
 3644,first 'classic response',top
 3645,first century,top
 3646,first century bc,top
@@ -3689,12 +3689,12 @@
 3687,flemish dialects,center-bottom
 3688,flemish people,bottom
 3689,flood,top
-3690,flood myths,center
+3690,flood myths,center-bottom
 3691,flooded,center-top
 3692,flooding,top
 3693,floods,center
-3694,floppy disk,center
-3695,floppy disks,center-top
+3694,floppy disk,top
+3695,floppy disks,center
 3696,florence nightingale,top
 3697,florida,top
 3698,florida east coast railway,center-top
@@ -3722,13 +3722,13 @@
 3720,folk tale,top
 3721,folk-based,center
 3722,folklore,bottom
-3723,folkloric,top
+3723,folkloric,bottom
 3724,folklorist,top
 3725,folktales,center-top
 3726,"fongafale, tuvalu",top
 3727,food,top
 3728,food sources,center-top
-3729,foods,center
+3729,foods,center-top
 3730,foodstuff,top
 3731,foodstuffs,center-top
 3732,football,bottom
@@ -3743,20 +3743,20 @@
 3741,footer/banner/link to our website,center-bottom
 3742,force,top
 3743,forces,center
-3744,ford,center-bottom
+3744,ford,center
 3745,foreign invasion,top
 3746,forest,top
 3747,forested,center
 3748,forested land,top
-3749,forests,top
-3750,formal logic,top
+3749,forests,center-top
+3750,formal logic,center
 3751,former british colony,top
 3752,former yugoslav republic of macedonia,center-bottom
 3753,formic acid,center
 3754,formosa,top
 3755,formula one,bottom
 3756,formula one world championship,center-top
-3757,forrest gump,center-top
+3757,forrest gump,top
 3758,forth,top
 3759,forth (rail) bridge,top
 3760,forth bridge,top
@@ -3768,7 +3768,7 @@
 3766,fossil fuels,center-bottom
 3767,fossil record,center-top
 3768,fossil records,bottom
-3769,fossil-fuel,center-bottom
+3769,fossil-fuel,top
 3770,fossilised,center
 3771,fossilization,center
 3772,fossilize,top
@@ -3778,7 +3778,7 @@
 3776,four,bottom
 3777,four equations,top
 3778,fourteenth,center-top
-3779,fourteenth amendment,top
+3779,fourteenth amendment,center-bottom
 3780,fourteenth century,top
 3781,fourth,center
 3782,fourth centuries ad,top
@@ -3812,7 +3812,7 @@
 3810,frankfurt,bottom
 3811,frankfurt am main,top
 3812,frankish,top
-3813,franklin,top
+3813,franklin,center
 3814,franklin d. roosevelt,center
 3815,franklin delano roosevelt,center-bottom
 3816,franklin pierce,center
@@ -3823,7 +3823,7 @@
 3821,frederick,center-top
 3822,frederick douglass,center-top
 3823,frederick ii,top
-3824,frederick ii of prussia,center-top
+3824,frederick ii of prussia,top
 3825,"frederick ii, holy roman emperor",center-top
 3826,frederick the great,center-top
 3827,frederick the great's,bottom
@@ -3858,11 +3858,11 @@
 3856,french polynesia,bottom
 3857,french southern and antarctic lands,center-bottom
 3858,french southern territories,bottom
-3859,fresh,top
+3859,fresh,center
 3860,fresh water,top
 3861,freshwater,top
 3862,freshwater faunas,center-top
-3863,freud,bottom
+3863,freud,center
 3864,freud's,center
 3865,freudian,center-bottom
 3866,friedrich ii,bottom
@@ -3893,7 +3893,7 @@
 3891,fungus,top
 3892,fur,top
 3893,futbol (soccer),center-bottom
-3894,future first,center-bottom
+3894,future first,center
 3895,future first project,center-top
 3896,fyodor dostoevsky,top
 3897,fédération internationale de football association,top
@@ -3917,10 +3917,10 @@
 3915,galileo mission,center-top
 3916,galileo's,center-bottom
 3917,gallium,top
-3918,galveston hurricane of 1900,center-bottom
+3918,galveston hurricane of 1900,top
 3919,galápagos,center-top
 3920,galápagos islands,top
-3921,gambia,center-bottom
+3921,gambia,center
 3922,"gambia, the",center-bottom
 3923,"gambia, the child sponsorship",center-bottom
 3924,game,top
@@ -3928,12 +3928,12 @@
 3926,game console,top
 3927,game theorists,center-bottom
 3928,game theory,center-bottom
-3929,games,bottom
+3929,games,top
 3930,gandhi,center-top
 3931,gandhi's,center-bottom
 3932,ganesh,center-top
 3933,ganesha,top
-3934,ganga,bottom
+3934,ganga,center-top
 3935,ganga valley,bottom
 3936,ganges,center
 3937,ganges (ganga),top
@@ -3944,7 +3944,7 @@
 3942,garden,top
 3943,gardeners,center-top
 3944,gardening,top
-3945,gardens,center-top
+3945,gardens,top
 3946,garment,top
 3947,gas,top
 3948,gas exploration,center-top
@@ -3961,7 +3961,7 @@
 3959,gaur,center-top
 3960,gaurs,center-top
 3961,gauss,bottom
-3962,gauss's law,top
+3962,gauss's law,bottom
 3963,gautama buddha,top
 3964,gauß,center-bottom
 3965,gaza strip,center-bottom
@@ -3973,14 +3973,14 @@
 3971,gb￡,top
 3972,gcb,top
 3973,gd:,top
-3974,gdrt,top
+3974,gdrt,bottom
 3975,ge,top
-3976,geese,center
+3976,geese,top
 3977,gender,center
 3978,genders,center-top
-3979,genealogical,center-top
+3979,genealogical,center-bottom
 3980,genealogically,top
-3981,genealogies,center-top
+3981,genealogies,top
 3982,genealogists,bottom
 3983,genealogy,top
 3984,general aids africa information,top
@@ -4002,7 +4002,7 @@
 4000,genevan,top
 4001,genghis khan,top
 4002,genoa,top
-4003,genoan,center-bottom
+4003,genoan,center-top
 4004,genocide,top
 4005,genoese,center-top
 4006,genovese,top
@@ -4027,7 +4027,7 @@
 4025,geometrical,top
 4026,geometrically,top
 4027,geometry,top
-4028,georg cantor,center-top
+4028,georg cantor,center-bottom
 4029,george,top
 4030,george bush,center-top
 4031,george eliot,center
@@ -4067,7 +4067,7 @@
 4065,german reunification,bottom
 4066,german-language,center
 4067,germanic,center-bottom
-4068,germanium,center-top
+4068,germanium,center
 4069,germans,top
 4070,germany,top
 4071,germany proper,top
@@ -4078,16 +4078,16 @@
 4076,gg1,center-top
 4077,ghana,bottom
 4078,ghana child sponsorship,center-bottom
-4079,ghanaian,center-top
+4079,ghanaian,center-bottom
 4080,ghengis,center-top
 4081,ghost dance,bottom
 4082,giant eland,center
-4083,giant panda,center-bottom
+4083,giant panda,top
 4084,giant planets,top
 4085,giant's causeway,center-top
 4086,gibbon,center-bottom
 4087,gibraltar,center
-4088,giganotosaurus,bottom
+4088,giganotosaurus,top
 4089,gilgamesh,top
 4090,gilles villeneuve,bottom
 4091,giraffe,center-bottom
@@ -4100,10 +4100,10 @@
 4098,glacial melt,center
 4099,glacial meltwater,top
 4100,glacial period,bottom
-4101,glaciated,center
+4101,glaciated,top
 4102,glaciation,center-top
-4103,glacier,top
-4104,glacier national park,top
+4103,glacier,center
+4104,glacier national park,center-top
 4105,glacier national park (us),center-top
 4106,glacier retreat,center
 4107,glaciers,top
@@ -4113,50 +4113,50 @@
 4111,glasgow's,bottom
 4112,glass,top
 4113,glass-fibre,center
-4114,glasses,center
+4114,glasses,center-bottom
 4115,glassmaking,top
 4116,glassware,bottom
 4117,glassy,center-top
 4118,glastonbury festival,center-bottom
 4119,glaswegian,top
-4120,glaxosmithkline,center-bottom
+4120,glaxosmithkline,center
 4121,glide,top
 4122,gliding,top
 4123,gliese 876,top
 4124,gliese 876 b,center-top
-4125,gliese 876 c,center-bottom
+4125,gliese 876 c,center
 4126,gliese 876 d,bottom
 4127,global,center-bottom
 4128,global cities,top
 4129,global city,top
 4130,global climate,top
 4131,global flood,center-top
-4132,global poverty,center-bottom
+4132,global poverty,center
 4133,global social processes,top
 4134,global spread of h5n1,center-top
 4135,global temperature,center
 4136,global warming,bottom
 4137,globalisation,center-top
 4138,globalising,top
-4139,globalization,center-bottom
+4139,globalization,bottom
 4140,globalized,top
 4141,globalized market,top
 4142,globe,top
-4143,globe theatre,top
+4143,globe theatre,center-bottom
 4144,globular cluster,top
 4145,globular clusters,center-bottom
 4146,glorious revolution,top
 4147,glorious revolution of 1688,top
 4148,gmail,center
 4149,gnome,center-top
-4150,gnu,bottom
+4150,gnu,top
 4151,gnu emacs,center-top
 4152,gnu operating system,center-bottom
 4153,gnu os distribution that uses gnu hurd as its core,center-bottom
 4154,gnu project,top
 4155,gnu/linux,center
 4156,gnus,center-bottom
-4157,go,bottom
+4157,go,center-top
 4158,go/weiqi,top
 4159,goa,top
 4160,goan,center
@@ -4176,18 +4176,18 @@
 4174,goldcrest,center
 4175,golden,top
 4176,golden eagle,top
-4177,golden eagles,center
+4177,golden eagles,center-top
 4178,golden gate highlands national park,bottom
-4179,goldfish,center-bottom
+4179,goldfish,bottom
 4180,gone with the wind,center
-4181,google,center-top
+4181,google,bottom
 4182,google mail,top
 4183,"google, inc.",center-bottom
 4184,goose,top
 4185,gorbachev,center-top
 4186,gordon brown,center-bottom
 4187,gordon strachan,center-bottom
-4188,gorilla,center
+4188,gorilla,top
 4189,gorillas,top
 4190,gossypium,top
 4191,gothenburg,center-bottom
@@ -4195,7 +4195,7 @@
 4193,gottfried wilhelm von leibniz,center
 4194,gould,top
 4195,government,top
-4196,governmental,top
+4196,governmental,center-bottom
 4197,governments,center-top
 4198,grain,top
 4199,grainites,center
@@ -4220,7 +4220,7 @@
 4218,graven images,bottom
 4219,gravitation,top
 4220,gravitational,top
-4221,gravitational attraction,top
+4221,gravitational attraction,center-top
 4222,gravitational capture,center
 4223,gravitational field,top
 4224,gravitational force,center-bottom
@@ -4230,16 +4230,16 @@
 4228,gravitationally bound,top
 4229,gravity,center-top
 4230,gray reef shark,center-top
-4231,gray wolf,center-top
+4231,gray wolf,top
 4232,grease,center-bottom
-4233,great auk,center
-4234,great barrier reef,center
+4233,great auk,top
+4234,great barrier reef,bottom
 4235,great black-backed gull,bottom
 4236,great britain,top
 4237,great bustards,bottom
 4238,great central lakes,top
 4239,great charter,center
-4240,great comet,center-top
+4240,great comet,top
 4241,great comets,bottom
 4242,great cormorant,top
 4243,great crested grebe,bottom
@@ -4248,9 +4248,9 @@
 4246,great floods,center-bottom
 4247,great lakes,top
 4248,great lakes region,top
-4249,great lakes region of africa,center
+4249,great lakes region of africa,center-top
 4250,great lakes storm of 1913,center
-4251,great moravia,top
+4251,great moravia,center-top
 4252,great moravian empire,center-top
 4253,great plague,top
 4254,great pyramid,top
@@ -4279,7 +4279,7 @@
 4277,greek,top
 4278,greek church,center-top
 4279,greek fable,center-top
-4280,greek god,bottom
+4280,greek god,center
 4281,greek heroes,top
 4282,greek history,center-top
 4283,greek myth,top
@@ -4293,7 +4293,7 @@
 4291,greenhouse effect,center-top
 4292,greenhouse gases,center
 4293,greenland,top
-4294,greg lemond,center
+4294,greg lemond,top
 4295,gregor mendel,center-bottom
 4296,gregorian chant,top
 4297,gregorian chants,top
@@ -4310,9 +4310,9 @@
 4308,guatemala,top
 4309,guatemala child sponsorship,center-bottom
 4310,guatemalans,center
-4311,guernsey,bottom
+4311,guernsey,top
 4312,guernseys,center
-4313,guglielmo marconi,top
+4313,guglielmo marconi,center
 4314,guild,top
 4315,guilds,center
 4316,guinea,bottom
@@ -4332,19 +4332,19 @@
 4330,gulls,top
 4331,gunfighting,center
 4332,gunpowder,center-top
-4333,guqin,center-top
+4333,guqin,top
 4334,gustav holst,center-top
-4335,gustavus swift,top
+4335,gustavus swift,center-top
 4336,gusts,center-bottom
 4337,gutenberg,center-bottom
 4338,guyana,top
 4339,gyeongju,center-bottom
 4340,gypsum,center-bottom
 4341,h,top
-4342,h ii region,top
+4342,h ii region,center-bottom
 4343,h ii regions,center-bottom
 4344,h+,top
-4345,h.d.,bottom
+4345,h.d.,top
 4346,h2,bottom
 4347,h2o,bottom
 4348,h2so4,center
@@ -4353,30 +4353,30 @@
 4351,habitable,bottom
 4352,habitable planet,top
 4353,habitablity,center
-4354,habsburg spain,center-top
+4354,habsburg spain,top
 4355,hadrian's wall,center-top
 4356,haemophilia,bottom
-4357,hafnium,center-bottom
+4357,hafnium,center-top
 4358,haiti,top
 4359,haiti child sponsorship,center-bottom
 4360,haitian,center-top
 4361,haitians,center
 4362,halley,top
-4363,halley's comet,bottom
+4363,halley's comet,top
 4364,halloween,bottom
 4365,hamburg,top
 4366,hamilton,top
 4367,hammurabi,top
 4368,hammurabi's code,top
 4369,hampshire,top
-4370,hampstead heath,top
+4370,hampstead heath,center-top
 4371,handaxes,center-top
 4372,handle and pass the ball,top
 4373,hannah,center
 4374,hannah@soschildren.org,center-top
 4375,hannibal,top
 4376,hannibal barca,center
-4377,hanoi,center-top
+4377,hanoi,center
 4378,harald maddadsson,center-top
 4379,haraldskær woman,center-bottom
 4380,harappan civilization,center-top
@@ -4396,7 +4396,7 @@
 4394,harry truman,center-bottom
 4395,harvest,center
 4396,harvested,top
-4397,harvesting,center-bottom
+4397,harvesting,center
 4398,harvests,center-top
 4399,harvey,center-bottom
 4400,hasekura tsunenaga,top
@@ -4407,17 +4407,17 @@
 4405,hawaiian music,bottom
 4406,hawaiian musical,center-bottom
 4407,hawk,center-bottom
-4408,hawk-eye,center-top
+4408,hawk-eye,center
 4409,hawking,center
-4410,hawking radiation,center-bottom
+4410,hawking radiation,center-top
 4411,hawks,center
-4412,haydn,center-bottom
+4412,haydn,top
 4413,haydn's,top
 4414,hayes,center-bottom
 4415,hcl,center-top
 4416,hd 209458 b,center-bottom
 4417,hd 217107,top
-4418,hd 217107 b,bottom
+4418,hd 217107 b,top
 4419,hd 217107 c,bottom
 4420,hd 28185,top
 4421,hd 28185 b,center-bottom
@@ -4432,7 +4432,7 @@
 4430,heart attacks,bottom
 4431,heartwood,top
 4432,heat,top
-4433,heating,top
+4433,heating,center-top
 4434,heb.,top
 4435,hebrew,top
 4436,hebrew calendar,center-bottom
@@ -4455,7 +4455,7 @@
 4453,helmeted guineafowl,center
 4454,help sos children is providing women in the region,center
 4455,helsinki,center-top
-4456,hemingway,bottom
+4456,hemingway,top
 4457,hemisphere,center-top
 4458,hemispheres,center-bottom
 4459,henipavirus,center-bottom
@@ -4478,7 +4478,7 @@
 4476,henry iv of england,center
 4477,henry james,center-top
 4478,henry moore,bottom
-4479,henry morrison flagler,center-top
+4479,henry morrison flagler,top
 4480,henry morton stanley,center-top
 4481,henry plant's railroad,center-bottom
 4482,henry plantagenet,center-bottom
@@ -4500,7 +4500,7 @@
 4498,her majesty queen elizabeth ii,center-top
 4499,her navy,top
 4500,heracles,top
-4501,heraclius,bottom
+4501,heraclius,center
 4502,herakleios,center
 4503,heraldic,top
 4504,heraldry,bottom
@@ -4511,7 +4511,7 @@
 4509,herbivorous,top
 4510,herbivory,top
 4511,here,center-top
-4512,hereditary information,center
+4512,hereditary information,top
 4513,hereditary prince of brunswick-lüneburg,top
 4514,hernán cortés,top
 4515,hero of the russian federation,top
@@ -4520,9 +4520,9 @@
 4518,herons,top
 4519,herring gull,bottom
 4520,hey jude,top
-4521,hg,center-bottom
+4521,hg,center-top
 4522,hhaider40@hotmail.com,center
-4523,high german consonant shift,top
+4523,high german consonant shift,bottom
 4524,high middle ages,top
 4525,high peak,top
 4526,high water,top
@@ -4540,17 +4540,17 @@
 4538,himalayan range,center
 4539,himalayas,top
 4540,himantopus mexicanus knudseni,center-bottom
-4541,hindi,center-bottom
+4541,hindi,top
 4542,hindu,top
 4543,hinduism,top
 4544,hindus,center-bottom
 4545,hindī,top
 4546,hip hop,center-bottom
-4547,hip hop music,top
+4547,hip hop music,center
 4548,hip-hop,center
 4549,hippocrates,top
 4550,hippocratic,top
-4551,hippopotamus,top
+4551,hippopotamus,center
 4552,hippopotamuses,center-bottom
 4553,hirohito,top
 4554,his assassination,top
@@ -4562,7 +4562,7 @@
 4560,historians of science,top
 4561,historic,top
 4562,historical,center-bottom
-4563,historical events,top
+4563,historical events,center-top
 4564,history,top
 4565,history of anglo-saxon england,top
 4566,history of democracy,center-bottom
@@ -4573,13 +4573,13 @@
 4571,history of science,top
 4572,history of south africa,center-bottom
 4573,history of south africa in the apartheid era,center-top
-4574,history of the earth,center-bottom
+4574,history of the earth,center-top
 4575,history of the modern russian federation,top
 4576,history of the party,top
 4577,history section above,center
 4578,hitchcockian,center-top
 4579,hitchhiker,center-bottom
-4580,hitchhiker's guide to the galaxy,top
+4580,hitchhiker's guide to the galaxy,bottom
 4581,hitler,top
 4582,hiv,center-bottom
 4583,hiv-1,bottom
@@ -4590,16 +4590,16 @@
 4588,hm queen elizabeth ii,top
 4589,hm the queen,center-bottom
 4590,ho chi minh,bottom
-4591,ho chi minh city,top
+4591,ho chi minh city,bottom
 4592,hobbes,top
 4593,hobbesian,top
-4594,hockey,bottom
+4594,hockey,center
 4595,hog,bottom
-4596,hogarth,center-bottom
-4597,holkham hall,center-top
+4596,hogarth,top
+4597,holkham hall,center
 4598,hollandic,center-bottom
 4599,hollywood,bottom
-4600,holmium,center-bottom
+4600,holmium,bottom
 4601,holocaust,center-top
 4602,holy roman,top
 4603,holy roman emperor,center-bottom
@@ -4607,7 +4607,7 @@
 4605,holy roman empire,top
 4606,holy roman empire of the german nation,top
 4607,holy roman empire's,top
-4608,holy trinity,center-bottom
+4608,holy trinity,top
 4609,home army,center-top
 4610,home planet,center-top
 4611,homepage,bottom
@@ -4618,12 +4618,12 @@
 4616,homestar runner,bottom
 4617,homo floresiensis,top
 4618,homo sapiens,top
-4619,honduran,center
+4619,honduran,center-top
 4620,hondurans,center
 4621,honduras,top
 4622,honduras child sponsorship,center-bottom
 4623,honey,top
-4624,honey bees,top
+4624,honey bees,center-top
 4625,hong kong,top
 4626,hong kong special administrative region of the people's republic of china,top
 4627,honi soit qui mal y pense,top
@@ -4648,10 +4648,10 @@
 4646,house sparrow,center
 4647,house sparrows,center-top
 4648,housecat,top
-4649,houses,center-bottom
+4649,houses,top
 4650,houses of parliament,top
 4651,houston,top
-4652,"houston, texas",center-top
+4652,"houston, texas",center
 4653,hovercraft,top
 4654,how to volunteer,center-top
 4655,howards end,center-bottom
@@ -4664,11 +4664,11 @@
 4662,hthp treatment,center-bottom
 4663,http cookies,center
 4664,hubbard glacier,top
-4665,hubble,top
+4665,hubble,center-bottom
 4666,hubble deep field,center-bottom
 4667,hubble expansion,top
 4668,hubble space telescope,center-bottom
-4669,hubble's law,top
+4669,hubble's law,center-top
 4670,hubble-type expansion,center-top
 4671,hudson bay,top
 4672,hugo,top
@@ -4681,7 +4681,7 @@
 4679,human history,top
 4680,human immunodeficiency virus,center
 4681,human languages,center-bottom
-4682,human life,top
+4682,human life,center
 4683,human rights,top
 4684,human society,bottom
 4685,humanism,center-bottom
@@ -4713,13 +4713,13 @@
 4711,hurricane,top
 4712,hurricane alex,top
 4713,hurricane andrew,center-top
-4714,hurricane camille,center-top
+4714,hurricane camille,bottom
 4715,hurricane charley,top
-4716,hurricane dennis,bottom
+4716,hurricane dennis,top
 4717,hurricane epsilon,center-top
 4718,hurricane floyd,center-top
 4719,hurricane georges,bottom
-4720,hurricane gloria,center-bottom
+4720,hurricane gloria,center
 4721,hurricane ivan,center-bottom
 4722,hurricane katrina,bottom
 4723,hurricane lenny,bottom
@@ -4739,7 +4739,7 @@
 4737,hydrochloric acid,top
 4738,hydrochloric acids,center-top
 4739,hydrogen,top
-4740,hydrogen bomb,top
+4740,hydrogen bomb,center
 4741,hydrogen bombs,bottom
 4742,hydrogen gas,top
 4743,hydrogen molecular ion,top
@@ -4752,7 +4752,7 @@
 4750,hänsel und gretel,center-bottom
 4751,hồ chí minh,top
 4752,i,center-top
-4753,i ching,center-bottom
+4753,i ching,bottom
 4754,i want to hold your hand,top
 4755,i-kiribati,bottom
 4756,i. newton,top
@@ -4770,7 +4770,7 @@
 4768,iceland,bottom
 4769,iceland hotspot,top
 4770,icelandic,top
-4771,ichthyosaur,bottom
+4771,ichthyosaur,center-top
 4772,ichthyosaurs,center
 4773,identity,top
 4774,idolatrous,center-bottom
@@ -4796,10 +4796,10 @@
 4794,imperial rome,center-bottom
 4795,implementing a series of harsh segregationist laws,center-top
 4796,imposition of hands,bottom
-4797,impoverished,center-bottom
+4797,impoverished,center-top
 4798,impoverished conditions,top
-4799,impressionism,center-top
-4800,impressionist,bottom
+4799,impressionism,top
+4800,impressionist,top
 4801,impressionistic,center-top
 4802,impressionists,center-top
 4803,in english,top
@@ -4808,12 +4808,12 @@
 4806,inca,top
 4807,inca civilization,center-bottom
 4808,inca empire,top
-4809,inca empires,top
-4810,incan,bottom
+4809,inca empires,center-top
+4810,incan,top
 4811,incas,top
 4812,income disparities,top
 4813,income disparity,center
-4814,income quintiles,center-top
+4814,income quintiles,top
 4815,incorporated,center
 4816,incorporated businesses,center-bottom
 4817,increasing use of iron,bottom
@@ -4826,9 +4826,9 @@
 4824,india's independence,top
 4825,indian,top
 4826,indian cricket team,bottom
-4827,indian economy,center
+4827,indian economy,bottom
 4828,indian home rule,center-top
-4829,indian independence,center-top
+4829,indian independence,bottom
 4830,indian independence movement,top
 4831,indian independence struggle,center-top
 4832,indian ocean,top
@@ -4841,7 +4841,7 @@
 4839,indian sub-continent,bottom
 4840,indians,center-bottom
 4841,indigenous music,center-bottom
-4842,indira gandhi,center-top
+4842,indira gandhi,center
 4843,indira gandhi's,center-bottom
 4844,indirect confrontation,center-bottom
 4845,indium,center-bottom
@@ -4855,12 +4855,12 @@
 4853,indonesian islands,center
 4854,indonesian languages,center
 4855,indonesians,center-top
-4856,indricotherium,center-bottom
+4856,indricotherium,top
 4857,inductance,center-bottom
 4858,indus,top
 4859,indus civilization,center-top
 4860,indus region,top
-4861,indus river,center
+4861,indus river,top
 4862,indus valley,center-top
 4863,indus valley civilization,top
 4864,industrial,center-top
@@ -4871,7 +4871,7 @@
 4869,industrialism,center
 4870,industrialization,center-top
 4871,industrialized,center-top
-4872,industries,top
+4872,industries,center
 4873,industry,top
 4874,inequality,top
 4875,inflation,center-top
@@ -4879,7 +4879,7 @@
 4877,influence,top
 4878,influence the climate,center-top
 4879,info@soschildren.org,bottom
-4880,info@worldorphanweek.com,center
+4880,info@worldorphanweek.com,center-bottom
 4881,information,top
 4882,infrastructural,center
 4883,infrastructure,top
@@ -4892,7 +4892,7 @@
 4890,instrument,bottom
 4891,instrumental,top
 4892,instrumentation,center-bottom
-4893,instruments,bottom
+4893,instruments,center-bottom
 4894,insulin,bottom
 4895,integrated circuit,top
 4896,integrated circuits,center-top
@@ -4948,13 +4948,13 @@
 4946,iran (persia),top
 4947,iranian,top
 4948,iranian people,center-top
-4949,iranian peoples,bottom
+4949,iranian peoples,top
 4950,iranians,top
 4951,iranic peoples,center-top
 4952,iranic tribes,center-top
 4953,iraq,bottom
 4954,iraq war,center-bottom
-4955,iraqi,center
+4955,iraqi,bottom
 4956,iraqis,bottom
 4957,ireland,top
 4958,iridium,top
@@ -4973,7 +4973,7 @@
 4971,iron(iii) chloride,center-top
 4972,iron-rich,center-top
 4973,irrigate,bottom
-4974,irrigated,top
+4974,irrigated,center-top
 4975,irrigation,top
 4976,irrigation farming,bottom
 4977,isaac,top
@@ -5011,14 +5011,14 @@
 5009,italian isle,center-top
 5010,italian peninsula,top
 5011,italian renaissance,top
-5012,italian war of 1521,top
+5012,italian war of 1521,bottom
 5013,italians,top
 5014,italic,center-bottom
 5015,italy,top
 5016,itunes,center-bottom
 5017,iv,center-bottom
 5018,ivan,top
-5019,ivan iv,center-top
+5019,ivan iv,center-bottom
 5020,ivan iv grozny,top
 5021,ivory,top
 5022,ivory-billed,top
@@ -5026,20 +5026,20 @@
 5024,j m synge,center-top
 5025,j. j. thomson,top
 5026,j. k. rowling,top
-5027,j. m. w. turner,center-bottom
+5027,j. m. w. turner,center
 5028,j. r. r. tolkien,center-bottom
 5029,j. robert oppenheimer,center-top
 5030,j. s. bach's,top
-5031,j.s. bach,center-bottom
+5031,j.s. bach,center
 5032,jack kerouac,bottom
 5033,jackal,center
 5034,jackals,bottom
 5035,jackanory,center-bottom
-5036,jackdaw,center-top
+5036,jackdaw,center
 5037,jackdaws,top
 5038,jackie robinson,top
 5039,jacob and wilhelm grimm,center-bottom
-5040,jacobean,top
+5040,jacobean,center
 5041,jacobite rising,center-top
 5042,jacobite risings,center-bottom
 5043,jacques cartier,top
@@ -5058,43 +5058,43 @@
 5056,james callaghan's,top
 5057,james clerk maxwell,top
 5058,james cook,top
-5059,james d. watson,center-top
+5059,james d. watson,top
 5060,james garfield,top
 5061,james i,top
-5062,james i of england,center-bottom
-5063,james ii,center
+5062,james i of england,top
+5063,james ii,top
 5064,james ii & vii,center-top
 5065,james ii and vii,top
 5066,james ii of england,top
 5067,james joyce,bottom
 5068,james k. polk,center
 5069,james knox polk,top
-5070,james lovelock,center-bottom
+5070,james lovelock,bottom
 5071,james maxwell,bottom
 5072,james monroe,center-top
-5073,james polk,center-top
+5073,james polk,bottom
 5074,james stewart,center-top
-5075,james vi,center
+5075,james vi,center-top
 5076,james vi of scotland,center-top
-5077,james vi of scots,top
+5077,james vi of scots,center-bottom
 5078,"james vi, king of scots",top
 5079,james vi/i,top
 5080,james vii,top
 5081,james vii (james ii of england),top
 5082,james vii of scotland and ii of england,top
 5083,james watt,top
-5084,"james, duke of york",center-bottom
+5084,"james, duke of york",center-top
 5085,"james, duke of york (later king james ii)",top
-5086,jan mayen,top
+5086,jan mayen,bottom
 5087,jan mayen island,top
-5088,jane,bottom
+5088,jane,center
 5089,jane austen,center-bottom
 5090,jane fonda,center-bottom
 5091,japan,top
 5092,japan attacked the united states at pearl harbour,center-bottom
 5093,japanese,top
 5094,japanese war crimes,bottom
-5095,japanese yen,center-bottom
+5095,japanese yen,bottom
 5096,jarvis island,center-top
 5097,jason allen alexander,center
 5098,jaws,center-bottom
@@ -5110,18 +5110,18 @@
 5108,jerry fodor,bottom
 5109,jersey,top
 5110,jersey zoo,center-top
-5111,jersey zoological park,center-bottom
+5111,jersey zoological park,center-top
 5112,jerusalem,top
 5113,jesse owens,center-top
 5114,jesus,top
-5115,jesus christ,center-bottom
+5115,jesus christ,top
 5116,jesus of nazareth,top
 5117,jet,top
 5118,jet engine,center-top
-5119,jet engines,center
+5119,jet engines,bottom
 5120,jet set willy,bottom
 5121,jew,top
-5122,jewellery,bottom
+5122,jewellery,center
 5123,jewelry,top
 5124,jewish,top
 5125,jewish belief,center
@@ -5137,10 +5137,10 @@
 5135,jimmy wales,top
 5136,jmgscarfe@yahoo.co.uk,center
 5137,joan of arc,top
-5138,joel brand,center
-5139,johann sebastian bach,center-top
+5138,joel brand,center-bottom
+5139,johann sebastian bach,center-bottom
 5140,johann wolfgang goethe,center-bottom
-5141,johannes gutenberg,center
+5141,johannes gutenberg,center-bottom
 5142,johannes kepler,top
 5143,johannes ockeghem,center-bottom
 5144,johannesburg,top
@@ -5154,17 +5154,17 @@
 5152,john dee,center-bottom
 5153,john f. kennedy,top
 5154,john f. kennedy assassination,center
-5155,john flamsteed,center-bottom
+5155,john flamsteed,top
 5156,john howard,bottom
 5157,john kennedy,top
 5158,john lackland,top
 5159,john locke,center
 5160,john logie baird,top
-5161,john marshall,center-bottom
+5161,john marshall,center
 5162,john maynard keynes,center-top
 5163,john mcenroe,center-top
 5164,john millington synge,center-top
-5165,john milton,center-bottom
+5165,john milton,bottom
 5166,john of england,top
 5167,john paul ii,bottom
 5168,john paul ii's,bottom
@@ -5181,8 +5181,8 @@
 5179,joint monarchs,top
 5180,joint strike fighter,center-top
 5181,jomsvikings,center-bottom
-5182,jonah lomu,bottom
-5183,jonathan wild,top
+5182,jonah lomu,center-top
+5183,jonathan wild,bottom
 5184,jonson,center-top
 5185,jordan,bottom
 5186,jordan child sponsorship,center
@@ -5196,9 +5196,9 @@
 5194,joseph ratzinger,center-top
 5195,joseph stalin,top
 5196,josephus,top
-5197,jove,bottom
-5198,jovian,bottom
-5199,joyce,bottom
+5197,jove,center-top
+5198,jovian,center
+5199,joyce,top
 5200,jp¥,center-bottom
 5201,js bach,center
 5202,js bach's,top
@@ -5215,10 +5215,10 @@
 5213,junta,top
 5214,jupiter,top
 5215,jurassic,top
-5216,justgiving,center-top
+5216,justgiving,bottom
 5217,justgiving here,center-bottom
-5218,juvenile delinquency,center-top
-5219,jyllands-posten muhammad cartoons controversy,center-bottom
+5218,juvenile delinquency,top
+5219,jyllands-posten muhammad cartoons controversy,center
 5220,józef piłsudski,top
 5221,k,center
 5222,k-t extinction,top
@@ -5231,7 +5231,7 @@
 5229,kant,center-bottom
 5230,kant's,top
 5231,kantian,center-bottom
-5232,karachi,center
+5232,karachi,center-top
 5233,karaim,bottom
 5234,kargil,center-top
 5235,kargil conflict,center-top
@@ -5252,7 +5252,7 @@
 5250,kaśmīr,center-bottom
 5251,kb,top
 5252,kcb,top
-5253,keepy uppy challenge,center-bottom
+5253,keepy uppy challenge,center-top
 5254,keepy uppy challenge with graham poll,center-bottom
 5255,keepy uppy flyer,center-bottom
 5256,keepy uppy section,center-bottom
@@ -5261,7 +5261,7 @@
 5259,kennedy,center
 5260,kenya,bottom
 5261,kenya child sponsorship,center-bottom
-5262,kenyan,center-bottom
+5262,kenyan,bottom
 5263,kepler,center
 5264,kepler's,center
 5265,keplerian,center-top
@@ -5300,10 +5300,10 @@
 5298,king edward i,center-bottom
 5299,king edward iii,top
 5300,king edward iv,top
-5301,king edward v,center-top
+5301,king edward v,top
 5302,king edward vi,top
 5303,king edward vii,top
-5304,king edward viii,center
+5304,king edward viii,bottom
 5305,king george,center-bottom
 5306,king george i,center-bottom
 5307,king george ii,center-top
@@ -5320,8 +5320,8 @@
 5318,king henry vii of england,center
 5319,king henry viii,center-bottom
 5320,king james,top
-5321,king james i,center-top
-5322,king james ii,top
+5321,king james i,bottom
+5322,king james ii,center
 5323,"king james vi of scotland, i of england",center
 5324,king john,center-top
 5325,king john of england,center
@@ -5339,17 +5339,17 @@
 5337,king richard,top
 5338,king richard i,center-bottom
 5339,king richard ii,center-bottom
-5340,king richard iii,center-bottom
+5340,king richard iii,center-top
 5341,king stephen,top
 5342,king william i,top
 5343,king william ii,top
-5344,king william iii,top
+5344,king william iii,center-top
 5345,king william iv,top
 5346,king william the fourth's,top
 5347,king's walk golf course,center-bottom
 5348,kingdom,top
 5349,kingdom of denmark,center-top
-5350,kingdom of italy,center-top
+5350,kingdom of italy,center
 5351,kingdom of morocco,top
 5352,kingdom of norway,top
 5353,kingdom of serbia,center-top
@@ -5377,7 +5377,7 @@
 5375,knights of columbus,bottom
 5376,knights of the garter,center-bottom
 5377,kno3,center-bottom
-5378,kochi,center-bottom
+5378,kochi,top
 5379,kofi annan,center-bottom
 5380,kohlberg's theory of moral development,bottom
 5381,kolkata,top
@@ -5389,7 +5389,7 @@
 5387,korea dpr,bottom
 5388,korean,bottom
 5389,korean peninsula,center-bottom
-5390,koreans,center-bottom
+5390,koreans,top
 5391,koryaksky,top
 5392,kosovan,center-bottom
 5393,kosovar,center-bottom
@@ -5404,14 +5404,14 @@
 5402,kt,top
 5403,kt event,center-bottom
 5404,ku klux klan,center-bottom
-5405,ku klux klansmen,top
+5405,ku klux klansmen,center
 5406,kuala lumpur,center-top
 5407,kubla khan,top
 5408,kuhn,bottom
 5409,kuiper belt,center-bottom
 5410,kukulkán,center-top
 5411,kurt cobain,center
-5412,kuru,bottom
+5412,kuru,center-bottom
 5413,kuwait,bottom
 5414,kuwait city,center
 5415,kv,center-bottom
@@ -5421,18 +5421,18 @@
 5419,kyrgyzstan child sponsorship,center
 5420,kīlauea,center-top
 5421,l,center
-5422,l. s. lowry,center
+5422,l. s. lowry,bottom
 5423,l.a.,bottom
 5424,l:,bottom
 5425,la,center-bottom
-5426,la grande armée,top
+5426,la grande armée,center
 5427,la paz,bottom
 5428,labor day hurricane of 1935,bottom
 5429,labor union,top
 5430,labor unions,center-top
 5431,labour unions,center-bottom
 5432,lady beetle,center-bottom
-5433,lady beetles,top
+5433,lady beetles,center
 5434,lady duff-gordon,top
 5435,lady elizabeth,center-top
 5436,lady mary,top
@@ -5441,17 +5441,17 @@
 5439,ladysmith black mambazo,bottom
 5440,lagos,center-bottom
 5441,laika,top
-5442,lake albert,center
+5442,lake albert,center-top
 5443,lake baikal,top
 5444,lake burley griffin,center-top
-5445,lake chad,center-top
+5445,lake chad,center-bottom
 5446,lake district,top
-5447,lake edward,top
-5448,lake kariba,center-top
+5447,lake edward,center-bottom
+5448,lake kariba,center-bottom
 5449,lake kivu,center-top
 5450,lake malawi,top
 5451,lake mead,top
-5452,lake powell,center
+5452,lake powell,bottom
 5453,lake superior,top
 5454,lake tahoe,top
 5455,lake tanganyika,center
@@ -5463,12 +5463,12 @@
 5461,lake vostok,center-top
 5462,lancaster bombers,bottom
 5463,lance armstrong,center-bottom
-5464,land,center-bottom
+5464,land,top
 5465,land of israel,center-bottom
 5466,landforms,top
 5467,lands,top
 5468,landscape,top
-5469,landscapes,top
+5469,landscapes,center-top
 5470,language,top
 5471,languages,top
 5472,lanthanum,center-bottom
@@ -5495,7 +5495,7 @@
 5493,latin american,bottom
 5494,latin american countries,center-bottom
 5495,latin americans,top
-5496,latin language,center-top
+5496,latin language,bottom
 5497,latin script,top
 5498,latinate,center
 5499,latinisation,top
@@ -5516,7 +5516,7 @@
 5514,law of gravitation,top
 5515,law of gravity,center-bottom
 5516,lawn,center
-5517,lawn tennis,center
+5517,lawn tennis,top
 5518,lawns,top
 5519,laws,center-bottom
 5520,laws in wales act 1535,center-top
@@ -5524,7 +5524,7 @@
 5522,laws in wales acts 1535-1542,top
 5523,laws in wales acts 1535–1542,bottom
 5524,laws of history,center-top
-5525,layla,center-top
+5525,layla,center-bottom
 5526,"le sacre du printemps (""the rite of spring"")",top
 5527,le sacre du printemps (the rite of spring),center-top
 5528,lead,center
@@ -5544,15 +5544,15 @@
 5542,legends and lore,top
 5543,lego,top
 5544,legos,bottom
-5545,leibniz,top
+5545,leibniz,center-bottom
 5546,leibniz's,bottom
 5547,leicester,center-top
 5548,leif ericson,center-top
 5549,leisure,top
-5550,lemon,top
+5550,lemon,center-bottom
 5551,lemon balm,center-top
 5552,lemon myrtle,center-bottom
-5553,lemons,center-bottom
+5553,lemons,bottom
 5554,lemony,center
 5555,length of day,center-bottom
 5556,lenin,center-bottom
@@ -5562,7 +5562,7 @@
 5560,lens,top
 5561,lenses,center
 5562,leo tolstoy,top
-5563,leon trotsky,center-top
+5563,leon trotsky,center-bottom
 5564,leonardo da vinci,top
 5565,leonardo da vinci's,top
 5566,leonhard euler,center-bottom
@@ -5576,13 +5576,13 @@
 5574,lhasa,bottom
 5575,li,top
 5576,liberal,top
-5577,liberal democracies,top
+5577,liberal democracies,center-top
 5578,liberal democracy,top
 5579,liberal democrat,center-bottom
 5580,liberal democratic,top
 5581,liberal democratic values,center-top
 5582,liberal democrats,center
-5583,liberal ideals,center-bottom
+5583,liberal ideals,center
 5584,liberal individualism,center-top
 5585,liberal political tradition,bottom
 5586,liberalism,top
@@ -5594,14 +5594,14 @@
 5592,liberian,center-bottom
 5593,libertarian,center-top
 5594,libertarianism,top
-5595,libertarians,center-bottom
+5595,libertarians,top
 5596,libraries,center
 5597,library,top
 5598,library of alexandria,bottom
 5599,library of congress,center
 5600,libreville,top
 5601,libya,bottom
-5602,libyan,top
+5602,libyan,bottom
 5603,liechtenstein,bottom
 5604,life,top
 5605,life beyond earth,top
@@ -5614,17 +5614,17 @@
 5612,lighting designers,top
 5613,lightning advance,center-top
 5614,lightning rod,top
-5615,lille,center-top
+5615,lille,center-bottom
 5616,lilongwe,center-top
 5617,lima,top
 5618,limerick,top
 5619,lincoln,top
 5620,lindisfarne gospels,bottom
 5621,linear algebra,top
-5622,linguist,center-bottom
+5622,linguist,center
 5623,linguistic,top
-5624,linguistically,bottom
-5625,linguistics,bottom
+5624,linguistically,center-bottom
+5625,linguistics,center-top
 5626,linguists,top
 5627,link with an sos school,center-bottom
 5628,linking and sos children web banners,center-top
@@ -5641,8 +5641,8 @@
 5639,lipids,center-top
 5640,liquefied coal,center
 5641,liquid,center-top
-5642,liquid crystal,center-bottom
-5643,liquid crystals,top
+5642,liquid crystal,center-top
+5643,liquid crystals,center-top
 5644,liquor,top
 5645,lisbon,top
 5646,list of aids orphans projects throughout africa,center-top
@@ -5662,7 +5662,7 @@
 5660,literacy,bottom
 5661,literacy rate,center-bottom
 5662,literary,top
-5663,literate,center-bottom
+5663,literate,center
 5664,literature,top
 5665,lithium,center
 5666,lithuania,bottom
@@ -5673,7 +5673,7 @@
 5671,liverpool,top
 5672,liverpool and manchester,center-bottom
 5673,liverpool and manchester railway,top
-5674,liverpool f.c.,top
+5674,liverpool f.c.,bottom
 5675,liverpool fc,center-bottom
 5676,liverpool's,bottom
 5677,liverpudlian,bottom
@@ -5689,20 +5689,20 @@
 5687,local dutch dialects,center
 5688,local government,center-bottom
 5689,loch,top
-5690,loch ness,bottom
+5690,loch ness,center
 5691,lochan,bottom
-5692,lochs,center-top
-5693,locke,bottom
+5692,lochs,center
+5693,locke,center-bottom
 5694,locke's,top
 5695,locomotive,center-bottom
 5696,locusts,center-bottom
 5697,logic,top
-5698,logical,top
+5698,logical,center-bottom
 5699,logically,center-top
 5700,logician,top
 5701,logistical,top
 5702,logistics,top
-5703,lomé,top
+5703,lomé,center-top
 5704,london,top
 5705,london bridge,top
 5706,london city wall,center-top
@@ -5720,9 +5720,9 @@
 5718,lord edward,center-top
 5719,lord kelvin,center-top
 5720,lord nelson,center-top
-5721,lord of the rings,bottom
+5721,lord of the rings,center
 5722,lord of the rings film trilogy,top
-5723,lord of the rings trilogy,center-bottom
+5723,lord of the rings trilogy,center
 5724,lord salisbury,center-bottom
 5725,lord voldemort,top
 5726,lord's resistance army,center-bottom
@@ -5730,7 +5730,7 @@
 5728,lords chamber,top
 5729,los angeles,top
 5730,"los angeles, california",top
-5731,lost,bottom
+5731,lost,center
 5732,lothal,center-top
 5733,louis armstrong,center-bottom
 5734,louis jordan,center-top
@@ -5751,16 +5751,16 @@
 5749,ludwig van beethoven,center-bottom
 5750,ludwig wittgenstein,bottom
 5751,luftwaffe,center-bottom
-5752,luminiferous aether,bottom
+5752,luminiferous aether,center-bottom
 5753,lunar,center-top
 5754,lunar eclipse,top
 5755,lunar eclipses,center-bottom
 5756,lung,center-bottom
 5757,lung cancer,bottom
 5758,lung infections,top
-5759,lusaka,top
+5759,lusaka,bottom
 5760,lutetium,center
-5761,luther,top
+5761,luther,center-top
 5762,lutheran,center-bottom
 5763,luxembourg,bottom
 5764,luxembourg city,center-top
@@ -5772,10 +5772,10 @@
 5770,lyons,top
 5771,lévi-strauss,center-bottom
 5772,m,center
-5773,m*a*s*h,center-bottom
+5773,m*a*s*h,bottom
 5774,m-10001,top
 5775,m/d-21 blackbird,bottom
-5776,m1,bottom
+5776,m1,center-top
 5777,m1 motorway,center
 5778,m25,center-bottom
 5779,m25 london orbital motorway,center-top
@@ -5793,7 +5793,7 @@
 5791,macedonian,center-top
 5792,macedonians,center-top
 5793,machiavelli,center-top
-5794,machu picchu,center-bottom
+5794,machu picchu,center
 5795,macintosh,top
 5796,macmillan,bottom
 5797,madagascar,bottom
@@ -5810,11 +5810,11 @@
 5808,magic,top
 5809,magic flute,center-bottom
 5810,magic: the gathering,bottom
-5811,maglev,top
+5811,maglev,center-bottom
 5812,maglev trains,bottom
 5813,magma,top
 5814,magmas,center-bottom
-5815,magmatic,bottom
+5815,magmatic,center-top
 5816,magna carta,top
 5817,magna charta,top
 5818,magnesium,center
@@ -5824,7 +5824,7 @@
 5822,magnetic levitation train,bottom
 5823,magnetism,top
 5824,magnets,center-top
-5825,magpie,center
+5825,magpie,top
 5826,magpies,center
 5827,mahabharata,top
 5828,mahatma,bottom
@@ -5833,10 +5833,10 @@
 5831,mahābhārata,center-top
 5832,maiasaura,center-top
 5833,mainland,top
-5834,mainland china,top
+5834,mainland china,center-bottom
 5835,maintain tamil cultural traditions,top
 5836,maize,top
-5837,major foul,center
+5837,major foul,top
 5838,makuria,top
 5839,malagasy,center
 5840,malaria,top
@@ -5857,7 +5857,7 @@
 5855,malignancy,top
 5856,malignant,center
 5857,malignant tumor,bottom
-5858,mallard,center-top
+5858,mallard,bottom
 5859,mallards,center
 5860,malta,bottom
 5861,maltese,center-bottom
@@ -5870,7 +5870,7 @@
 5868,mammals,top
 5869,mammoth,top
 5870,mammoth cave,center
-5871,mammoths,center
+5871,mammoths,bottom
 5872,man up,top
 5873,managed honeybee colonies,top
 5874,mancala,center-top
@@ -5883,18 +5883,18 @@
 5881,mandate territory,top
 5882,mandates,center-top
 5883,mandela,bottom
-5884,manet,bottom
+5884,manet,center
 5885,manganese,center
 5886,mango,bottom
 5887,mangoes,center-top
-5888,mangos,center
+5888,mangos,center-top
 5889,manifest destiny,center-top
 5890,manifold,center-bottom
 5891,manifolds,top
 5892,manila,center-top
 5893,mankind,center-top
 5894,mann,center-top
-5895,manor,center-bottom
+5895,manor,top
 5896,manors,center
 5897,manuel,center-bottom
 5898,manuel i,center
@@ -5908,12 +5908,12 @@
 5906,many books,center-bottom
 5907,mao,center
 5908,mao zedong,center-bottom
-5909,maputo,center
+5909,maputo,center-top
 5910,marathon,center-top
 5911,marcel lefebvre,bottom
 5912,marcel proust,bottom
 5913,marco polo,top
-5914,marconi,top
+5914,marconi,center-bottom
 5915,marcus allen,center-bottom
 5916,margaret sanger,center-bottom
 5917,margaret thatcher,center-bottom
@@ -5934,7 +5934,7 @@
 5932,market,center
 5933,market adoption,top
 5934,markets,top
-5935,markup languages,bottom
+5935,markup languages,top
 5936,marquess of salisbury,top
 5937,mars,bottom
 5938,mars curse,top
@@ -5944,7 +5944,7 @@
 5942,mars reconnaissance orbiter,top
 5943,marseille,top
 5944,marseilles,center
-5945,marshall,bottom
+5945,marshall,top
 5946,marshall islanders,center-top
 5947,marshall islands,center
 5948,marshall plan,top
@@ -5973,7 +5973,7 @@
 5971,"mary, queen of scots",center
 5972,mary@soschildren.org,center
 5973,masculinity,top
-5974,maseru,center
+5974,maseru,bottom
 5975,masjid,center-top
 5976,mass loss from glaciers and ice caps,top
 5977,mass media,center-top
@@ -5981,12 +5981,12 @@
 5979,mass rapid transit,bottom
 5980,massive tsunami,bottom
 5981,massospondylus,bottom
-5982,masters,center-top
+5982,masters,center
 5983,masurium,center
 5984,material,center
 5985,material properties,top
-5986,material properties of diamond,center-top
-5987,math,top
+5986,material properties of diamond,top
+5987,math,center-top
 5988,mathas,center
 5989,mathematical,top
 5990,mathematical analysis,top
@@ -5997,7 +5997,7 @@
 5995,maths,center
 5996,matilda,center-top
 5997,matilda of boulogne,center-top
-5998,matrices,center-top
+5998,matrices,center
 5999,matrix,center-top
 6000,matsuo basho,bottom
 6001,matsuo bashō,bottom
@@ -6005,7 +6005,7 @@
 6003,matter’s,center-top
 6004,matthew,bottom
 6005,matthew brettingham,center-top
-6006,mauna loa,center-bottom
+6006,mauna loa,center
 6007,mauritania,bottom
 6008,mauritian,center-top
 6009,mauritius,bottom
@@ -6020,7 +6020,7 @@
 6018,maya,top
 6019,maya civilization,top
 6020,maya mythology,center-bottom
-6021,mayan,center-top
+6021,mayan,center-bottom
 6022,mayan art,top
 6023,mayan civilization,top
 6024,mayans,center-bottom
@@ -6036,19 +6036,19 @@
 6034,measles,center-bottom
 6035,measure,top
 6036,measured,center-bottom
-6037,measurement,center
+6037,measurement,top
 6038,measurements,center
 6039,meat,center-top
 6040,meat-based,center-bottom
 6041,meats,bottom
 6042,mecca,top
-6043,meccan,center-top
+6043,meccan,top
 6044,mechanical work,top
 6045,mechanisms of persistence,center-top
 6046,mechanisms section,center-top
 6047,medal of honour,bottom
 6048,medals of honour,center-bottom
-6049,media,center
+6049,media,bottom
 6050,mediaeval,center-top
 6051,mediaeval times,top
 6052,median household income,center
@@ -6058,7 +6058,7 @@
 6056,medically,center-bottom
 6057,medicinal,top
 6058,medicine,top
-6059,medicines,center-bottom
+6059,medicines,center-top
 6060,medieval,top
 6061,medieval age,top
 6062,medieval ages,center
@@ -6066,7 +6066,7 @@
 6064,medieval europe,top
 6065,medieval literature,top
 6066,medieval music,center
-6067,medieval period,center
+6067,medieval period,top
 6068,medieval times,center-bottom
 6069,medieval world,center-top
 6070,mediterranean,top
@@ -6077,16 +6077,16 @@
 6075,mekong river,top
 6076,melbourne,center-top
 6077,melissa,top
-6078,members of parliament,bottom
-6079,mendel,center-top
+6078,members of parliament,center-bottom
+6079,mendel,center-bottom
 6080,mendelevium,center-top
-6081,mendelian,center-bottom
+6081,mendelian,top
 6082,mendelssohn,center
 6083,mendelssohn bartholdy,center-bottom
 6084,mendip hills,top
 6085,meningitis,top
 6086,menstrual,center-bottom
-6087,menstrual cycle,center
+6087,menstrual cycle,bottom
 6088,mental,top
 6089,mer,center-bottom
 6090,mercantilism,top
@@ -6097,14 +6097,14 @@
 6095,mercians,center
 6096,mercury,center
 6097,mercury's,center
-6098,merrimack river,center-top
+6098,merrimack river,bottom
 6099,merseburg incantations,top
 6100,mesopotamia,top
 6101,mesopotamian,top
 6102,mesopotamians,center-top
 6103,messages,top
 6104,mestizo,bottom
-6105,mestizos,bottom
+6105,mestizos,center
 6106,mestiço,top
 6107,mestiços,top
 6108,metal,top
@@ -6124,11 +6124,11 @@
 6122,meteoric,top
 6123,meteorological,top
 6124,meteorologist,bottom
-6125,meteorologists,top
+6125,meteorologists,center
 6126,meteorology,top
 6127,meteors,center-bottom
 6128,methanol carbonylation,center-bottom
-6129,metric expansion of space,center-top
+6129,metric expansion of space,center
 6130,metro,bottom
 6131,metro system,top
 6132,metropolis,bottom
@@ -6144,15 +6144,15 @@
 6142,miami,top
 6143,"miami, florida",top
 6144,michael faraday,top
-6145,michael jordan,center
+6145,michael jordan,center-top
 6146,michael ramsey,bottom
 6147,michelangelo,center-bottom
-6148,michigan state university,center
+6148,michigan state university,bottom
 6149,mickey mantle,center
 6150,microbial life,bottom
 6151,microchips,top
 6152,micronesia,bottom
-6153,microraptor,center-bottom
+6153,microraptor,center-top
 6154,microscope,top
 6155,microscopes,top
 6156,microscopic,center-top
@@ -6176,13 +6176,13 @@
 6174,midway,top
 6175,midway atoll,bottom
 6176,midway invasion,center-bottom
-6177,migrant,center-bottom
+6177,migrant,top
 6178,migrants,center-top
 6179,migrate,top
 6180,migrated,center
 6181,migrates,top
 6182,migrating,center
-6183,migration,center
+6183,migration,center-top
 6184,migration of birds,center-bottom
 6185,migrations,center
 6186,migratory,center-top
@@ -6194,11 +6194,11 @@
 6192,"milan, italy",center-bottom
 6193,milanese,center-top
 6194,mild,center-bottom
-6195,miles davis,center
+6195,miles davis,center-bottom
 6196,milgram's findings,center-bottom
 6197,military conflict,top
 6198,military dictatorship,top
-6199,military dictatorships,center-bottom
+6199,military dictatorships,center
 6200,military forts,top
 6201,military junta,top
 6202,military rule,center
@@ -6212,7 +6212,7 @@
 6210,mind-body problem,top
 6211,minds,top
 6212,mine,center-bottom
-6213,mined,center-bottom
+6213,mined,center-top
 6214,miner,center-top
 6215,mineral,top
 6216,mineral extraction,top
@@ -6222,7 +6222,7 @@
 6220,mines,center-bottom
 6221,ming,center-top
 6222,ming dynasty,top
-6223,mini,top
+6223,mini,center-top
 6224,minimum wage,top
 6225,minimum wages,center-bottom
 6226,minimum wages act,center-bottom
@@ -6257,9 +6257,9 @@
 6255,mitch,bottom
 6256,mitochondria,center-top
 6257,mitochondrial,center-top
-6258,mitochondrial eve,bottom
-6259,mitochondrion,center-top
-6260,mixed,center-top
+6258,mitochondrial eve,center-top
+6259,mitochondrion,center
+6260,mixed,center-bottom
 6261,mixed-breed dogs,bottom
 6262,mn,center-bottom
 6263,mobile warfare,top
@@ -6267,13 +6267,13 @@
 6265,modern english,center
 6266,modern french,top
 6267,modern german,bottom
-6268,modern history,bottom
+6268,modern history,top
 6269,modern humans,top
 6270,modern playing styles,center-top
 6271,modern science,center-bottom
-6272,modernist poetry in english,top
+6272,modernist poetry in english,bottom
 6273,mogadishu,center-top
-6274,mohandas gandhi,bottom
+6274,mohandas gandhi,top
 6275,mohandas k. gandhi,top
 6276,mohs scale,bottom
 6277,mohs scale of mineral hardness,top
@@ -6288,7 +6288,7 @@
 6286,molybdenum,center
 6287,momenta,center
 6288,momentum,top
-6289,mona lisa,center
+6289,mona lisa,center-top
 6290,monaco,bottom
 6291,monaco grand prix,center-bottom
 6292,monarch,top
@@ -6300,7 +6300,7 @@
 6298,monastic,top
 6299,monastic orders,top
 6300,monasticism,center-bottom
-6301,monet,bottom
+6301,monet,center-top
 6302,monetary,top
 6303,monetary standard,top
 6304,money,top
@@ -6313,34 +6313,34 @@
 6311,mongolians,center
 6312,mongols,top
 6313,mongoose,center-bottom
-6314,mongooses,top
+6314,mongooses,center
 6315,monkey,top
-6316,monkeys,bottom
+6316,monkeys,center-top
 6317,monopoly,bottom
 6318,monroe,top
-6319,monrovia,center-top
+6319,monrovia,bottom
 6320,montenegro,bottom
-6321,montevideo,center-top
+6321,montevideo,center
 6322,montevideo harbour,top
 6323,montreal,center-top
 6324,montreal metro,center-bottom
 6325,montréal,top
-6326,montserrat,bottom
+6326,montserrat,top
 6327,monty python,bottom
 6328,moon,top
-6329,moon landing,center
+6329,moon landing,center-bottom
 6330,moon's,center-bottom
 6331,moonless,bottom
 6332,moonlight,center-bottom
 6333,moonscape,center-bottom
 6334,more about flemish language,center
 6335,morecambe and wise,center-bottom
-6336,morecambe bay,center-top
+6336,morecambe bay,bottom
 6337,mormon,center-top
 6338,mormons,center
 6339,morning star,center-bottom
 6340,moroccan,center-bottom
-6341,moroccans,center-bottom
+6341,moroccans,center-top
 6342,morocco,bottom
 6343,morocco child sponsorship,center-bottom
 6344,morphine,bottom
@@ -6349,7 +6349,7 @@
 6347,mosaics,center-bottom
 6348,moscow,top
 6349,mosque,top
-6350,mosques,bottom
+6350,mosques,center
 6351,moss,center
 6352,mosses,top
 6353,mother teresa,center-bottom
@@ -6377,7 +6377,7 @@
 6375,mount st. helens,top
 6376,mount vesuvius,center-top
 6377,move,center-top
-6378,movement,center-bottom
+6378,movement,top
 6379,movie,bottom
 6380,movies,bottom
 6381,moving pictures,center
@@ -6400,7 +6400,7 @@
 6398,muhammad ali jinnah,center
 6399,muhammad ibn musa al-khwarizmi,center-top
 6400,muhammad ibn mūsā al-khwārizmī,bottom
-6401,muhammad iqbal,center
+6401,muhammad iqbal,bottom
 6402,multi-cultural,center
 6403,multicellular,top
 6404,multicoloured,top
@@ -6427,7 +6427,7 @@
 6425,music of trinidad and tobago,top
 6426,musical,center
 6427,musical instrument,top
-6428,musical instruments,center-bottom
+6428,musical instruments,bottom
 6429,muslim,center-bottom
 6430,muslims,center-bottom
 6431,mussolini,center-top
@@ -6446,7 +6446,7 @@
 6444,myocardial infarctions,center
 6445,mystic,top
 6446,mystic experience,top
-6447,mystical,center-bottom
+6447,mystical,top
 6448,mystically oriented,center-top
 6449,mysticism,center-top
 6450,myth,center
@@ -6454,7 +6454,7 @@
 6452,mythical,bottom
 6453,mythological,top
 6454,mythologically,top
-6455,mythologies,top
+6455,mythologies,center
 6456,mythology,top
 6457,myths,top
 6458,máel coluim,top
@@ -6462,7 +6462,7 @@
 6460,máel coluim iii,top
 6461,máel coluim mac cináeda,top
 6462,máel coluim mac donnchada,center-bottom
-6463,n,top
+6463,n,center
 6464,na,center
 6465,na h-eileanan siar (western isles),bottom
 6466,nadia comaneci,bottom
@@ -6479,18 +6479,18 @@
 6477,nanovaccinology,top
 6478,naoh,center
 6479,napoleon,top
-6480,napoleon bonaparte,center-top
+6480,napoleon bonaparte,top
 6481,napoleon i,top
 6482,napoleon i of france,center-top
-6483,napoleon's,center
+6483,napoleon's,top
 6484,napoleonic,center-top
 6485,napoleonic empire,center
 6486,napoleonic era,top
 6487,napoleonic wars,top
-6488,napster,center-top
+6488,napster,center-bottom
 6489,nasa moon landing,top
 6490,nash equilibria,center-bottom
-6491,nash equilibrium,top
+6491,nash equilibrium,bottom
 6492,nashville,top
 6493,"nashville, tennessee",center-bottom
 6494,natalie portman,center-top
@@ -6517,19 +6517,19 @@
 6515,nationalists,center-top
 6516,nationalities,top
 6517,nationality,top
-6518,nationals,center
+6518,nationals,center-top
 6519,nato,top
-6520,natural,bottom
+6520,natural,top
 6521,natural catastrophes,center
 6522,natural disaster,top
-6523,natural disasters,bottom
+6523,natural disasters,top
 6524,natural family planning,top
 6525,natural gas,center
 6526,natural selection,top
 6527,natural world,center
 6528,nature,top
 6529,nauru,bottom
-6530,naval battle of guadalcanal,center
+6530,naval battle of guadalcanal,bottom
 6531,navassa island (navasse),bottom
 6532,navasse,top
 6533,navy,top
@@ -6549,7 +6549,7 @@
 6547,neckties,center-top
 6548,neder rijn,bottom
 6549,negatively charged,center
-6550,neighbours,bottom
+6550,neighbours,top
 6551,neil armstrong,center-bottom
 6552,neil young,center
 6553,nelson,center
@@ -6559,7 +6559,7 @@
 6557,nelson's last words,center
 6558,nematode,center-top
 6559,neo-assyrian,center-bottom
-6560,neo-babylonian empire,top
+6560,neo-babylonian empire,center
 6561,neo-classic architectural,top
 6562,neo-classical,center
 6563,neo-cubist,center-top
@@ -6574,11 +6574,11 @@
 6572,neon,center-top
 6573,nepal,top
 6574,nepal child sponsorship,center-bottom
-6575,nepalese,center-top
+6575,nepalese,top
 6576,nepali,center-bottom
 6577,nepalis,center-bottom
 6578,neptune,top
-6579,neptune's,bottom
+6579,neptune's,center-bottom
 6580,neptunium,top
 6581,nes,top
 6582,netball,bottom
@@ -6593,12 +6593,12 @@
 6591,neutrons,top
 6592,new,top
 6593,new caledonia,top
-6594,new delhi,top
+6594,new delhi,center-bottom
 6595,new england patriots,center-top
 6596,new forest,center
 6597,new hebrides,center-bottom
 6598,new mini,top
-6599,new moon,center-top
+6599,new moon,center-bottom
 6600,new skills for a new life,center
 6601,new york,top
 6602,new york city,top
@@ -6612,7 +6612,7 @@
 6610,new zealands,center-bottom
 6611,newark,bottom
 6612,"newark, new jersey",bottom
-6613,newcastle,center-bottom
+6613,newcastle,center-top
 6614,newcastle upon tyne,center-top
 6615,newcastle upon tyne's,center
 6616,newmarket,center
@@ -6633,13 +6633,13 @@
 6631,ni,center-bottom
 6632,niagara,bottom
 6633,niagara falls,center-top
-6634,nicaea,center
+6634,nicaea,center-bottom
 6635,nicaragua,top
 6636,nicaragua child sponsorship,center-bottom
-6637,nicaraguan,bottom
+6637,nicaraguan,center
 6638,nicaraguans,center
-6639,niccolò machiavelli,center-top
-6640,niccolò paganini,bottom
+6639,niccolò machiavelli,top
+6640,niccolò paganini,center-top
 6641,nickel,top
 6642,nicolai rimsky-korsakov,bottom
 6643,nicolaus copernicus,center
@@ -6649,7 +6649,7 @@
 6647,niger,bottom
 6648,niger child sponsorship,center
 6649,niger delta,center-bottom
-6650,niger river,center
+6650,niger river,top
 6651,niger river delta,center-top
 6652,nigeria,bottom
 6653,nigeria child sponsorship,center-bottom
@@ -6657,12 +6657,12 @@
 6655,nightingale,center
 6656,nightingales,bottom
 6657,nikola tesla,center
-6658,nikolai rimsky-korsakov,center-bottom
+6658,nikolai rimsky-korsakov,bottom
 6659,nile,top
 6660,nile valley,center-bottom
 6661,nineteen eighty-four,bottom
-6662,nineteenth,top
-6663,nineteenth centuries,top
+6662,nineteenth,center-top
+6663,nineteenth centuries,center
 6664,nineteenth century,top
 6665,nintendo,top
 6666,nintendo ds,center-top
@@ -6679,7 +6679,7 @@
 6677,nitrogen cycles,center
 6678,nitrogen fixation,center
 6679,nitrogen fixing,center-bottom
-6680,nitrogen-fixing,center
+6680,nitrogen-fixing,center-top
 6681,nitrogenous,center-bottom
 6682,niue,top
 6683,nixon,top
@@ -6703,17 +6703,17 @@
 6701,non-migratory,top
 6702,nonferrous,center
 6703,norfolk,top
-6704,norfolk island,center-bottom
+6704,norfolk island,center
 6705,normality,bottom
-6706,norman borlaug,center-top
+6706,norman borlaug,center
 6707,norman conquest,bottom
 6708,norman conquest of england,top
 6709,norman invasion of england,top
 6710,normandy,center-bottom
 6711,normandy invasion,center-top
 6712,normandy landing,center
-6713,normandy landings,center-bottom
-6714,norse,top
+6713,normandy landings,center-top
+6714,norse,center-bottom
 6715,norse god,center-top
 6716,norse mythology,top
 6717,north,top
@@ -6740,13 +6740,13 @@
 6738,north sea hydrocarbon province,top
 6739,north sea oil,center
 6740,northeast,center
-6741,northern africa,center
+6741,northern africa,top
 6742,northern belgium,top
 6743,northern ireland,top
 6744,northern irish,center-bottom
 6745,northern mariana is.,bottom
 6746,northern mariana islands,center-top
-6747,northern pacific railway,bottom
+6747,northern pacific railway,center-top
 6748,northern temperate zone,top
 6749,northwest africa,center
 6750,northwest africans,center
@@ -6754,7 +6754,7 @@
 6752,norwegian,top
 6753,norwegian border,top
 6754,norwegians,top
-6755,norwich,bottom
+6755,norwich,top
 6756,not,center-bottom
 6757,note,center-top
 6758,nottingham,center-bottom
@@ -6772,7 +6772,7 @@
 6770,nuclear explosive,center-bottom
 6771,nuclear fission,top
 6772,nuclear industry,bottom
-6773,nuclear power,center-bottom
+6773,nuclear power,center
 6774,nuclear program,bottom
 6775,nuclear weapon,top
 6776,nuclear weapons,top
@@ -6782,13 +6782,13 @@
 6780,numbers,top
 6781,numerical,center-bottom
 6782,numerous varieties,bottom
-6783,numismatics,center-top
+6783,numismatics,center-bottom
 6784,nurse,center-top
 6785,nurse sharks,center-bottom
-6786,nuthatches,center
+6786,nuthatches,center-bottom
 6787,nutmeg,top
 6788,nutrition,center-top
-6789,nutritional,center
+6789,nutritional,center-bottom
 6790,nutritional yeast,center-bottom
 6791,nutritionally,center-top
 6792,nutritious,bottom
@@ -6799,9 +6799,9 @@
 6797,o2,center
 6798,o3,center-top
 6799,oasis,center
-6800,oat,top
+6800,oat,center-top
 6801,oats,top
-6802,obi-wan,center-bottom
+6802,obi-wan,top
 6803,obi-wan kenobi,center-top
 6804,observation ballons,center-bottom
 6805,oc,top
@@ -6810,7 +6810,7 @@
 6808,oceania,top
 6809,oceanian,center
 6810,oceanianic,top
-6811,oceanic,center-bottom
+6811,oceanic,bottom
 6812,oceanic crust,top
 6813,oceanographers,top
 6814,oceanography,top
@@ -6850,7 +6850,7 @@
 6848,old swiss confederacy,bottom
 6849,oleg of novgorod,bottom
 6850,oligarchic,top
-6851,oligarchical,center-top
+6851,oligarchical,top
 6852,oligarchs,center-top
 6853,oligarchy,top
 6854,oligocene,top
@@ -6868,20 +6868,20 @@
 6866,olympic games,bottom
 6867,olympic medals,center-bottom
 6868,olympic sport,bottom
-6869,olympics,center-top
+6869,olympics,center
 6870,oman,bottom
 6871,omani,center-top
 6872,omanis,top
 6873,omega-3,center-top
 6874,omega-3 fatty acids,center
-6875,on the origin of species by means of natural selection,center
+6875,on the origin of species by means of natural selection,top
 6876,on the streets,center-top
 6877,one of billions of galaxies,top
 6878,one off donation,center
 6879,one small step for a man,bottom
 6880,onion,top
 6881,onion dome,center-top
-6882,onion domes,top
+6882,onion domes,center
 6883,onions,center
 6884,online,center-bottom
 6885,online donation form,center
@@ -6902,12 +6902,12 @@
 6900,oppression,top
 6901,optic fibres,center-bottom
 6902,optical,center
-6903,optical fibre,center
+6903,optical fibre,center-bottom
 6904,optical microscope,top
 6905,optical microscopes,center-top
 6906,optical properties,bottom
 6907,optical telescopes,top
-6908,opus dei,top
+6908,opus dei,center-bottom
 6909,opéra garnier,center
 6910,orbit,center-top
 6911,orbital,center-bottom
@@ -6918,9 +6918,9 @@
 6916,order,bottom
 6917,order of canada,center-bottom
 6918,order of the bath,center-top
-6919,order of the garter,center-bottom
+6919,order of the garter,center
 6920,order of the thistle,bottom
-6921,orders of the garter,center-top
+6921,orders of the garter,center
 6922,ordinal,top
 6923,ordinal number,bottom
 6924,ordinal numbers,center-bottom
@@ -6933,7 +6933,7 @@
 6931,organising a successful fundraising event,center-top
 6932,organism,top
 6933,organisms,top
-6934,organization,top
+6934,organization,center-top
 6935,organizations,top
 6936,origin,center-bottom
 6937,origin of the universe,top
@@ -6957,25 +6957,25 @@
 6955,orthodox churches of the east,center
 6956,orthodoxy,top
 6957,osaka,center-bottom
-6958,osama bin laden,center-top
-6959,osiris,center-bottom
+6958,osama bin laden,center
+6959,osiris,top
 6960,oslo,top
 6961,osmium,top
 6962,osprey,center-bottom
 6963,ospreys,center-bottom
 6964,osteomalacia,bottom
 6965,ostrich,top
-6966,ostriches,center-bottom
+6966,ostriches,top
 6967,oswald,bottom
 6968,oswald of bernicia,center-top
-6969,oswald of northumbria,center-bottom
+6969,oswald of northumbria,top
 6970,other animals' menstrual cycles,bottom
 6971,other europeans,top
 6972,other forms of football,bottom
 6973,other gases,top
 6974,other ingredients,top
 6975,other names,top
-6976,other planets,top
+6976,other planets,center-bottom
 6977,other projects,center-top
 6978,ottawa,top
 6979,otter,bottom
@@ -6987,11 +6987,11 @@
 6985,ottoman rule,center-top
 6986,ottoman turks,top
 6987,ottomans,center-top
-6988,ouagadougou,top
+6988,ouagadougou,center
 6989,our suffering,top
 6990,outer hebrides,top
 6991,outer mongolia,top
-6992,outer solar system,top
+6992,outer solar system,center
 6993,outer surface,top
 6994,overseas railroad,center-top
 6995,oviraptor,center-top
@@ -7002,7 +7002,7 @@
 7000,oxbow lakes,top
 7001,oxford,top
 7002,oxygen,center-top
-7003,oxygenated,bottom
+7003,oxygenated,center
 7004,oxyrhynchus,bottom
 7005,ozone,center-top
 7006,ozone depletion,center
@@ -7019,7 +7019,7 @@
 7017,paganism,top
 7018,painter,top
 7019,painting,top
-7020,paintings,top
+7020,paintings,center
 7021,pairwise alignment,top
 7022,pakistan,top
 7023,pakistan child sponsorship,center-bottom
@@ -7035,39 +7035,39 @@
 7033,palaeontologist,center-top
 7034,palaeontologists,center
 7035,palau,center
-7036,paleocene,center-bottom
+7036,paleocene,top
 7037,paleological,center
 7038,paleontological,top
 7039,paleontological record,center-bottom
-7040,paleontologist,center-top
+7040,paleontologist,top
 7041,paleontologists,top
 7042,paleontology,center-top
 7043,palestine,center-top
 7044,palestinian,center-top
 7045,palestinian territories,center-bottom
 7046,palestinian territories child sponsorship,center-bottom
-7047,pali canon,top
-7048,palladian,top
+7047,pali canon,center-bottom
+7048,palladian,bottom
 7049,palladian architecture,center-top
 7050,palladianism,center
 7051,palladium,center-bottom
-7052,palm,center
+7052,palm,bottom
 7053,palm oil,center-bottom
 7054,palm wood,center
-7055,palms,center
-7056,palmyra atoll,center
+7055,palms,top
+7056,palmyra atoll,center-bottom
 7057,pan,center
-7058,pan am flight 103,center
+7058,pan am flight 103,center-bottom
 7059,pan paniscus,top
 7060,panama,top
 7061,panama canal,top
 7062,panama canals,center-bottom
 7063,panama child sponsorship,center-bottom
-7064,pandanus,center-bottom
+7064,pandanus,top
 7065,pandas,bottom
 7066,papacy,top
 7067,papal,top
-7068,papal conclave,top
+7068,papal conclave,center-top
 7069,papal supremacy,top
 7070,paper currency,top
 7071,paper money,center-bottom
@@ -7112,25 +7112,25 @@
 7110,passer domesticus,top
 7111,passeridae,top
 7112,pasteur,center-bottom
-7113,pat cash,bottom
+7113,pat cash,top
 7114,pataliputra,center
 7115,patient rights,bottom
-7116,patna,center-top
+7116,patna,top
 7117,patriots,center-top
 7118,paul,top
 7119,paul cairns,top
-7120,paul cézanne,center-top
+7120,paul cézanne,center-bottom
 7121,paul dirac,center-top
 7122,paul kane,center-top
 7123,paul mccartney,center-bottom
 7124,paul of tarsus,center-top
-7125,pb,bottom
+7125,pb,center
 7126,pb2+,center-top
 7127,pc,top
-7128,pcl3,center
+7128,pcl3,top
 7129,pcr,center
 7130,pd,center-bottom
-7131,pdf,center-top
+7131,pdf,center
 7132,pea,top
 7133,peace,center-top
 7134,peace prize,top
@@ -7155,14 +7155,14 @@
 7153,pelagic zone,center
 7154,pellagra,center-bottom
 7155,pelycosaur,center
-7156,pelycosaurs,center
+7156,pelycosaurs,bottom
 7157,pelé,bottom
 7158,penda,center-top
 7159,penda of mercia,center-top
 7160,penguin,center
 7161,penguins,center-bottom
 7162,pennine way,center
-7163,pennsylvania,center
+7163,pennsylvania,center-top
 7164,pennsylvania railroad,top
 7165,pennsylvania railroad's,bottom
 7166,pentateuch,top
@@ -7172,7 +7172,7 @@
 7170,pepper,top
 7171,peppery,center-bottom
 7172,"perchance it is not dead, but sleepeth",bottom
-7173,peregrine falcon,center
+7173,peregrine falcon,center-bottom
 7174,peregrine falcons,bottom
 7175,perfect number,top
 7176,performed,top
@@ -7185,7 +7185,7 @@
 7183,perl interpreter,center-top
 7184,permian,center
 7185,pernicious anaemia,center
-7186,persia,top
+7186,persia,center-top
 7187,persia (iran),bottom
 7188,persian,top
 7189,persian empire,top
@@ -7196,7 +7196,7 @@
 7194,persian poetry,center-bottom
 7195,persians,top
 7196,perth,top
-7197,"perth, western australia",bottom
+7197,"perth, western australia",top
 7198,peru,top
 7199,peru child sponsorship,center-bottom
 7200,peruvian,center
@@ -7220,8 +7220,8 @@
 7218,philatelic society,center
 7219,philatelists,center-bottom
 7220,philately,center-bottom
-7221,philip,center
-7222,philip ii,center-bottom
+7221,philip,center-bottom
+7222,philip ii,top
 7223,philip ii of spain,top
 7224,"philip ii, king of spain",center
 7225,philippine,top
@@ -7237,12 +7237,12 @@
 7235,philosophical schools,top
 7236,philosophical system,top
 7237,philosophically,center
-7238,philosophies,center-top
+7238,philosophies,center
 7239,philosophy,top
 7240,philosophy of mind,top
 7241,phishing,top
 7242,phoenix,center-bottom
-7243,phoenix lander,center-bottom
+7243,phoenix lander,center-top
 7244,phoenix mars lander,center-bottom
 7245,phoenix zoo,top
 7246,phone,top
@@ -7281,18 +7281,18 @@
 7279,piano,top
 7280,picasso,top
 7281,piccadilly circus,top
-7282,pictish,center-bottom
+7282,pictish,top
 7283,pictland,top
 7284,picts,top
 7285,pieces of legislation,center-top
 7286,pig,top
-7287,pigeon,top
+7287,pigeon,bottom
 7288,pigeons,center
 7289,pigment,center-top
 7290,pigmented,center
 7291,pigments,top
 7292,pigs,center-bottom
-7293,pikachu,center-top
+7293,pikachu,center
 7294,pink pigeon,bottom
 7295,pinworms,center
 7296,pisan cantos,center
@@ -7310,11 +7310,11 @@
 7308,planck's,center-top
 7309,planet,top
 7310,planet earth,center-bottom
-7311,planetary,bottom
-7312,planetary nebula,center-bottom
+7311,planetary,top
+7312,planetary nebula,center-top
 7313,planetary nebulae,center
 7314,planetary systems,center-bottom
-7315,planets,bottom
+7315,planets,top
 7316,plant,top
 7317,plant bloom images,center-bottom
 7318,plant life,center-top
@@ -7323,7 +7323,7 @@
 7321,plantings,top
 7322,plants,top
 7323,plasma,top
-7324,plasmas,bottom
+7324,plasmas,center-bottom
 7325,plate,top
 7326,plate motions,center-bottom
 7327,plate tectonic,bottom
@@ -7337,24 +7337,24 @@
 7335,platonic philosophy,center-top
 7336,platypus,top
 7337,platypuses,top
-7338,playing card,center
+7338,playing card,center-top
 7339,playing cards,center
 7340,pleiades,top
 7341,plesiosaur,center
 7342,plesiosaurs,top
-7343,pliocene,center-top
+7343,pliocene,center
 7344,plot and mythology,center-bottom
 7345,plover,top
 7346,plover-like,center-top
-7347,plovers,center
+7347,plovers,center-bottom
 7348,plum,top
 7349,plum tree,bottom
 7350,plumage,center-top
 7351,plums,center-top
-7352,pluto,center
+7352,pluto,center-top
 7353,plutonium,top
 7354,plymouth,center-top
-7355,pneumonia,top
+7355,pneumonia,center-bottom
 7356,pochard,center
 7357,pocket watches,center-bottom
 7358,podcasting,center-bottom
@@ -7373,15 +7373,15 @@
 7371,poland,bottom
 7372,polar coordinates,center-bottom
 7373,polar ice cap,top
-7374,polar ice caps,center-bottom
+7374,polar ice caps,center-top
 7375,pole,center-bottom
 7376,polemology,top
 7377,poles,center-bottom
 7378,police,center-top
-7379,police state,top
+7379,police state,center-top
 7380,police states,bottom
 7381,policeman,top
-7382,policing,top
+7382,policing,center-top
 7383,polish,top
 7384,polish crown,top
 7385,polish home army,bottom
@@ -7389,7 +7389,7 @@
 7387,polish-lithuanian,top
 7388,polish-lithuanian commonwealth,top
 7389,polish-muscovite war (1605-1618),bottom
-7390,polish-soviet war,top
+7390,polish-soviet war,center-top
 7391,political,top
 7392,political arena,bottom
 7393,political doctrine,top
@@ -7403,7 +7403,7 @@
 7401,political science,top
 7402,political sciences,center-top
 7403,political scientist,bottom
-7404,political scientists,bottom
+7404,political scientists,center-bottom
 7405,political theory and philosophy,top
 7406,political thinkers,center-top
 7407,political views,center
@@ -7415,7 +7415,7 @@
 7413,politics,top
 7414,polk administration,center-top
 7415,pollinator,center-bottom
-7416,pollinator decline,top
+7416,pollinator decline,center-bottom
 7417,pollinators,top
 7418,pollutant,center
 7419,pollutants,center-bottom
@@ -7429,18 +7429,18 @@
 7427,pompeii,center-top
 7428,pond,center-top
 7429,ponds,top
-7430,pong,top
+7430,pong,bottom
 7431,ponies,center-top
 7432,pontiac,center-bottom
 7433,pontiac's rebellion,top
 7434,pontic sea,center-bottom
 7435,pony,top
 7436,poor,center-top
-7437,poor law,center-top
+7437,poor law,top
 7438,poor law amendment act,center-top
 7439,poor laws,bottom
 7440,pop,bottom
-7441,pop culture,center-bottom
+7441,pop culture,top
 7442,pope,top
 7443,pope benedict xvi,top
 7444,pope john paul ii,bottom
@@ -7477,11 +7477,11 @@
 7475,pots,bottom
 7476,potters,bottom
 7477,pottery,top
-7478,poultry,top
+7478,poultry,center-bottom
 7479,pound,center-top
-7480,pound sterling,center-top
+7480,pound sterling,center
 7481,pounds,top
-7482,pounds sterling,top
+7482,pounds sterling,center-bottom
 7483,poverty,center-bottom
 7484,poverty-stricken,top
 7485,powder,top
@@ -7492,28 +7492,28 @@
 7490,praseodymium,center-bottom
 7491,prc,top
 7492,pre-metallurgic,center
-7493,pre-raphaelite brotherhood,center
+7493,pre-raphaelite brotherhood,center-top
 7494,pre-war,top
-7495,precambrian,center-top
+7495,precambrian,center
 7496,precautions,center
 7497,predation,top
 7498,prediction,center-top
 7499,prehistory,bottom
-7500,presidency,center-top
+7500,presidency,bottom
 7501,president,top
 7502,president buchanan's,bottom
-7503,president bush,bottom
+7503,president bush,center-top
 7504,president clinton,center-bottom
 7505,president eisenhower,center-top
 7506,president ford,center-top
 7507,president franklin roosevelt,center
 7508,president george bush,bottom
-7509,president george w. bush,bottom
+7509,president george w. bush,center-top
 7510,president harrison,center
 7511,president harry s. truman,center
 7512,president jefferson,bottom
 7513,president john f. kennedy's assassination,top
-7514,president johnson,bottom
+7514,president johnson,center-bottom
 7515,president lincoln,top
 7516,president of the united states,top
 7517,president polk's,top
@@ -7534,33 +7534,33 @@
 7532,previous world war,top
 7533,pride and prejudice,center-bottom
 7534,primality,bottom
-7535,prime,center-top
+7535,prime,center-bottom
 7536,prime minister,top
 7537,prime minister of great britain,center-top
 7538,prime minister of the united kingdom,top
 7539,prime minister's,center
 7540,prime ministers,top
-7541,prime ministers of the united kingdom,top
+7541,prime ministers of the united kingdom,center-top
 7542,prime number,center-top
-7543,prime numbers,top
+7543,prime numbers,center
 7544,primulas,center
 7545,prince,top
 7546,prince albert,center-bottom
 7547,"prince albert, duke of york",center-bottom
 7548,prince alfred,center-top
-7549,prince edward,center-bottom
+7549,prince edward,center-top
 7550,"prince edward, the true prince of wales and duke of cornwall",center-top
-7551,prince george,center-top
+7551,prince george,center
 7552,"prince george, prince of wales",top
 7553,prince john,center
-7554,prince of wales,top
+7554,prince of wales,center-top
 7555,prince regent,top
 7556,"prince william, duke of clarence",center
 7557,princess anne,center
 7558,princess anne of denmark,top
 7559,princess elizabeth,center-bottom
-7560,princess mary,center-bottom
-7561,princeton,top
+7560,princess mary,center-top
+7561,princeton,center-top
 7562,princeton university,top
 7563,principalities,top
 7564,principality,top
@@ -7585,10 +7585,10 @@ policy",center-bottom
 7582,processor,center-top
 7583,processors,center-top
 7584,production management,bottom
-7585,programmability,center-top
-7586,programmed,center-top
+7585,programmability,top
+7586,programmed,bottom
 7587,programming language,top
-7588,programming languages,bottom
+7588,programming languages,top
 7589,"progress report on sos children’s village dassa-zoumé, benin",center
 7590,project spotlight,center
 7591,project vanguard,center
@@ -7597,7 +7597,7 @@ policy",center-bottom
 7594,promethium,bottom
 7595,pronunciation,top
 7596,propaganda,top
-7597,propagandist,center
+7597,propagandist,center-top
 7598,propagandistic,bottom
 7599,propagation,top
 7600,proper removal of ticks,top
@@ -7616,7 +7616,7 @@ policy",center-bottom
 7613,proteinaceous,bottom
 7614,proteins,center-top
 7615,protestant england,center-top
-7616,protoceratops,center-top
+7616,protoceratops,center-bottom
 7617,protofeathers,center-bottom
 7618,proton,top
 7619,protons,center-bottom
@@ -7636,10 +7636,10 @@ policy",center-bottom
 7633,pterodactyl,center-top
 7634,pterodactyls,top
 7635,pterosaur,center
-7636,pterosaurs,bottom
+7636,pterosaurs,center-bottom
 7637,ptolemaic,center-bottom
 7638,ptolemy,top
-7639,pu,center-bottom
+7639,pu,center
 7640,publicly quoted companies,center-bottom
 7641,published,center
 7642,publisher,top
@@ -7648,7 +7648,7 @@ policy",center-bottom
 7645,puerto rican,center
 7646,puerto rico,top
 7647,puerto rico,bottom
-7648,puffin,bottom
+7648,puffin,center-top
 7649,puffins,bottom
 7650,pumpkin,top
 7651,pumpkins,top
@@ -7661,7 +7661,7 @@ policy",center-bottom
 7658,pyongyang,top
 7659,pyotr ilyich tchaikovsky,center-bottom
 7660,pyotr tchaikovsky,center-bottom
-7661,pyramid,bottom
+7661,pyramid,center
 7662,pyramid of khufu,center-top
 7663,pyramidal,center-top
 7664,pyramids,top
@@ -7673,10 +7673,10 @@ policy",center-bottom
 7670,pythagorean theorem,center-bottom
 7671,pythagoreanism,center
 7672,póvoa de varzim,center
-7673,pāli canon,center-bottom
+7673,pāli canon,bottom
 7674,qatar,bottom
-7675,qatari,center-bottom
-7676,qin,bottom
+7675,qatari,center-top
+7676,qin,center-top
 7677,qin dynasty,top
 7678,qin shi huang,top
 7679,qin shi huang di,top
@@ -7703,10 +7703,10 @@ policy",center-bottom
 7700,quantum mechanics,center-top
 7701,quantum theory,top
 7702,quantum-chemical,center-top
-7703,quark,top
+7703,quark,center
 7704,quarks,top
 7705,quartz,center-bottom
-7706,quatermass and the pit,center
+7706,quatermass and the pit,center-bottom
 7707,queen,center
 7708,queen anne,top
 7709,queen elizabeth,center-bottom
@@ -7716,24 +7716,24 @@ policy",center-bottom
 7713,queen elizabeth's,top
 7714,queen mary,top
 7715,queen mary ii,center
-7716,queen of the united kingdom,center-top
+7716,queen of the united kingdom,bottom
 7717,queen victoria,top
 7718,queen victoria's,center
 7719,questionnaire,bottom
 7720,quetzalcoatl,center
 7721,quintile,center-bottom
 7722,quitile,center-bottom
-7723,quito,top
+7723,quito,center-top
 7724,qur'an,top
 7725,qur'anic,top
-7726,qur'ans,bottom
+7726,qur'ans,center
 7727,qur'ān,bottom
 7728,r&b,top
 7729,r. buckminster-fuller,center-top
 7730,r.o.c,top
 7731,r.o.c.,center
 7732,ra,center-bottom
-7733,rabat,top
+7733,rabat,center-bottom
 7734,rabbit,center
 7735,rabbits,center
 7736,rabies,center-bottom
@@ -7741,7 +7741,7 @@ policy",center-bottom
 7738,race,top
 7739,racecar,center-bottom
 7740,racecars,bottom
-7741,races,center-top
+7741,races,center-bottom
 7742,rachel@soschildren.org,center-bottom
 7743,racial,center-bottom
 7744,radar,center
@@ -7771,9 +7771,9 @@ policy",center-bottom
 7768,rafah,center
 7769,rags,bottom
 7770,ragtime,center
-7771,rail,center
+7771,rail,center-bottom
 7772,rail lines,center-bottom
-7773,rail transport,top
+7773,rail transport,center-bottom
 7774,railroad,top
 7775,railroads,center-top
 7776,railway,top
@@ -7784,7 +7784,7 @@ policy",center-bottom
 7781,rain water,top
 7782,rainbow,center
 7783,rainbow flag,bottom
-7784,rainbows,center-top
+7784,rainbows,center-bottom
 7785,rainfall,center-top
 7786,rainforest,top
 7787,rainforests,center-bottom
@@ -7796,7 +7796,7 @@ policy",center-bottom
 7793,rama,top
 7794,ramayana,top
 7795,rameses ii,center-top
-7796,ramesses ii,center
+7796,ramesses ii,top
 7797,ramses ii,center-bottom
 7798,ramsgate,center
 7799,ran,center-top
@@ -7809,7 +7809,7 @@ policy",center-bottom
 7806,raptor,top
 7807,raptors,top
 7808,ratio of a circle's circumference to its diameter,center
-7809,raven,center-top
+7809,raven,top
 7810,ravens,center-bottom
 7811,raw cotton,center-bottom
 7812,ray of light,center-top
@@ -7855,12 +7855,12 @@ policy",center-bottom
 7852,reed warbler,center
 7853,reed warblers,center-top
 7854,reefer,center-top
-7855,refineries,bottom
+7855,refineries,center
 7856,refinery,center
 7857,refining,center-bottom
 7858,refractory period,center
 7859,refrigerated boxcar,center-top
-7860,refrigerator cars,center-bottom
+7860,refrigerator cars,bottom
 7861,regal lordship,top
 7862,regent's park,center-top
 7863,reggae,top
@@ -7870,18 +7870,18 @@ policy",center-bottom
 7867,regular,center-bottom
 7868,regular donation,center-bottom
 7869,regular donations online,center-top
-7870,reigate,top
+7870,reigate,center-bottom
 7871,relapsing-remitting multiple sclerosis,center
 7872,relativistic,center-top
-7873,relativity,bottom
+7873,relativity,center-top
 7874,relaxing,center-bottom
 7875,relief in pakistan,center-bottom
 7876,religion,top
 7877,religions,top
 7878,religious,top
-7879,religious belief,top
+7879,religious belief,center
 7880,religious processions,center-top
-7881,religious society of friends,bottom
+7881,religious society of friends,center-bottom
 7882,religious tradition,top
 7883,religious uses,bottom
 7884,religiously,bottom
@@ -7929,7 +7929,7 @@ policy",center-bottom
 7926,requisite proportions,center-top
 7927,rer,center-bottom
 7928,reservoir,bottom
-7929,reservoirs,bottom
+7929,reservoirs,top
 7930,resistance,top
 7931,resistive,top
 7932,restoration comedies,top
@@ -7940,7 +7940,7 @@ policy",center-bottom
 7937,retinas,center
 7938,retreat of glaciers since 1850,bottom
 7939,retreated,center-bottom
-7940,reunification,top
+7940,reunification,center-top
 7941,reunified,top
 7942,revelation,top
 7943,revenue,top
@@ -7950,7 +7950,7 @@ policy",center-bottom
 7947,revolution of 1917,center
 7948,revolutionaries,center-bottom
 7949,revolutionary,center-top
-7950,revolutionary france,top
+7950,revolutionary france,center-top
 7951,revolutionary war,bottom
 7952,revolutionary wars,top
 7953,revolutionising,bottom
@@ -7969,19 +7969,19 @@ policy",center-bottom
 7966,richard,center-bottom
 7967,richard burton,bottom
 7968,richard feynman,center
-7969,richard francis burton,bottom
+7969,richard francis burton,center-top
 7970,richard i,top
 7971,richard i of england,top
 7972,richard ii,top
 7973,richard ii of england,center
-7974,richard iii,bottom
+7974,richard iii,top
 7975,richard iii of england,top
 7976,richard nixon,center
 7977,richard o'connor,center-top
 7978,richard of bordeaux,center
 7979,richard of gloucester,center-bottom
 7980,richard stallman,top
-7981,richard the lionheart,center
+7981,richard the lionheart,top
 7982,richard wagner,center
 7983,richard wagner's,center
 7984,richard's,top
@@ -7991,14 +7991,14 @@ policy",center-bottom
 7988,"richmond, virginia",bottom
 7989,rickets,center
 7990,rift valley,center-top
-7991,right to vote,center-top
+7991,right to vote,top
 7992,right whale,center
 7993,rights,top
 7994,rimsky-korsakov,center-bottom
 7995,ring,bottom
 7996,rings,top
 7997,rio,top
-7998,rio de janeiro,bottom
+7998,rio de janeiro,top
 7999,rio tinto group,top
 8000,rise in sea level,top
 8001,rising,bottom
@@ -8024,7 +8024,7 @@ policy",center-bottom
 8021,robert boyle,top
 8022,"robert gascoyne-cecil, 3rd marquess of salisbury",center-top
 8023,robert oppenheimer,top
-8024,robert owen,top
+8024,robert owen,center-top
 8025,robert peel,top
 8026,robert schumann,center-bottom
 8027,robert stephenson,center-top
@@ -8036,7 +8036,7 @@ policy",center-bottom
 8033,rock pigeons,bottom
 8034,rockall,bottom
 8035,rocket,top
-8036,rockies,bottom
+8036,rockies,center
 8037,rocky mountain region,top
 8038,rocky mountains,top
 8039,rococo,center-top
@@ -8045,18 +8045,18 @@ policy",center-bottom
 8042,roland garros,bottom
 8043,roman,top
 8044,roman alphabet,center-bottom
-8045,roman britain,center-top
+8045,roman britain,top
 8046,roman catholic,top
 8047,roman catholic church,top
 8048,roman catholic papacy,center-top
 8049,roman catholicism,top
-8050,roman catholics,center
+8050,roman catholics,center-top
 8051,roman civilization,top
 8052,roman deities,top
-8053,roman emperor,top
+8053,roman emperor,center-bottom
 8054,roman emperors,bottom
 8055,roman empire,top
-8056,roman era,top
+8056,roman era,center-top
 8057,roman god,top
 8058,roman goddess,top
 8059,roman gods,top
@@ -8074,21 +8074,21 @@ policy",center-bottom
 8071,roman province,center-top
 8072,roman religion,center-top
 8073,roman road,top
-8074,roman roads,top
+8074,roman roads,center
 8075,roman script,top
 8076,roman state,top
 8077,roman villa,top
 8078,roman villas,top
 8079,romania,bottom
 8080,romania child sponsorship,center-bottom
-8081,romanian,center
+8081,romanian,center-top
 8082,romanians,center
 8083,romans,top
 8084,romantic,top
 8085,romantic current,center-bottom
 8086,romantic currents,center-bottom
 8087,romantic era,center-top
-8088,romantic movement,center-bottom
+8088,romantic movement,top
 8089,romantic poets,center-top
 8090,romanticism,center-top
 8091,romantics,center-bottom
@@ -8113,19 +8113,19 @@ policy",center-bottom
 8110,royal,center-bottom
 8111,royal air force,center-bottom
 8112,royal dutch shell,center
-8113,royal dutch/shell,center-bottom
+8113,royal dutch/shell,center
 8114,royal family,center-top
 8115,royal geographical society,center-top
-8116,royal marines,center-bottom
+8116,royal marines,center
 8117,royal national theatre,center-bottom
 8118,royal navy,top
 8119,royal navy's,center-bottom
-8120,royal parks,center-top
+8120,royal parks,top
 8121,royal parks of london,top
 8122,royal power,top
 8123,royalist,top
 8124,rs,center
-8125,rs.,center
+8125,rs.,center-bottom
 8126,rss,center
 8127,rubens,center
 8128,rubidium,center-bottom
@@ -8136,7 +8136,7 @@ policy",center-bottom
 8133,rugby world cup,bottom
 8134,rugby world cups,bottom
 8135,rule,center
-8136,rule of st benedict,top
+8136,rule of st benedict,center-top
 8137,rules,center-top
 8138,rumblings of secession,top
 8139,runaway greenhouse effect,center-bottom
@@ -8166,7 +8166,7 @@ policy",center-bottom
 8163,rutherford b. hayes,top
 8164,rwanda,bottom
 8165,rwanda child sponsorship,center-bottom
-8166,rwandan,center
+8166,rwandan,top
 8167,rwandan genocide,top
 8168,rwandans,center-top
 8169,réunion,center-bottom
@@ -8175,12 +8175,12 @@ policy",center-bottom
 8172,rāma,top
 8173,rāmāyana,center
 8174,rāmāyaṇa,center-top
-8175,s,top
+8175,s,center
 8176,s.a.r. of macau,top
 8177,s.ansari@btinternet.com,center-top
 8178,safe water,top
-8179,safflower,center-top
-8180,saffron,center-top
+8179,safflower,center
+8180,saffron,top
 8181,sagan,center
 8182,sage,center-bottom
 8183,sahara,center
@@ -8202,7 +8202,7 @@ policy",center-bottom
 8199,saladin,center-bottom
 8200,saladin's grave in damascus,bottom
 8201,salford,top
-8202,salination,center
+8202,salination,bottom
 8203,saline,center-top
 8204,saline water,top
 8205,salinity,bottom
@@ -8211,11 +8211,11 @@ policy",center-bottom
 8208,salsa,bottom
 8209,salsa music,center-bottom
 8210,salt,top
-8211,salt lake,center-top
+8211,salt lake,top
 8212,salt lake city,center-top
-8213,"salt lake city, utah",bottom
+8213,"salt lake city, utah",top
 8214,salt water,top
-8215,saltasaurus,top
+8215,saltasaurus,bottom
 8216,saltpeter,top
 8217,saltpetre,center-bottom
 8218,salts,top
@@ -8224,21 +8224,21 @@ policy",center-bottom
 8221,salvador dalí,center-bottom
 8222,salvadoran,center
 8223,salvadorans,center
-8224,samarium,center
+8224,samarium,bottom
 8225,same region,center-top
 8226,samoa,top
 8227,samoan,center-top
-8228,samoans,top
+8228,samoans,center
 8229,samuel beckett,bottom
 8230,samuel taylor coleridge,center
-8231,san diegan,center-bottom
-8232,san diego and arizona railway,bottom
-8233,san diego electric railway,top
+8231,san diegan,bottom
+8232,san diego and arizona railway,center-top
+8233,san diego electric railway,bottom
 8234,san francisco,top
 8235,san francisco county,center-top
-8236,"san francisco, california",center-top
+8236,"san francisco, california",center
 8237,san jose,bottom
-8238,"san jose, california",top
+8238,"san jose, california",center-bottom
 8239,san marino,bottom
 8240,sand,top
 8241,sand castle,bottom
@@ -8254,9 +8254,9 @@ policy",center-bottom
 8251,sanitary products,top
 8252,sanskrit,top
 8253,sanskritised,center-bottom
-8254,sanssouci,center
+8254,sanssouci,center-bottom
 8255,santa,bottom
-8256,santa claus,top
+8256,santa claus,bottom
 8257,santa cruz,bottom
 8258,santiago,top
 8259,santiago centro,center-bottom
@@ -8266,14 +8266,14 @@ policy",center-bottom
 8263,sarajevo,center
 8264,sardar vallabhbhai patel,center-top
 8265,sassanian,top
-8266,sassanid,center-top
+8266,sassanid,center
 8267,sassanid empire,top
 8268,sassanids,top
 8269,saturn,top
 8270,saturn v,top
-8271,saudi,center-bottom
+8271,saudi,center-top
 8272,saudi arabia,bottom
-8273,saudi arabian,bottom
+8273,saudi arabian,top
 8274,saudi arabia,bottom
 8275,saurischia,center
 8276,saurischian,center
@@ -8285,12 +8285,12 @@ policy",center-bottom
 8282,sauropsida,top
 8283,sauropsids,center-bottom
 8284,sax,center-bottom
-8285,saxophone,top
+8285,saxophone,center-top
 8286,saxophones,top
 8287,sb,center-top
 8288,scandium,center-bottom
 8289,scanian,top
-8290,scattered disc,center-bottom
+8290,scattered disc,bottom
 8291,scattered disk object,center-top
 8292,scelidosaurus,center-top
 8293,scenes from genesis,top
@@ -8305,7 +8305,7 @@ policy",center-bottom
 8302,schools keepy uppy resources,center-bottom
 8303,schools@worldorphanweek.com,center-top
 8304,schrödinger,center-bottom
-8305,schrödinger equation,center-top
+8305,schrödinger equation,top
 8306,schrödinger wave equation,center
 8307,schubert,center
 8308,schumann,bottom
@@ -8317,13 +8317,13 @@ policy",center-bottom
 8314,scientific classification,center-bottom
 8315,scientific history,top
 8316,scientific inquiry,top
-8317,scientific name,top
+8317,scientific name,center-top
 8318,scientific study,top
 8319,scientific understanding of atmospheric processes,top
 8320,scientifically,top
 8321,scientists,top
 8322,"scolari, maniche and madaíl become fifa/sos ambassadors",center
-8323,scooby-doo,center-top
+8323,scooby-doo,center
 8324,scorbutic,center-top
 8325,scoring,top
 8326,scoring system and service,top
@@ -8332,10 +8332,10 @@ policy",center-bottom
 8329,scots,top
 8330,scots gaelic,center-bottom
 8331,scots language,bottom
-8332,scott,bottom
+8332,scott,center
 8333,scottish,top
 8334,scottish episcopal,center-top
-8335,scottish episcopal church,bottom
+8335,scottish episcopal church,center-top
 8336,scottish episcopalian,center
 8337,scottish gaelic,top
 8338,scottish highlands,top
@@ -8346,15 +8346,15 @@ policy",center-bottom
 8343,scout movement,center-top
 8344,scouting,top
 8345,scouts,top
-8346,scramble for africa,center-bottom
+8346,scramble for africa,center-top
 8347,screw,center-top
 8348,scripture,top
 8349,scrooge mcduck,center
 8350,sculptor,top
-8351,sculptors,bottom
+8351,sculptors,center
 8352,sculpture,center-bottom
 8353,sculpture in the round,bottom
-8354,sculptures,top
+8354,sculptures,center
 8355,scuptors,center-bottom
 8356,scurvy,bottom
 8357,sea,top
@@ -8370,7 +8370,7 @@ policy",center-bottom
 8367,sean connery,center-top
 8368,seas,top
 8369,season,top
-8370,seasonal,center-top
+8370,seasonal,center-bottom
 8371,seasonal snow,bottom
 8372,seasonally,top
 8373,seasons,center-top
@@ -8386,8 +8386,8 @@ policy",center-bottom
 8383,second boer war,top
 8384,second century,center-top
 8385,second concert,center-bottom
-8386,second congo war,top
-8387,second congo wars,top
+8386,second congo war,center-top
+8387,second congo wars,center-bottom
 8388,second crusade,top
 8389,second major offensive,bottom
 8390,second world war,top
@@ -8401,7 +8401,7 @@ debit",top
 8397,secure online donation,top
 8398,security below,center-top
 8399,sedna,center-top
-8400,see below,center
+8400,see below,center-top
 8401,see list below,center-top
 8402,see note below,center
 8403,see picture,center-top
@@ -8414,14 +8414,14 @@ debit",top
 8410,seismic activity,center-top
 8411,seized control,top
 8412,selected,center-top
-8413,selection,center-bottom
+8413,selection,bottom
 8414,selection of ideas,center-bottom
 8415,selection pressure,bottom
 8416,selective,center
 8417,selective advantage,top
 8418,selena,bottom
 8419,selenium,center-top
-8420,semiconductivity,top
+8420,semiconductivity,bottom
 8421,semiconductor,top
 8422,semiconductor device,top
 8423,semiconductor devices,top
@@ -8436,10 +8436,10 @@ debit",top
 8432,senegalese,center-bottom
 8433,senufo,bottom
 8434,seoul,top
-8435,september 11,top
+8435,september 11,center-bottom
 8436,september 11 attacks,center-bottom
 8437,september 11 terrorist attacks,center
-8438,"september 11, 2001",center-bottom
+8438,"september 11, 2001",center
 8439,"september 11, 2001 attacks",center-bottom
 8440,"september 11, 2001 terrorist attacks",center
 8441,september 11th attacks,center-top
@@ -8470,7 +8470,7 @@ debit",top
 8466,several invasions of russia,top
 8467,several states,top
 8468,several wars,top
-8469,severn,top
+8469,severn,bottom
 8470,severn crossing,center-top
 8471,severn valley,top
 8472,sex,top
@@ -8481,23 +8481,23 @@ debit",top
 8477,shackleton crater,center
 8478,shaka,top
 8479,shakespeare,top
-8480,shakespeare's,center
+8480,shakespeare's,top
 8481,shakespeare's tragedies,center
 8482,shakespeare-inspired,center-top
 8483,shakespearean,top
-8484,shanghai,bottom
+8484,shanghai,center-top
 8485,share,center-top
 8486,shark,top
-8487,sharks,center
-8488,sharkskin,bottom
+8487,sharks,bottom
+8488,sharkskin,center-bottom
 8489,sheffield,center
 8490,sheikh mujibur rahman,top
 8491,shelduck,center-bottom
-8492,shelducks,center
-8493,shell,bottom
+8492,shelducks,top
+8493,shell,center-bottom
 8494,shenzhou 6,center-bottom
 8495,shenzhou spacecraft,top
-8496,sherman,center
+8496,sherman,bottom
 8497,sherman's,center
 8498,shetland,center-top
 8499,shielded metal arc welding,top
@@ -8512,7 +8512,7 @@ debit",top
 8508,short-beaked echidna,top
 8509,shoshone national forest,center-bottom
 8510,shrine of remembrance,bottom
-8511,shroud of turin,bottom
+8511,shroud of turin,center
 8512,shuddha,center-top
 8513,shuttle,center-top
 8514,si,center
@@ -8537,7 +8537,7 @@ debit",top
 8533,sikhism,bottom
 8534,sikhs,center-bottom
 8535,sikkim,top
-8536,sikkimese,center-bottom
+8536,sikkimese,center-top
 8537,silent film,top
 8538,silent films,top
 8539,silent-film,top
@@ -8549,14 +8549,14 @@ debit",top
 8545,simón bolivar,top
 8546,simón bolívar,center-top
 8547,sinclair,center-top
-8548,sine,center-top
+8548,sine,bottom
 8549,singapore,top
 8550,singaporean,center-top
 8551,sir arthur sullivan,bottom
 8552,sir arthur wellesley,top
 8553,sir christopher wren,bottom
 8554,sir edmund hillary,center-bottom
-8555,sir francis bacon,center-top
+8555,sir francis bacon,top
 8556,sir humphry davy,center-top
 8557,sir isaac newton,center
 8558,sir j.j. thomson,top
@@ -8564,14 +8564,14 @@ debit",top
 8560,sir robert peel,center-top
 8561,sir thomas more,center-top
 8562,sir tim berners-lee,center-bottom
-8563,sir walter raleigh,center-bottom
+8563,sir walter raleigh,center
 8564,sir walter scott,center
 8565,sir winston churchill,center-bottom
 8566,sirius,top
-8567,sitting bull,top
+8567,sitting bull,center
 8568,situation of women in india,center-bottom
 8569,six-villages,center-bottom
-8570,sixteenth,center-top
+8570,sixteenth,top
 8571,sixteenth centuries,top
 8572,sixteenth century,top
 8573,sixth,center-top
@@ -8613,14 +8613,14 @@ debit",top
 8609,snow,top
 8610,snow flakes,center-bottom
 8611,snow geese,top
-8612,snow goose,center-top
+8612,snow goose,center-bottom
 8613,snowball earth,center
-8614,snowdonia,center-top
+8614,snowdonia,center
 8615,snowdonia national park,top
 8616,snowfall,center-top
 8617,snowfalls,top
 8618,snowflake,center-top
-8619,snowflakes,center-bottom
+8619,snowflakes,center-top
 8620,snowman of the himalayas,top
 8621,snows,center-top
 8622,snuff,top
@@ -8630,19 +8630,19 @@ debit",top
 8626,social and religious controversies,top
 8627,social anxiety,center
 8628,social capital,center
-8629,social contract,bottom
+8629,social contract,center-top
 8630,social theory,center-top
 8631,socialism,top
 8632,socialist,top
 8633,socialist movement,top
 8634,socialist system,top
-8635,socialists,center
+8635,socialists,center-bottom
 8636,societies,top
 8637,society,top
 8638,society of merchant venturers,center-bottom
 8639,society’s,top
 8640,sociocultural evolution,bottom
-8641,sociological,top
+8641,sociological,center-bottom
 8642,sociologist,top
 8643,sociologists,top
 8644,sociology,top
@@ -8654,9 +8654,9 @@ debit",top
 8650,soil,top
 8651,soil degradation,center
 8652,soil ph,center-top
-8653,soil profile,center
+8653,soil profile,top
 8654,soil salination,center-bottom
-8655,soil science,center-top
+8655,soil science,bottom
 8656,soil structure,center-top
 8657,soils,center-top
 8658,soils retrogression and degradation,center-top
@@ -8677,7 +8677,7 @@ debit",top
 8673,song thrush,center-top
 8674,sonic the hedgehog,top
 8675,sony,center-top
-8676,sorghum,center-top
+8676,sorghum,center
 8677,sorrel,bottom
 8678,sos children and the fa,center-bottom
 8679,sos children frequently asked questions,center
@@ -8717,7 +8717,7 @@ debit",top
 8713,south america,top
 8714,south american,top
 8715,south american anteaters,top
-8716,south asians,top
+8716,south asians,center-bottom
 8717,south atlantic,center-top
 8718,south china sea,top
 8719,south china seas,center-top
@@ -8752,7 +8752,7 @@ debit",top
 8748,southern sudan,center
 8749,southern united states,top
 8750,southern-swedish,top
-8751,southerners,center-top
+8751,southerners,top
 8752,southwest asian,top
 8753,south africa,bottom
 8754,south georgia and the south sandwich islands,bottom
@@ -8774,28 +8774,28 @@ debit",top
 8770,space,center-top
 8771,space exploration,center-bottom
 8772,space exploration missions,top
-8773,space invaders,bottom
+8773,space invaders,top
 8774,space race,top
 8775,space shuttle,bottom
 8776,space shuttle challenger,bottom
 8777,space shuttle challenger disaster,top
-8778,space shuttle columbia,top
-8779,space shuttle columbia disaster,bottom
+8778,space shuttle columbia,bottom
+8779,space shuttle columbia disaster,center-bottom
 8780,space shuttle endeavour,center
 8781,space shuttle program,top
 8782,space shuttles,center-bottom
 8783,space station,center-bottom
-8784,space stations,center-top
+8784,space stations,bottom
 8785,space suits,top
 8786,spacecraft propulsion,center-bottom
 8787,spagyrists,center-bottom
 8788,spain,top
 8789,spaniard,bottom
-8790,spaniards,top
+8790,spaniards,bottom
 8791,spanish,top
 8792,spanish armada,top
 8793,spanish conquest,center-bottom
-8794,spanish inquisition,center-bottom
+8794,spanish inquisition,top
 8795,spanish inquistors,center-top
 8796,spanish language,top
 8797,spanish mainland,center-top
@@ -8827,17 +8827,17 @@ debit",top
 8823,speed of c,top
 8824,speed of light,center-top
 8825,speed-of-light,center-top
-8826,sperm whale,bottom
+8826,sperm whale,top
 8827,sphagnum bogs,center
-8828,sphere,center-bottom
+8828,sphere,bottom
 8829,spheres,top
 8830,spherical,top
 8831,spherical aberration,top
 8832,spherically,center-bottom
-8833,spider,top
-8834,spiders,center-bottom
+8833,spider,center-bottom
+8834,spiders,top
 8835,spinosaurus,bottom
-8836,spinoza,bottom
+8836,spinoza,top
 8837,spirit of the american doughboy,bottom
 8838,spirits,top
 8839,spitfire,center-top
@@ -8890,7 +8890,7 @@ debit",top
 8886,sri lanka child sponsorship,center-bottom
 8887,sri lankan,top
 8888,sri lankans,bottom
-8889,st augustine,center-top
+8889,st augustine,center-bottom
 8890,st edward the confessor,top
 8891,st francis,top
 8892,st helena,center-top
@@ -8898,7 +8898,7 @@ debit",top
 8894,st paul,top
 8895,st paul's,center-bottom
 8896,st paul's cathedral,center-bottom
-8897,st petersburg,top
+8897,st petersburg,center-top
 8898,st. augustine,top
 8899,st. bede,top
 8900,st. francis of assisi,top
@@ -8922,15 +8922,15 @@ debit",top
 8918,stage theory of moral development,top
 8919,stained glass,top
 8920,stalin,top
-8921,stalingrad,center-bottom
+8921,stalingrad,center
 8922,stamps,center-bottom
 8923,stand-up bass,center-top
 8924,standard german,top
 8925,stanisław koniecpolski,bottom
 8926,stanley,center-top
-8927,stanley baldwin,bottom
+8927,stanley baldwin,center
 8928,star,top
-8929,star anise,center-top
+8929,star anise,top
 8930,star systems,top
 8931,star trek,top
 8932,star trek: deep space nine,center-bottom
@@ -8955,19 +8955,19 @@ debit",top
 8951,statistics,top
 8952,steam engine,top
 8953,steam engines,top
-8954,steam power,bottom
+8954,steam power,top
 8955,steel,top
 8956,steels,top
 8957,stefan edberg,center
 8958,stegosaurus,center-top
-8959,stellar,center-bottom
+8959,stellar,bottom
 8960,stem cell,center-bottom
 8961,stem cells,bottom
 8962,stem form,bottom
 8963,step cut,center-top
 8964,stephen,center-top
 8965,stephen gould,center
-8966,stephen harper,center-bottom
+8966,stephen harper,bottom
 8967,stephen hawking,center-bottom
 8968,stephen jay gould,top
 8969,stephen jay gould's,top
@@ -8976,7 +8976,7 @@ debit",top
 8972,sterling,center
 8973,still game,bottom
 8974,stingray,bottom
-8975,stingrays,center
+8975,stingrays,top
 8976,stock,center-top
 8977,stock cars,top
 8978,stock prices,center-bottom
@@ -8984,14 +8984,14 @@ debit",top
 8980,stocks,bottom
 8981,stoic,top
 8982,stoically,center
-8983,stoicism,center-top
+8983,stoicism,top
 8984,stoics,top
 8985,stone age,top
 8986,stonehenge,bottom
 8987,stop press,center
 8988,storm,top
 8989,stornoway,bottom
-8990,strait of malacca,top
+8990,strait of malacca,center-top
 8991,strategy for aids orphans,center-top
 8992,stratford-upon-avon,center-top
 8993,stravinsky,center-bottom
@@ -9000,8 +9000,8 @@ debit",top
 8996,string theory,bottom
 8997,strings,bottom
 8998,stroke,center-bottom
-8999,strokes,bottom
-9000,strontium,center-bottom
+8999,strokes,top
+9000,strontium,center-top
 9001,structure of atoms,center-top
 9002,structure of dna,center-bottom
 9003,struggle for independence,top
@@ -9009,12 +9009,12 @@ debit",top
 9005,studded,center
 9006,student protests,center-top
 9007,study of fossils,top
-9008,stuttering,center-top
+9008,stuttering,center
 9009,stuttgart,center-top
 9010,stuttgart-bad cannstatt,center-bottom
 9011,styracosaurus,center
 9012,sub-dialects,center-top
-9013,sub-saharan,bottom
+9013,sub-saharan,center-top
 9014,sub-saharan africa,top
 9015,sub-saharan african,top
 9016,sub-saharan africans,bottom
@@ -9027,29 +9027,29 @@ debit",top
 9023,sucre,top
 9024,sudan,bottom
 9025,sudan child sponsorship,center-bottom
-9026,sudanese,bottom
+9026,sudanese,center-bottom
 9027,sudanic,center
-9028,suez,top
+9028,suez,center-bottom
 9029,suez canal,top
 9030,suffrage,center-top
 9031,suffrages,center-top
 9032,sugar,top
 9033,sugar beet,center-top
-9034,sugar beets,center-bottom
+9034,sugar beets,top
 9035,sugar-beet,top
 9036,sugarcane,top
 9037,sugars,center-top
 9038,suggested pronunciation,center
 9039,suggestions for activities,center
 9040,suleiman i,center-top
-9041,suleiman the magnificent,center-top
+9041,suleiman the magnificent,top
 9042,sulfur,top
 9043,sulfuric,top
 9044,sulfuric acid,center-top
 9045,sulfurous,center-top
 9046,sulfurs,center-top
 9047,sullivan,center-bottom
-9048,sulphuric acid,center
+9048,sulphuric acid,top
 9049,sultan,top
 9050,sultanate,top
 9051,sultans,top
@@ -9064,7 +9064,7 @@ debit",top
 9060,summer,center-top
 9061,summer olympic games,bottom
 9062,summers,top
-9063,sumo,center
+9063,sumo,bottom
 9064,sun,top
 9065,sun tzu,center-top
 9066,sun yat-sen,top
@@ -9095,7 +9095,7 @@ debit",top
 9091,superfamily,top
 9092,superior,center-top
 9093,superman,bottom
-9094,supermarine spitfire,center-top
+9094,supermarine spitfire,bottom
 9095,supply and demand,center
 9096,supply chain management,center-bottom
 9097,supply curve,center
@@ -9106,23 +9106,23 @@ debit",top
 9102,surinam,top
 9103,suriname,top
 9104,surinamese,center-bottom
-9105,surtsey,top
+9105,surtsey,center
 9106,sustainable economy,top
 9107,sutton hoo,center
 9108,svalbard,top
-9109,swan,center-top
-9110,swans,center
+9109,swan,top
+9110,swans,top
 9111,swastika,bottom
 9112,swastikas,center-top
 9113,swaziland,bottom
 9114,swaziland child sponsorship,center-bottom
 9115,sweden,bottom
-9116,swedes,top
+9116,swedes,center-top
 9117,swedish,top
 9118,swelling,center-top
 9119,swifts,center-bottom
 9120,swine,center
-9121,swiss,top
+9121,swiss,center
 9122,swiss confederation,center-top
 9123,swiss frontier,top
 9124,swiss-born,bottom
@@ -9131,14 +9131,14 @@ debit",top
 9127,swords,bottom
 9128,sydney,top
 9129,sydney newman,center-top
-9130,symmetric,center-bottom
-9131,symmetrical,center-top
+9130,symmetric,center-top
+9131,symmetrical,top
 9132,symmetry,top
 9133,symmetry in biology,top
 9134,synapse,center
-9135,synapses,center
+9135,synapses,center-top
 9136,synthesizer,center-top
-9137,synthesizers,center
+9137,synthesizers,top
 9138,syria,bottom
 9139,syria child sponsorship,center-bottom
 9140,syrian,center-bottom
@@ -9159,9 +9159,9 @@ debit",top
 9155,table of thermodynamic temperatures,center
 9156,table salt,top
 9157,taboo in western countries,center-top
-9158,taft,center-top
+9158,taft,top
 9159,tagore,bottom
-9160,taipei,center-top
+9160,taipei,center
 9161,"taipei, taiwan",center-bottom
 9162,taiwan,top
 9163,taiwan island,center-top
@@ -9169,7 +9169,7 @@ debit",top
 9165,taj mahal,bottom
 9166,tajikistan,bottom
 9167,take,center-bottom
-9168,talc,center-top
+9168,talc,center-bottom
 9169,tallest,center
 9170,tamerlane,bottom
 9171,tamil,top
@@ -9179,7 +9179,7 @@ debit",top
 9175,tamil people,bottom
 9176,tamilians,center-bottom
 9177,tamils,center-bottom
-9178,tanganyika,center-bottom
+9178,tanganyika,top
 9179,tank,bottom
 9180,tanks,center
 9181,tansy,top
@@ -9191,32 +9191,32 @@ debit",top
 9187,taoism,center-bottom
 9188,taoist,top
 9189,targeting israeli vehicles,bottom
-9190,tarragon,center-top
+9190,tarragon,center
 9191,tashkent,center-top
 9192,tasmanian devil,center-top
-9193,tawny owl,center-bottom
+9193,tawny owl,center-top
 9194,taxonomy,top
 9195,tay bridge,top
-9196,tay rail bridge,top
+9196,tay rail bridge,bottom
 9197,tay-sachs disease,center-bottom
 9198,tchaikovsky,center-top
 9199,tchaikovsky's,center-top
 9200,tea,center-top
 9201,tear gas,bottom
-9202,teas,center-top
-9203,technetium,center
+9202,teas,center
+9203,technetium,center-bottom
 9204,technological,center-top
-9205,technologies,bottom
+9205,technologies,top
 9206,technology,top
 9207,technomania,bottom
-9208,tectonic,top
+9208,tectonic,center
 9209,tectonic activity,center-top
 9210,tectonic plate,center-top
 9211,tectonic plates,top
 9212,teddy roosevelt's,bottom
 9213,tehran,center-bottom
 9214,tel aviv,bottom
-9215,telecommunication,top
+9215,telecommunication,center-bottom
 9216,telecommunication systems,center-top
 9217,telecommunications,bottom
 9218,telephone,center-top
@@ -9233,15 +9233,15 @@ debit",top
 9229,televisions,top
 9230,tellurium,top
 9231,temperate,top
-9232,temperate climate,center-top
+9232,temperate climate,top
 9233,temperate climate zone,center
 9234,temperate marine,center-top
 9235,temple,center
 9236,ten-wheelers,center
 9237,tennis,bottom
 9238,tennis masters cup,center
-9239,tenth,top
-9240,tenth centuries,top
+9239,tenth,center-top
+9240,tenth centuries,center-top
 9241,tenth century,top
 9242,tenzin gyatso,center
 9243,"tenzin gyatso, the 14th dalai lama",bottom
@@ -9274,7 +9274,7 @@ debit",top
 9270,thais,center
 9271,thalassemia,bottom
 9272,thalassemia minor,center
-9273,thallium,top
+9273,thallium,center
 9274,thames,top
 9275,thames valley,top
 9276,thatcher,center-top
@@ -9282,17 +9282,17 @@ debit",top
 9278,the 32nd u.s. state,top
 9279,the absent-minded beggar,bottom
 9280,the adventures of tintin,center-top
-9281,the anarchy,top
+9281,the anarchy,center-top
 9282,the ashes,center-bottom
 9283,the bahamas,top
-9284,the beano,center
+9284,the beano,center-top
 9285,the beatles,top
 9286,the beatles',center-top
 9287,the bible,top
 9288,the biological pump,top
 9289,the blitz,center-bottom
 9290,the boy shop pets,center
-9291,the broads,top
+9291,the broads,center-top
 9292,the brothers karamazov,center
 9293,the buddha,top
 9294,the canadian,center
@@ -9306,18 +9306,18 @@ debit",top
 9302,the consolation of philosophy,center-bottom
 9303,the continent,top
 9304,the count of monte cristo,center-top
-9305,the country wife,center
+9305,the country wife,top
 9306,the created order,center
 9307,the crown,top
 9308,the dalai lama,center
-9309,the dandy,center-top
-9310,the diary,center-bottom
+9309,the dandy,center
+9310,the diary,top
 9311,the distrito federal,center
 9312,the duke of wellington,bottom
 9313,the duke of york,top
 9314,the el niño effect,center-top
-9315,the fairy-queen,center
-9316,the fens,center-top
+9315,the fairy-queen,center-top
+9316,the fens,top
 9317,the fifth,center-bottom
 9318,the first artificial satellite,bottom
 9319,the first modern olympic games,top
@@ -9351,7 +9351,7 @@ debit",top
 9347,the marquess of salisbury,bottom
 9348,the marriage of figaro,center-bottom
 9349,the merchant of venice,center
-9350,the middle ages,center-top
+9350,the middle ages,bottom
 9351,the middle east,center
 9352,the milanese,center-bottom
 9353,the mismeasure of man,bottom
@@ -9367,7 +9367,7 @@ debit",top
 9363,the olympics,top
 9364,the one that struck the same region,center-bottom
 9365,the origin of species,top
-9366,the philippines,center-top
+9366,the philippines,top
 9367,the picture of dorian gray,center
 9368,the pilgrim's progress,center
 9369,the plague,center-top
@@ -9412,16 +9412,16 @@ debit",top
 9408,the wall street journal,bottom
 9409,the war,center-top
 9410,the war against the greens,top
-9411,the waste land,center-bottom
+9411,the waste land,top
 9412,the west wing,bottom
 9413,the williamites,top
 9414,the world,top
-9415,the x-files,center
+9415,the x-files,bottom
 9416,theaters,center-bottom
 9417,theatre,top
 9418,theatre in the round,top
 9419,theatre royal,top
-9420,"theatre royal, drury lane",bottom
+9420,"theatre royal, drury lane",center
 9421,theatres,center
 9422,theatrical,center-bottom
 9423,theodore roosevelt,top
@@ -9432,7 +9432,7 @@ debit",top
 9428,thermodynamic,bottom
 9429,thermodynamic (absolute) temperature,top
 9430,thermodynamic phase,top
-9431,thermodynamic temperature,center
+9431,thermodynamic temperature,bottom
 9432,thermodynamic variables,top
 9433,thermodynamic work,top
 9434,thermodynamically,center-top
@@ -9440,14 +9440,14 @@ debit",top
 9436,theropod,top
 9437,theropod dinosaurs,top
 9438,theropoda,top
-9439,theropods,center
+9439,theropods,top
 9440,the gambia,bottom
 9441,thiamine,bottom
 9442,third century,center-top
 9443,third servile war,top
 9444,thirteenth,center-bottom
 9445,thirteenth century,top
-9446,thistle,center
+9446,thistle,center-top
 9447,thistle finch,center-bottom
 9448,thomas aquinas,center-bottom
 9449,thomas becket,center-bottom
@@ -9458,14 +9458,14 @@ debit",top
 9454,thomas jefferson,top
 9455,thomas jefferson's,center-bottom
 9456,thomas malthus,center-top
-9457,thomas more,center-top
+9457,thomas more,center
 9458,thomas pynchon,center-top
 9459,thor,top
 9460,thoracic,center-top
 9461,thorax,top
 9462,thorium,center-bottom
 9463,thorium-232,top
-9464,thrasybulus,center-bottom
+9464,thrasybulus,center
 9465,three gorges dam,center
 9466,three interrelated persons,center-bottom
 9467,three laws of robotics,center-top
@@ -9477,14 +9477,14 @@ debit",top
 9473,thrust,top
 9474,thucydidean,center-bottom
 9475,thucydides,center-top
-9476,thulium,bottom
+9476,thulium,center-bottom
 9477,thunderstorm,center-top
 9478,thunderstorms,center-top
 9479,ti,center-bottom
 9480,tiananmen square protests of 1989,center-top
 9481,tibet,top
 9482,tibetan,center-top
-9483,tibetans,center-bottom
+9483,tibetans,center
 9484,tidal,bottom
 9485,tidal activity,center
 9486,tidal forces,bottom
@@ -9502,12 +9502,12 @@ debit",top
 9498,tijuana,bottom
 9499,tiktaalik,top
 9500,tile mosaics,center-bottom
-9501,tim berners-lee,top
+9501,tim berners-lee,bottom
 9502,tim henman,center-bottom
 9503,timbuktu,center-bottom
 9504,time,top
 9505,time is relative,bottom
-9506,time zone,bottom
+9506,time zone,center-bottom
 9507,time zones,center
 9508,time-dependence,top
 9509,timeline,top
@@ -9520,15 +9520,15 @@ debit",top
 9516,tin whistle,center-top
 9517,tin whistles,bottom
 9518,tin(ii) chloride,bottom
-9519,tintin,bottom
-9520,tipitaka,top
+9519,tintin,center-top
+9520,tipitaka,center
 9521,titanic,center-top
 9522,titanium,center-top
 9523,tl,center-bottom
 9524,to kill a mockingbird,bottom
 9525,tobacco,top
 9526,tobacco smoke,top
-9527,tobacco smoking,center-top
+9527,tobacco smoking,top
 9528,tofu,center-top
 9529,together hsbc and sos children,center-top
 9530,togo,bottom
@@ -9553,18 +9553,18 @@ debit",top
 9549,topological,bottom
 9550,topologically,center-top
 9551,topology,top
-9552,tornadic,bottom
+9552,tornadic,center-top
 9553,tornado,top
 9554,tornado season,bottom
 9555,tornadoes,center-top
 9556,tornados,center-top
-9557,toronto,center-top
+9557,toronto,top
 9558,"toronto, ontario",top
 9559,total eclipses of the sun,center
 9560,tottenham hotspur,top
-9561,tottenham hotspur f.c.,center-bottom
+9561,tottenham hotspur f.c.,center-top
 9562,tour de france,top
-9563,tourette syndrome,bottom
+9563,tourette syndrome,center-bottom
 9564,tourism,center
 9565,tourism industry,bottom
 9566,tourist,center
@@ -9586,8 +9586,8 @@ debit",top
 9582,track and field,top
 9583,trade union,top
 9584,trade unionism,center
-9585,trade unionists,center-top
-9586,trade unions,top
+9585,trade unionists,center-bottom
+9586,trade unions,center-bottom
 9587,traditional japanese swords,bottom
 9588,traditional music,top
 9589,traditions,center-top
@@ -9599,16 +9599,16 @@ debit",top
 9595,trans-siberian railway,bottom
 9596,transatlantic,center
 9597,transatlantic slave trade,top
-9598,transcontinental railroad,center-bottom
+9598,transcontinental railroad,bottom
 9599,transcontinental railroads,center-bottom
 9600,transit of venus,bottom
 9601,transport,top
 9602,transportation,top
 9603,transported,top
 9604,trapdoor spiders,center
-9605,treasure island,top
+9605,treasure island,center
 9606,treated,bottom
-9607,treatments,top
+9607,treatments,center
 9608,treaty of union,center-top
 9609,treaty of versailles,top
 9610,tree,top
@@ -9616,7 +9616,7 @@ debit",top
 9612,tree frogs,center
 9613,tree sap,center-bottom
 9614,tree sparrow,center-top
-9615,treecreeper,center
+9615,treecreeper,center-bottom
 9616,treelike,top
 9617,trees,top
 9618,trench,top
@@ -9650,8 +9650,8 @@ debit",top
 9646,tripitaka,center-bottom
 9647,tripiṭaka,center
 9648,triple century in test cricket,center-bottom
-9649,triple star,top
-9650,tripoli,center-top
+9649,triple star,center-top
+9650,tripoli,center-bottom
 9651,triumph of the will,center-bottom
 9652,trojan war,top
 9653,troodon,center-top
@@ -9672,13 +9672,13 @@ debit",top
 9668,tropical storm franklin,top
 9669,tropical storm harvey,center-top
 9670,tropical storm lee,center-top
-9671,tropical storm zeta,bottom
+9671,tropical storm zeta,center
 9672,tropical storms,center-top
 9673,tropical storms ana,top
 9674,tropical storms odette,top
 9675,tropics,top
 9676,trotsky,center-top
-9677,trout,top
+9677,trout,center-bottom
 9678,trouw interview,center-top
 9679,truman,center
 9680,truman committee,top
@@ -9689,8 +9689,8 @@ debit",top
 9685,tsunami,center
 9686,tsunami disaster in south asia,center-top
 9687,tsunamis,center
-9688,tuatara,center
-9689,tube,top
+9688,tuatara,top
+9689,tube,center-top
 9690,tubercular,center-bottom
 9691,tuberculosis,top
 9692,tufted duck,center
@@ -9709,7 +9709,7 @@ debit",top
 9705,turkey,bottom
 9706,turkey child sponsorship,center
 9707,turkeys,center-bottom
-9708,turkish,bottom
+9708,turkish,top
 9709,turkish government,center
 9710,turkish republic of northern cyprus,bottom
 9711,turkish-occupied part of the island,center-bottom
@@ -9723,7 +9723,7 @@ debit",top
 9719,turner,center-top
 9720,turquoise,bottom
 9721,turtle,center-top
-9722,turtles,top
+9722,turtles,center
 9723,turtles & tortoises,center-bottom
 9724,tutsi,top
 9725,tutsis,top
@@ -9734,14 +9734,14 @@ debit",top
 9730,twain,top
 9731,twelfth century,top
 9732,twelfth-century,top
-9733,twentieth,top
+9733,twentieth,center-bottom
 9734,twentieth century,top
 9735,twenty-first century,bottom
 9736,tycho brahe,center-top
 9737,tyler,top
 9738,type ab,center-bottom
 9739,type i,top
-9740,typewriter,bottom
+9740,typewriter,center-bottom
 9741,typhoon saomai,top
 9742,typhoons,center
 9743,tyrannosaurus,bottom
@@ -9761,7 +9761,7 @@ debit",top
 9757,u.s. congressman,top
 9758,u.s. constitution,top
 9759,u.s. declaration of independence,center-top
-9760,u.s. dollar,bottom
+9760,u.s. dollar,center-bottom
 9761,u.s. dollars,top
 9762,u.s. house,center
 9763,u.s. house of representatives,top
@@ -9785,8 +9785,8 @@ debit",top
 9781,u.s.s.r.,top
 9782,u.s. virgin islands,bottom
 9783,u2,bottom
-9784,uae,top
-9785,ubuntu,center-top
+9784,uae,center
+9785,ubuntu,bottom
 9786,uganda,bottom
 9787,uganda child sponsorship,center-bottom
 9788,ugandan,center-bottom
@@ -9808,7 +9808,7 @@ debit",top
 9804,uluru,bottom
 9805,ulysses,top
 9806,ulysses s. grant,top
-9807,umno,center
+9807,umno,center-bottom
 9808,un,top
 9809,uncharged,top
 9810,undemocratic,center-bottom
@@ -9831,10 +9831,10 @@ debit",top
 9827,united kindgom,top
 9828,united kingdom,top
 9829,united kingdom house of lords,center
-9830,united kingdom of great britain and northern ireland,top
+9830,united kingdom of great britain and northern ireland,center
 9831,united kingdom parliament,bottom
 9832,united kingdom's,center-top
-9833,united malays national organisation,top
+9833,united malays national organisation,center-bottom
 9834,united nation's,center-top
 9835,united nations,top
 9836,united states,top
@@ -9853,7 +9853,7 @@ debit",top
 9849,united states senators,center-bottom
 9850,united states space program,top
 9851,united states supreme court,center
-9852,united states virgin islands,top
+9852,united states virgin islands,center
 9853,united states',center
 9854,united arab emirates,bottom
 9855,united kingdom,bottom
@@ -9863,22 +9863,22 @@ debit",top
 9859,universal gravitation,center
 9860,universe,top
 9861,universes,bottom
-9862,universities,top
+9862,universities,center-top
 9863,university,bottom
-9864,university of bristol,center-top
+9864,university of bristol,bottom
 9865,university of cambridge,top
 9866,university of chicago,top
 9867,university of texas,center-top
-9868,university of texas at austin,center-top
+9868,university of texas at austin,top
 9869,unix,top
 9870,unjust,top
 9871,ununhexium,center-bottom
 9872,ununoctium,bottom
-9873,ununpentium,center-top
+9873,ununpentium,top
 9874,ununquadium,center
 9875,ununtrium,center-top
 9876,upper cretaceous,center
-9877,upsilon andromedae,center-bottom
+9877,upsilon andromedae,center-top
 9878,upsilon andromedae a,top
 9879,upsilon andromedae b,center-top
 9880,upsilon andromedae c,center-bottom
@@ -9891,12 +9891,12 @@ debit",top
 9887,urial sheep,center
 9888,uruguay,center
 9889,uruguay child sponsorship,center
-9890,uruguayan,center-top
-9891,us,center
+9890,uruguayan,center
+9891,us,top
 9892,us congress,top
 9893,us dollar,center-bottom
 9894,us dollars,center-bottom
-9895,us open,center-top
+9895,us open,center
 9896,us open tennis championship,center
 9897,us president,center-top
 9898,us senator,top
@@ -9912,7 +9912,7 @@ debit",top
 9908,ussr,center-top
 9909,usual meaning of colour,center-top
 9910,ut,center
-9911,utilitarian,center-top
+9911,utilitarian,center
 9912,utilitarianism,center
 9913,utilitarianist,top
 9914,utilitarians,center-top
@@ -9929,18 +9929,18 @@ debit",top
 9925,v,center-bottom
 9926,valparaíso,center-top
 9927,values,center-top
-9928,vampire,center
+9928,vampire,center-bottom
 9929,vampire bats,top
 9930,vampires,center-bottom
 9931,vampirism,center-bottom
-9932,van dyck,center-top
+9932,van dyck,center
 9933,van gogh,bottom
 9934,van halen,center-bottom
 9935,vanadium,center-top
 9936,vancouver,center
 9937,vanilla,bottom
 9938,vanuatu,center-bottom
-9939,varanasi,center-top
+9939,varanasi,center
 9940,varieties of football,bottom
 9941,variety,center
 9942,vasco da gama,top
@@ -9956,11 +9956,11 @@ debit",top
 9952,vehicles,center-bottom
 9953,velociraptor,center-top
 9954,velocity,top
-9955,velázquez,center
+9955,velázquez,center-top
 9956,venerable bede,top
 9957,venezuela,top
 9958,venezuela child sponsorship,center-bottom
-9959,venezuelan,center-top
+9959,venezuelan,bottom
 9960,venezuelans,center
 9961,venn diagrams,top
 9962,venus,top
@@ -9969,27 +9969,27 @@ debit",top
 9965,versailles peace conference,center-top
 9966,versailles powers,center-top
 9967,versailles talks,center
-9968,versailles treaty,bottom
+9968,versailles treaty,center-bottom
 9969,vertebrata,center-bottom
-9970,vertebrate,top
+9970,vertebrate,center-top
 9971,vertebrate animals,bottom
 9972,vertebrate vision,center-bottom
 9973,vertebrates,top
 9974,vessel,center-top
-9975,vesta,center-bottom
+9975,vesta,center-top
 9976,vestigial,center-top
 9977,vestigial structure,center-top
 9978,vgn,center-bottom
 9979,victor hugo,center-bottom
 9980,victoria,center-bottom
 9981,victoria cross,center
-9982,victoria crosses,top
+9982,victoria crosses,center-top
 9983,victoria i,center-top
 9984,victorian,center-top
 9985,victory gin,top
 9986,victory in badr,center-top
 9987,video,center-bottom
-9988,video game,top
+9988,video game,center
 9989,video games,bottom
 9990,vienna,top
 9991,viennese,center
@@ -10030,7 +10030,7 @@ debit",top
 10026,vitamin defiencies,center-top
 10027,vitamins,bottom
 10028,vitus bering,top
-10029,vivaldi,center-bottom
+10029,vivaldi,center-top
 10030,vivien leigh,center-top
 10031,vladimir ilyich lenin,top
 10032,vladimir lenin,top
@@ -10039,9 +10039,9 @@ debit",top
 10035,volcanic,top
 10036,volcanic activity,center-bottom
 10037,volcanic eruption,top
-10038,volcanic eruptions,center
+10038,volcanic eruptions,top
 10039,volcanic pipe,top
-10040,volcanic pipes,top
+10040,volcanic pipes,center-top
 10041,volcanically,center-top
 10042,volcanism,top
 10043,volcano,top
@@ -10060,10 +10060,10 @@ debit",top
 10056,volunteers,center-bottom
 10057,von braun,center-bottom
 10058,von braun's,center-top
-10059,von neumann,bottom
+10059,von neumann,top
 10060,vote,top
 10061,voted,top
-10062,voting,center-top
+10062,voting,center-bottom
 10063,vowel,center
 10064,vowels,top
 10065,vrba-weztler report,center
@@ -10085,7 +10085,7 @@ debit",top
 10081,wagnerian,center
 10082,waheguru,bottom
 10083,wake,center
-10084,wake island,top
+10084,wake island,center-bottom
 10085,wake islands,top
 10086,wales,top
 10087,walk on land,top
@@ -10099,7 +10099,7 @@ debit",top
 10095,wallisians,bottom
 10096,wallis and futuna,bottom
 10097,walrus,center-bottom
-10098,walruses,center-bottom
+10098,walruses,bottom
 10099,walt disney,bottom
 10100,walt disney's,top
 10101,walt whitman,bottom
@@ -10124,7 +10124,7 @@ debit",top
 10120,wars of the roses,top
 10121,warsaw,top
 10122,wartime,top
-10123,wasabi,center-top
+10123,wasabi,bottom
 10124,waseem.sadique@keen-phillips.co.uk,center-bottom
 10125,washington,top
 10126,washington cricket league,bottom
@@ -10132,18 +10132,18 @@ debit",top
 10128,washington metro,bottom
 10129,washington's,center-top
 10130,"washington, d.c.",bottom
-10131,wasp,center
+10131,wasp,bottom
 10132,wasps,center-bottom
-10133,waste management,top
+10133,waste management,center-bottom
 10134,watch,center
 10135,watches,center-top
 10136,watchmaking,center
-10137,watchmen,center-bottom
+10137,watchmen,bottom
 10138,water,top
 10139,water buffalo,center-top
 10140,water chestnut,center-top
 10141,water polo,bottom
-10142,water purification,center-top
+10142,water purification,center-bottom
 10143,water resources,center
 10144,water shortages,center
 10145,water supply,bottom
@@ -10154,7 +10154,7 @@ debit",top
 10150,watercolour,top
 10151,watercolourists,center-bottom
 10152,watling street,center-top
-10153,watson,bottom
+10153,watson,center-bottom
 10154,watt,center-top
 10155,wave,center-top
 10156,wave equation,center-bottom
@@ -10173,10 +10173,10 @@ debit",top
 10169,weather,top
 10170,weather forecast,top
 10171,weather forecasters,center-top
-10172,weather forecasting,bottom
+10172,weather forecasting,top
 10173,web,top
 10174,weber,center-bottom
-10175,weberian,center-bottom
+10175,weberian,top
 10176,weed,center-top
 10177,weeds,center
 10178,weight training,center
@@ -10186,10 +10186,10 @@ debit",top
 10182,weisser (or white) riesling,bottom
 10183,weld,top
 10184,weldable,center
-10185,welded,top
+10185,welded,center-top
 10186,welding,top
 10187,welds,bottom
-10188,wellington,top
+10188,wellington,center-bottom
 10189,wellington's,center
 10190,welsh,top
 10191,welsh law,top
@@ -10202,14 +10202,14 @@ debit",top
 10198,west bank,top
 10199,west flemish,center-bottom
 10200,west germany,top
-10201,west saxons,center-bottom
+10201,west saxons,center
 10202,west virginia,center
 10203,west-saxon,top
 10204,western,top
 10205,western emperor,center
 10206,western empire,top
 10207,western front,top
-10208,western half of the empire,bottom
+10208,western half of the empire,top
 10209,western painting,center-top
 10210,western roman empire,top
 10211,western roman empires,center-top
@@ -10218,13 +10218,13 @@ debit",top
 10214,westminster,center-top
 10215,westminster abbey,center-bottom
 10216,westminster model,top
-10217,westminster parliament,top
+10217,westminster parliament,center-top
 10218,westminster system,center
 10219,westminster systems,top
 10220,westminster-style,center-top
-10221,weston-super-mare,center-bottom
+10221,weston-super-mare,center-top
 10222,weymouth,center
-10223,whale,bottom
+10223,whale,top
 10224,whale shark,top
 10225,whale sharks,top
 10226,whale song,top
@@ -10240,7 +10240,7 @@ debit",top
 10236,whipworms,center
 10237,whirling disease,center-bottom
 10238,white cliffs,top
-10239,white cliffs of dover,top
+10239,white cliffs of dover,bottom
 10240,white's tree frog,center-top
 10241,white-tailed eagle,center-top
 10242,whitmanesque,bottom
@@ -10256,7 +10256,7 @@ debit",top
 10252,wikimedia foundation,top
 10253,wikinews,top
 10254,wikipedia,top
-10255,wikisource,top
+10255,wikisource,center-top
 10256,wikispecies,top
 10257,wild cat,center-bottom
 10258,wild cats,center-bottom
@@ -10264,7 +10264,7 @@ debit",top
 10260,willem barents,top
 10261,william,top
 10262,william and mary,top
-10263,william butler yeats,center-bottom
+10263,william butler yeats,center-top
 10264,william ewart gladstone,center
 10265,william gilbert,top
 10266,william gladstone,center-bottom
@@ -10282,8 +10282,8 @@ debit",top
 10278,william iii's,center-top
 10279,"william iii, prince of orange",center-top
 10280,william iv,center-top
-10281,william mahone,top
-10282,william mckinley,top
+10281,william mahone,center-top
+10282,william mckinley,center-top
 10283,william n. page,center
 10284,william nelson page,top
 10285,william of normandy,top
@@ -10299,7 +10299,7 @@ debit",top
 10295,william the silent,center-top
 10296,william thomson,bottom
 10297,"william thomson, 1st baron kelvin",top
-10298,william wilberforce,center-bottom
+10298,william wilberforce,center-top
 10299,william's,center-top
 10300,william's and mary's,bottom
 10301,"william, duke of clarence",top
@@ -10317,16 +10317,16 @@ debit",top
 10313,windows xp,top
 10314,windows xp professional,top
 10315,winds,top
-10316,windsor,top
+10316,windsor,center
 10317,windsor castle,bottom
 10318,windy,center-top
 10319,wine,center-top
 10320,wine making,center
 10321,wines,top
-10322,winfield scott hancock,bottom
+10322,winfield scott hancock,center
 10323,winston churchill,center-bottom
 10324,winter,center-top
-10325,winters,center-top
+10325,winters,center
 10326,wintertime,center-top
 10327,witold pilecki,center
 10328,wittgenstein,center
@@ -10336,7 +10336,7 @@ debit",top
 10332,wolverine,top
 10333,wolverines,center-bottom
 10334,wolves,top
-10335,wombat,center-bottom
+10335,wombat,center
 10336,wombats,center-bottom
 10337,women,center
 10338,women and girls' education,center-top
@@ -10347,16 +10347,16 @@ debit",top
 10343,wood fuel,center
 10344,wood pigeon,bottom
 10345,wooded,top
-10346,wooden,bottom
+10346,wooden,center-bottom
 10347,woodier,bottom
 10348,woodpecker,top
 10349,woodpeckers,center
-10350,woodrow wilson,bottom
+10350,woodrow wilson,top
 10351,woodrow wilson's,center-top
 10352,woods,bottom
-10353,woodworking,top
+10353,woodworking,bottom
 10354,woody,top
-10355,word,center-top
+10355,word,center
 10356,work,top
 10357,work in india,center-bottom
 10358,workchoices,center-bottom
@@ -10383,11 +10383,11 @@ debit",top
 10379,world heritage sites,center-bottom
 10380,world history,top
 10381,world map of 1507,center
-10382,world orphan week,center
+10382,world orphan week,top
 10383,world scouting movement,top
 10384,world trade organization,top
 10385,world travel,top
-10386,world war,center-top
+10386,world war,top
 10387,world war 1,center-bottom
 10388,world war 2,center-top
 10389,world war i,top
@@ -10408,30 +10408,30 @@ debit",top
 10404,wow wristband,top
 10405,wow- what a week!,center
 10406,wren,center-top
-10407,wrench,center-bottom
+10407,wrench,center
 10408,wrench (uk: spanner),top
 10409,wrens,center
-10410,wrestling,bottom
-10411,wright brothers,center
+10410,wrestling,top
+10411,wright brothers,top
 10412,wrist watch,top
 10413,wristwatches,center-top
 10414,write,top
 10415,writers,bottom
 10416,writing,top
-10417,writing system,top
+10417,writing system,bottom
 10418,writings,center
 10419,written,center-top
 10420,wta tour championships,center
 10421,wto,center
 10422,ww2,center-top
-10423,wwi,center-top
+10423,wwi,top
 10424,wwii,center-top
 10425,www.kimbustan.com,center
 10426,www.soschildrensvillages.org.uk/sos-childrens-charity/every-penny-counts/annual-review-2005.pdf,center-bottom
 10427,x window system,top
 10428,x-files,top
-10429,x11,center-bottom
-10430,xe,bottom
+10429,x11,bottom
+10430,xe,center-bottom
 10431,xenon,center-top
 10432,xivth dalai lama,bottom
 10433,xix century,center-bottom
@@ -10444,7 +10444,7 @@ debit",top
 10440,yak,center-top
 10441,yaks,top
 10442,yamoussoukro,center-top
-10443,yangtze,top
+10443,yangtze,center
 10444,yangtze river,top
 10445,yarralumla,center-top
 10446,yeast,top
@@ -10460,7 +10460,7 @@ debit",top
 10456,yemen,bottom
 10457,yemeni,top
 10458,yemenite,center-top
-10459,yen,center-bottom
+10459,yen,center
 10460,yes minister,top
 10461,"yes, prime minister",top
 10462,yeti,bottom
@@ -10479,7 +10479,7 @@ debit",top
 10475,yugoslavian,center-bottom
 10476,yugoslavians,bottom
 10477,yugoslavs,center
-10478,yuri gagarin,center-bottom
+10478,yuri gagarin,center-top
 10479,yuri knorosov,center-bottom
 10480,zachary taylor,center-bottom
 10481,zambezi,center-top
@@ -10504,12 +10504,12 @@ debit",top
 10500,zionism,center-bottom
 10501,zionist,top
 10502,zirconium,top
-10503,zn,top
+10503,zn,center-bottom
 10504,zoroaster,top
 10505,zoroaster's,top
 10506,zoroastrian,center
 10507,zr,bottom
-10508,zuid-gelders,center
+10508,zuid-gelders,center-top
 10509,zulu,center-top
 10510,zulus,top
 10511,zx spectrum,bottom
@@ -10523,13 +10523,13 @@ debit",top
 10519,åland islands,bottom
 10520,édouard manet,center-bottom
 10521,éire,top
-10522,óengus mac fergusa,center
+10522,óengus mac fergusa,center-bottom
 10523,đuka mandić,top
 10524,π,center-top
 10525,υ andromedae,center-top
 10526,ω-3 fatty acid,center-top
 10527,"الله, allāh",top
-10528,‘6 villages for 2006’,center-bottom
+10528,‘6 villages for 2006’,center-top
 10529,“6 villages for 2006”,center
 10530,€,center-bottom
 10531,€25 million,top
